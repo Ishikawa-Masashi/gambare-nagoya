@@ -1,0 +1,103 @@
+{
+    "meta": {
+        "image": "texture.png"
+    },
+    "frames": {
+        "windmaker/propeller_2.png": {
+            "frame": {
+                "x": 137,
+                "w": 26,
+                "y": 0,
+                "h": 282
+            }
+        },
+        "windmaker/shadow.png": {
+            "frame": {
+                "x": 0,
+                "w": 178,
+                "y": 287,
+                "h": 196
+            }
+        },
+        "windmaker/wave_1.png": {
+            "frame": {
+                "x": 372,
+                "w": 54,
+                "y": 0,
+                "h": 115
+            }
+        },
+        "windmaker/lamp_off.png": {
+            "frame": {
+                "x": 405,
+                "w": 31,
+                "y": 117,
+                "h": 46
+            }
+        },
+        "windmaker/wave_2.png": {
+            "frame": {
+                "x": 428,
+                "w": 64,
+                "y": 0,
+                "h": 113
+            }
+        },
+        "windmaker/lamp_on.png": {
+            "frame": {
+                "x": 372,
+                "w": 31,
+                "y": 117,
+                "h": 46
+            }
+        },
+        "windmaker/segment.png": {
+            "frame": {
+                "x": 309,
+                "w": 61,
+                "y": 0,
+                "h": 197
+            }
+        },
+        "windmaker/fan.png": {
+            "frame": {
+                "x": 0,
+                "w": 107,
+                "y": 0,
+                "h": 285
+            }
+        },
+        "windmaker/propeller_1.png": {
+            "frame": {
+                "x": 165,
+                "w": 26,
+                "y": 0,
+                "h": 282
+            }
+        },
+        "windmaker/base.png": {
+            "frame": {
+                "x": 193,
+                "w": 114,
+                "y": 0,
+                "h": 277
+            }
+        },
+        "windmaker/propeller_3.png": {
+            "frame": {
+                "x": 109,
+                "w": 26,
+                "y": 0,
+                "h": 282
+            }
+        },
+        "windmaker/wave_3.png": {
+            "frame": {
+                "x": 180,
+                "w": 69,
+                "y": 287,
+                "h": 112
+            }
+        }
+    }
+}

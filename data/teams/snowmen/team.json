@@ -1,0 +1,794 @@
+{
+    "rating": 1740,
+    "code": "SNW",
+    "thumbnail": "thumbnail.png",
+    "flag": "flag.png",
+    "flag_thumbnail": "flag_thumbnail.png",
+    "continent": "europe",
+    "kits": {
+        "goalkeeper": {
+            "arm_left_sleeve": {
+                "name": "goalkeeper/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "goalkeeper/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "goalkeeper/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "goalkeeper/shirt_front.png",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52,
+                "color": "ffffffff"
+            },
+            "leg_left_shoe": {
+                "name": "goalkeeper/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "goalkeeper/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "goalkeeper/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "goalkeeper/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "goalkeeper/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "goalkeeper/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "000000ff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "goalkeeper/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            },
+            "hand_left_glove": {
+                "name": "goalkeeper/hand_left.png",
+                "x": 20.29,
+                "y": -0.1,
+                "rotation": 44.65,
+                "width": 26,
+                "height": 24
+            },
+            "hand_right_glove": {
+                "name": "goalkeeper/hand_right.png",
+                "x": 18.57,
+                "y": -0.32,
+                "rotation": 74.29,
+                "width": 26,
+                "height": 25
+            }
+        },
+        "home": {
+            "arm_left_sleeve": {
+                "name": "home/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "home/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "home/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "home/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "home/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "home/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "home/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "home/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "home/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "home/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "000000ff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "home/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        },
+        "away": {
+            "arm_left_sleeve": {
+                "name": "away/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "away/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "away/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "away/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "away/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "away/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "away/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "away/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "away/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "away/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "b8dfffff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "away/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        }
+    },
+    "id": "snowmen",
+    "kitColors": {
+        "home": "d6d5de",
+        "away": "287acd",
+        "goalkeeper": "8e8e8e"
+    },
+    "players": [
+        {
+            "race": "snowman",
+            "role": "G",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/45.png",
+                    "color": "000000ff",
+                    "x": 51.749260131526206,
+                    "y": -7.032711139945189,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_05.png",
+                    "x": 37.80814754762258,
+                    "y": -7.7134239812500045,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 39.80700793654997,
+                    "y": -8.217960546403637,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 37.81268539978426,
+                    "y": -5.71342912928219,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_05.png",
+                    "color": "ffffffff",
+                    "x": 84.03054298554417,
+                    "y": 13.42282176403419,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_05_back.png",
+                    "color": "ffffffff",
+                    "x": 88.02372591123729,
+                    "y": 10.413753781759109,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 9.228142399590393,
+                    "y": -6.887961833411684,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 9.725872186501508,
+                    "y": -7.889093722436011,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 9.229276862630813,
+                    "y": -6.38796312041973,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_05.png",
+                    "color": "ffffffff",
+                    "x": 25.08297661935347,
+                    "y": -23.715653010081404,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "snowman",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/41.png",
+                    "color": "241913ff",
+                    "x": 54.75719365076087,
+                    "y": -3.539526927244035,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_01.png",
+                    "x": 43.313805705736165,
+                    "y": -5.225909509734855,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 42.811538066663374,
+                    "y": -6.224772472678344,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 43.31494016877659,
+                    "y": -4.7259107967429035,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_01.png",
+                    "color": "6b9affff",
+                    "x": 91.01918033702734,
+                    "y": 8.406952151548772,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_01_back.png",
+                    "color": "6b9affff",
+                    "x": 88.51691784598673,
+                    "y": 7.412627040766966,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 8.224741584485226,
+                    "y": -8.385689046306705,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 6.729283297671046,
+                    "y": -6.382290805217631,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 8.225876047525647,
+                    "y": -7.885690333314751,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_01.png",
+                    "color": "ffffffff",
+                    "x": 26.56482134968261,
+                    "y": -31.719035807073922,
+                    "rotation": -90.13
+                },
+                "face_accessory_1": {
+                    "name": "../../player/accessories/face/pipe_01.png",
+                    "color": "ffffffff",
+                    "x": -0.8784713860481519,
+                    "y": -53.865151593846925,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "snowman",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/43.png",
+                    "color": "000000ff",
+                    "x": 49.74813081651797,
+                    "y": -7.528172000775463,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_03.png",
+                    "x": 39.808142399590395,
+                    "y": -7.717961833411684,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 38.807010510566066,
+                    "y": -8.215691620322799,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 38.31381857581663,
+                    "y": -5.214564879330656,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_03.png",
+                    "color": "ffffffff",
+                    "x": 77.05551919054606,
+                    "y": 24.43867593242305,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_03_back.png",
+                    "color": "ffffffff",
+                    "x": 77.06346043182901,
+                    "y": 27.93866692336672,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 8.72700922355802,
+                    "y": -7.386826083363217,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 9.223604547428714,
+                    "y": -8.8879566853795,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 7.227013084582159,
+                    "y": -7.383422694241958,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_03.png",
+                    "color": "ffffffff",
+                    "x": 24.09318936073334,
+                    "y": -19.21339566707298,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "snowman",
+            "role": "M",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/42.png",
+                    "color": "000000ff",
+                    "x": 52.24812438147774,
+                    "y": -7.5338443159775625,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_02.png",
+                    "x": 41.31040746464709,
+                    "y": -6.721367796549037,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 40.8081398255743,
+                    "y": -7.720230759492525,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 42.31380827975226,
+                    "y": -5.223640583654015,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_02.png",
+                    "color": "ffffffff",
+                    "x": 73.49540165846014,
+                    "y": -2.053314614867552,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_02_back.png",
+                    "color": "ffffffff",
+                    "x": 77.97837312978142,
+                    "y": -9.563505477110635,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 6.223612269476993,
+                    "y": -8.88114990713698,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 7.729280723654953,
+                    "y": -6.38455973129847,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 6.225881195557832,
+                    "y": -7.881152481153071,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_02.png",
+                    "color": "ffffffff",
+                    "x": 25.08751447151515,
+                    "y": -21.71565815811359,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "snowman",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/44.png",
+                    "color": "291e18ff",
+                    "x": 45.73906540825898,
+                    "y": -11.51908600038773,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_04.png",
+                    "x": 34.80361741750917,
+                    "y": -9.706612054975299,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 35.80361484349308,
+                    "y": -9.708880981056138,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 37.31155222375189,
+                    "y": -6.2122933792337225,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_04.png",
+                    "color": "ffffffff",
+                    "x": 51.48071026728872,
+                    "y": -8.50338150998447,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_04_back.png",
+                    "color": "ffffffff",
+                    "x": 49.985251980474544,
+                    "y": -6.499983268895396,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 7.721339482372013,
+                    "y": -9.884550722242146,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 8.72133690835592,
+                    "y": -9.886819648322984,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 7.22247523242048,
+                    "y": -9.383417546209772,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_04.png",
+                    "color": "ffffffff",
+                    "x": 22.5829830543937,
+                    "y": -23.709980694879306,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "snowman",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/27.png",
+                    "color": "382815ff",
+                    "x": 50.228843657822786,
+                    "y": -16.029284584679093,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/snowman_05.png",
+                    "x": 37.28999742598391,
+                    "y": -15.712268926080842,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 37.28886296294348,
+                    "y": -16.212267639072795,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/snowman_01.png",
+                    "x": 39.791125453984094,
+                    "y": -15.217942528290987,
+                    "rotation": -90.13
+                },
+                "hair_front": {
+                    "name": "../../player/hair/snowman_06.png",
+                    "color": "d41313ff",
+                    "x": 80.02374650336603,
+                    "y": 10.431905190405827,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/snowman_06_back.png",
+                    "color": "d41313ff",
+                    "x": 79.02715246650338,
+                    "y": 11.934170255462528,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/snowman_01.png",
+                    "x": 8.219069269283128,
+                    "y": -10.885682611266471,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/snowman_01.png",
+                    "x": 8.71679905619424,
+                    "y": -11.8868145002908,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/snowman_01.png",
+                    "x": 7.715667167169913,
+                    "y": -12.384544287201912,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/snowman_06.png",
+                    "color": "ffffffff",
+                    "x": 25.553479293294505,
+                    "y": -36.71675401091262,
+                    "rotation": -90.13
+                }
+            }
+        }
+    ]
+}

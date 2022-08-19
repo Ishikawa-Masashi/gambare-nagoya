@@ -1,0 +1,2034 @@
+{
+    "tournament.groupName": {
+        "message": "Gruppe {LETTER}",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague.accusative": {
+        "message": "Pan Amerikanische Liga",
+        "description": "Accusative case"
+    },
+    "play.practice": {
+        "message": "Training",
+        "description": ""
+    },
+    "achievements.guideName": {
+        "message": "Bücherwurm",
+        "description": "Achievement name."
+    },
+    "summary.title": {
+        "message": "{RED_SCORE} : {BLUE_SCORE}",
+        "description": ""
+    },
+    "hint.23": {
+        "message": "Gespielte Spiele geben dir <i class=\"pink\">Berühmtheit</i> Punkte, so dass du in Rangliste steigst.",
+        "description": ""
+    },
+    "multiplayer.versus": {
+        "message": "Wettstreit",
+        "description": "Button label"
+    },
+    "leagues.bronze.genitive": {
+        "message": "Bronzeliga",
+        "description": "League name in genitive case"
+    },
+    "challenges.completed": {
+        "message": "Aufgabe vollendet",
+        "description": ""
+    },
+    "play.oceaniaCup": {
+        "message": "Ozeanien-Cup",
+        "description": ""
+    },
+    "audio.effectsVolume": {
+        "message": "Lautstärke der Effekte",
+        "description": ""
+    },
+    "menu.ok": {
+        "message": "OK",
+        "description": "Button label for accepting changes"
+    },
+    "practice.title1": {
+        "message": "Abwehr",
+        "description": "Information about current practice mode."
+    },
+    "hint.26": {
+        "message": "Übung macht den Meister.",
+        "description": ""
+    },
+    "achievements.slideTackleName": {
+        "message": "Raufbold",
+        "description": "Achievement name."
+    },
+    "tournament.custom.title": {
+        "message": "Eigenes Turnier",
+        "description": "Custom tournament screen heading."
+    },
+    "play.panArabLeague": {
+        "message": "Pan Arabische Liga",
+        "description": ""
+    },
+    "challenges.teleportScore": {
+        "message": "Erziele ein Tor durch Teleport mit Super -Zug",
+        "description": ""
+    },
+    "video.dirt": {
+        "message": "Rasenabnutzung",
+        "description": "Visual effect."
+    },
+    "leaderboards.friends": {
+        "message": "Freunde",
+        "description": "Button label."
+    },
+    "hint.21": {
+        "message": "Torwart ist gegen Grätschen wiederstandsfähig, wenn er nicht mit Ball läuft.",
+        "description": ""
+    },
+    "play.indoorCup": {
+        "message": "Indoor-Cup",
+        "description": ""
+    },
+    "table.goalsAgainst": {
+        "message": "A",
+        "description": "Short form of the words 'Goals Against'"
+    },
+    "multiplayer.friendStatus.offline": {
+        "message": "Offline",
+        "description": "Section title"
+    },
+    "tournament.custom.eliminationsWithGroups.title": {
+        "message": "Gruppenphase",
+        "description": "Custom tournament eliminations with group stage type screen heading."
+    },
+    "challenges.magnetOnSupershotName": {
+        "message": "Super-Magnetismus",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerDefense": {
+        "message": "Lasse keine Tore vom Eckstoß zu",
+        "description": ""
+    },
+    "multiplayer.coop": {
+        "message": "Zusammenarbeit",
+        "description": "Button label"
+    },
+    "leaderboards.title": {
+        "message": "Führungstabellen",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlidesName": {
+        "message": "Eine Glückssträhne",
+        "description": "Match challenge name."
+    },
+    "hint.16": {
+        "message": "<img src=\"images/powerups/tesla/icon.png\" width=\"32\" height=\"32\"> Tesla folgt dem Spieler mit Ball und trifft mit Stromschlägen die Spielgegner, die sich in der Nähe befinden. <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span>. ",
+        "description": ""
+    },
+    "challenges.golzagolName": {
+        "message": "Auge ums Auge",
+        "description": "Match challenge name."
+    },
+    "hint.9": {
+        "message": "Um den Ball beim präzisen Schuss anzudrehen halte <span class=\"key auto-wide auto-update\" data-action=\"swerveUp\"></span> oder <span class=\"key auto-wide auto-update\" data-action=\"swerveDown\"></span>.",
+        "description": ""
+    },
+    "achievements.goldLeagueName": {
+        "message": "Goldliga",
+        "description": "Achievement name."
+    },
+    "play.friendly": {
+        "message": "Freundschaftsspiel",
+        "description": ""
+    },
+    "hint.2": {
+        "message": "Je länger die Lob Pass-Taste gedrückt wird <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>, desto länger der Pass. ",
+        "description": ""
+    },
+    "video.depthOfField": {
+        "message": "Schärfentiefe",
+        "description": "Visual effect."
+    },
+    "leagues.table.name": {
+        "message": "Spieler",
+        "description": ""
+    },
+    "challenges.pitchAreaScoreName": {
+        "message": "Weitschuss",
+        "description": "Match challenge name."
+    },
+    "match.selectTeam.playerLeave": {
+        "message": "{KEY} Verlassen",
+        "description": ""
+    },
+    "multiplayer.gameList.players": {
+        "message": "Spieler",
+        "description": "Table header"
+    },
+    "summary.status": {
+        "message": "Status",
+        "description": ""
+    },
+    "video.particles": {
+        "message": "Teilchen",
+        "description": "Visual effect."
+    },
+    "achievements.firstSecondsGoalName": {
+        "message": " Kick-and-Rush Taktik",
+        "description": "Achievement name."
+    },
+    "challenges.dribbleTimeName": {
+        "message": "Wahnsinniges Dribbeln",
+        "description": "Match challenge name."
+    },
+    "audio.musicVolume": {
+        "message": "Lautstärke der Musik",
+        "description": ""
+    },
+    "play.southAmericaCup": {
+        "message": "Südamerika-Cup",
+        "description": ""
+    },
+    "achievements.unlockedTitle": {
+        "message": "Leistung entriegelt!",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.close": {
+        "message": "Schließe die Stelle",
+        "description": "Button label"
+    },
+    "actions.walk": {
+        "message": "Gehen (halte)",
+        "description": "Name of action for walking."
+    },
+    "play.pacificLeague.accusative": {
+        "message": "Pacific Liga",
+        "description": "Accusative case"
+    },
+    "challenges.slideHitName": {
+        "message": "Bowling",
+        "description": "Match challenge name."
+    },
+    "challenges.penaltyAreaScore": {
+        "message": "Schieße {MIN_GOALS} Tore vom Strafraum des Gegners",
+        "description": ""
+    },
+    "actions.sprint": {
+        "message": "Sprinten (halte)",
+        "description": "Name of action for running faster."
+    },
+    "tournament.custom.teams.title": {
+        "message": "Passe Mannschaften an",
+        "description": "Screen heading."
+    },
+    "hint.4": {
+        "message": "Halte<span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> um schneller zu laufen - es funktioniert nur ohne den Ball.",
+        "description": ""
+    },
+    "gameplay.title": {
+        "message": "Spiel",
+        "description": "Gameplay options menu title."
+    },
+    "challenges.noSupermoves": {
+        "message": "Gewinne ohne Super-Schüsse zu benutzen",
+        "description": ""
+    },
+    "play.indoorCup.accusative": {
+        "message": "Indoor-Cup",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobbyStatus2": {
+        "message": "Zusammenfassend",
+        "description": ""
+    },
+    "multiplayer.quickMatch.info": {
+        "message": "Spiele ein schnelles Spiel gegen Spieler aus aller Welt",
+        "description": ""
+    },
+    "achievements.topScorerName": {
+        "message": "Torkönig",
+        "description": "Achievement name."
+    },
+    "challenges.reverseShot": {
+        "message": "Schieße ein Tor mit einem präzisem Schuss , indem du in die entgegengesetzte Richtung - zum eigenen Tor - läufst",
+        "description": ""
+    },
+    "play.northAmericaCup.accusative": {
+        "message": "Nordamerikanischer-Cup",
+        "description": "Accusative case"
+    },
+    "tournament.end": {
+        "message": "Beende das Turnier",
+        "description": "Button label."
+    },
+    "legendUnlocked": {
+        "message": "Gratulation!<br>du hast die nächste Schwierigkeitsstufe erreicht:<i class=\"platinum\">Legende</i>",
+        "description": ""
+    },
+    "play.microstatesCup.accusative": {
+        "message": "Mikroländer-Cup",
+        "description": "Accusative case"
+    },
+    "multiplayer.players": {
+        "message": "Spieler",
+        "description": "Section title"
+    },
+    "video.brightness": {
+        "message": "Helligkeit",
+        "description": ""
+    },
+    "menu.saveMessage": {
+        "message": "Möchtest du die Einstellungen speichern?",
+        "description": ""
+    },
+    "help.title": {
+        "message": "Spielführer",
+        "description": ""
+    },
+    "leagues.table.fame": {
+        "message": "Ruhm",
+        "description": ""
+    },
+    "challenges.noPreciseShot": {
+        "message": "Gewinne ohne präzise Schüsse",
+        "description": ""
+    },
+    "actions.passModifier": {
+        "message": "Umschalttaste für einfache/assistierte Pässe (halte)",
+        "description": "Name of action for changing between pass modes."
+    },
+    "controls.gamepad2": {
+        "message": "<b class=\"user-icon user-2 connected online\"></b> Controller 2",
+        "description": "Button label."
+    },
+    "multiplayer.friendStatus.online": {
+        "message": "Online",
+        "description": "Section title"
+    },
+    "actions.togglePlayer": {
+        "message": "Spielerwechsel",
+        "description": "Name of action for changing in-game characters."
+    },
+    "menu.enabled": {
+        "message": "Eingeschaltet",
+        "description": "Button label."
+    },
+    "achievements.friendlyFire": {
+        "message": "Treffe oder grätsche einen Mannschaftskameraden",
+        "description": ""
+    },
+    "practice.title3": {
+        "message": "Präziser Schuss",
+        "description": "Information about current practice mode."
+    },
+    "challenges.slideIntercept": {
+        "message": "Fange {MIN_INTERCEPTIONS} Pässe mit Grätschen in einem Spiel ab",
+        "description": ""
+    },
+    "multiplayer.join.info": {
+        "message": "Finde ein für dich geeignetes Spiel",
+        "description": "Button label"
+    },
+    "friendly.drawsOn": {
+        "message": "Unentschieden möglich",
+        "description": "When a draw is allowed in a match."
+    },
+    "challenges.teleportKnockDownName": {
+        "message": "Schlag durch Teleport",
+        "description": "Match challenge name."
+    },
+    "achievements.freezer": {
+        "message": "Friere 3 Spieler gleichzeitig ein",
+        "description": ""
+    },
+    "controls.passingAssistedOnly": {
+        "message": "Nur assistiert",
+        "description": ""
+    },
+    "menu.selectTeam": {
+        "message": "Mannschaftsauswahl",
+        "description": ""
+    },
+    "multiplayer.settings": {
+        "message": "Einstellungen",
+        "description": "Section title"
+    },
+    "unlock": {
+        "message": "Gewinn<br><i>{MODE}</i><br>der <i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> schwierig",
+        "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+    },
+    "challenges.hatTrickName": {
+        "message": "Hattrick",
+        "description": "Match challenge name."
+    },
+    "summary.shots": {
+        "message": "Schüsse",
+        "description": ""
+    },
+    "achievements.supermovesMasterName": {
+        "message": "Ein Trickster",
+        "description": "Achievement name."
+    },
+    "actions.down2": {
+        "message": "Alt. unten",
+        "description": "Name of action for moving in-game character down."
+    },
+    "practice.aiming": {
+        "message": "Zielen",
+        "description": ""
+    },
+    "distance": {
+        "message": "{METERS}m",
+        "description": "Distance covered in meters."
+    },
+    "challenges.teleportKnockDown": {
+        "message": "Schlage den Gegner nieder durch Teleport",
+        "description": ""
+    },
+    "play.commonwealthCup.accusative": {
+        "message": "Interkontinentaler-Cup",
+        "description": "Accusative case"
+    },
+    "controls.keyboard": {
+        "message": "<b class=\"user-icon user-0 connected online\"></b> Tastatur",
+        "description": "Button label."
+    },
+    "controls.passingAssistedPreferred": {
+        "message": "Assistiert bevorzugt",
+        "description": ""
+    },
+    "challenges.cleanGroundPassesName": {
+        "message": "Tiki-Taka flach",
+        "description": "Match challenge name."
+    },
+    "achievements.guide": {
+        "message": "Lese den gesamten Spielführer",
+        "description": ""
+    },
+    "leaderboards.global": {
+        "message": "Global",
+        "description": "Button label."
+    },
+    "hintPrefix": {
+        "message": "Hinweis:",
+        "description": ""
+    },
+    "multiplayer.hostDisconnected": {
+        "message": "Verbindung mit Spielgastgeber wurde unterbrochen",
+        "description": ""
+    },
+    "hint.5": {
+        "message": "Benutze <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> um direkt zu schießen, von der ersten Ballberührung, präzise oder aus der Luft.",
+        "description": ""
+    },
+    "challenges.everyoneScores": {
+        "message": "Schieße Tore mit jedem Feldspieler im Spiel.",
+        "description": ""
+    },
+    "menu.off": {
+        "message": "Aus",
+        "description": "When something is disabled"
+    },
+    "play.asiaCup": {
+        "message": "Asien-Cup",
+        "description": ""
+    },
+    "actions.header": {
+        "message": "Schuss aus der Luft (halte unter dem Ball)",
+        "description": "Name of action headers and bicycle kicks."
+    },
+    "menu.quitMessage": {
+        "message": "Möchtest du wirklich aufhören?",
+        "description": ""
+    },
+    "challenges.hatTrick": {
+        "message": "Erziele einen Hattrick",
+        "description": ""
+    },
+    "multiplayer.invite": {
+        "message": "Lade ein",
+        "description": "Button label"
+    },
+    "achievements.goldLeague": {
+        "message": "Erreiche <i class=\"gold\">Goldliga</i> / Erlange <i class=\"pink\">{FAME}</i> Ruhm",
+        "description": ""
+    },
+    "play.africaCup": {
+        "message": "Afrika-Cup",
+        "description": ""
+    },
+    "challenges.progress.count": {
+        "message": "{VALUE}/{MIN}",
+        "description": ""
+    },
+    "leagues.gold": {
+        "message": "Goldliga",
+        "description": ""
+    },
+    "match.replay": {
+        "message": "Wiederholung",
+        "description": ""
+    },
+    "leagues.table.league": {
+        "message": "L",
+        "description": "Initial from the word `League` used in the leaderboard tables."
+    },
+    "multiplayer.lobbyStatus1": {
+        "message": "Im Spiel",
+        "description": ""
+    },
+    "challenges.untouchableGoalName": {
+        "message": "Unantastbar",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerScoreName": {
+        "message": "Tor vom Eckball",
+        "description": "Match challenge name."
+    },
+    "leagues.promotion": {
+        "message": "Gratulation!<br>du bist befördert in<i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>!",
+        "description": ""
+    },
+    "tournament.fixturesButton": {
+        "message": "Spiele",
+        "description": "Tournament button label."
+    },
+    "challenges.everyoneScoresName": {
+        "message": "Teamarbeit",
+        "description": "Match challenge name."
+    },
+    "tournament.custom.type": {
+        "message": "Typ",
+        "description": "Button label."
+    },
+    "play.centralAmericanAndCaribbeanLeague": {
+        "message": "Zentralamerikanische und Karibische Liga",
+        "description": ""
+    },
+    "challenges.progress.seconds": {
+        "message": "{VALUE}/{MIN}s",
+        "description": ""
+    },
+    "tournament.playoff": {
+        "message": "Entscheidungsspiel #{NUMBER}",
+        "description": "Tournament screen heading."
+    },
+    "play.europeCup.accusative": {
+        "message": "Europa-Cup",
+        "description": "Accusative case"
+    },
+    "actions.lob": {
+        "message": "Lob-Pass",
+        "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+    },
+    "unlock.continentalLeague": {
+        "message": "Gewinne<br><i>alle Continental-Cups</i><br>auf Niveau <i class=\"bronze\">Anfänger</i> schwierig",
+        "description": ""
+    },
+    "challenges.cleanSheetName": {
+        "message": "Weiße Weste",
+        "description": "Match challenge name."
+    },
+    "actions.pass": {
+        "message": "Flach-Pass",
+        "description": "Name of action for passing the ball to another player."
+    },
+    "controls.gamepad1": {
+        "message": "<b class=\"user-icon user-1 connected online\"></b> Controller 1",
+        "description": "Button label."
+    },
+    "multiplayer.host": {
+        "message": "Bilde eigenes Spiel",
+        "description": "Button label"
+    },
+    "multiplayer.duel.info": {
+        "message": "1 vs 1",
+        "description": ""
+    },
+    "menu.keys.move": {
+        "message": "Steuern",
+        "description": ""
+    },
+    "challenges.noBallSlideTackle": {
+        "message": "Grätsche {OPPONENTS} Spielgegner ohne Ball",
+        "description": ""
+    },
+    "multiplayer.gameList.progress": {
+        "message": "Zeit",
+        "description": "Table header"
+    },
+    "leagues.gold.genitive": {
+        "message": "Goldliga",
+        "description": "League name in genitive case"
+    },
+    "leagues.silver": {
+        "message": "Silberliga",
+        "description": ""
+    },
+    "challenges.title": {
+        "message": "Spielherausforderung",
+        "description": ""
+    },
+    "multiplayer.gameList.teams": {
+        "message": "Mannschaften",
+        "description": "Table header"
+    },
+    "multiplayer.gameList.join": {
+        "message": "Schließe dich an",
+        "description": "Button label"
+    },
+    "challenges.roundingTheKeeperName": {
+        "message": "Tormann ausweichen",
+        "description": "Match challenge name."
+    },
+    "hint.25": {
+        "message": "Bewältigung der Herausforderungen in Turnierspielen gibt dir <i class=\"pink\">Berühmtheit</i> Erfahrungspunkte.",
+        "description": ""
+    },
+    "menu.keys.back": {
+        "message": "Zurück",
+        "description": ""
+    },
+    "challenges.supershotFromPenaltyAreaName": {
+        "message": "Artillerie",
+        "description": "Match challenge name."
+    },
+    "controls.change": {
+        "message": "Wechsel",
+        "description": "Button label."
+    },
+    "challenges.fastTripleName": {
+        "message": "Blitzkrieg",
+        "description": "Match challenge name."
+    },
+    "play.title": {
+        "message": "Wettkampf wählen",
+        "description": ""
+    },
+    "challenges.doubleSlideHitName": {
+        "message": "Doppeltreffer",
+        "description": "Match challenge name."
+    },
+    "multiplayer.join": {
+        "message": "Suche die Spiele durch",
+        "description": "Button label"
+    },
+    "replay.show": {
+        "message": "Zeige Wiederholung",
+        "description": "Button label."
+    },
+    "tournament.tableLegend": {
+        "message": "P = <i>Punkte</i>   G = <i>Gewinne</i>   U = <i>Unentschieden</i>   V = <i>Verloren</i>   ET = <i>Erzielte Tore</i>   MT = <i>Misslungene Torschüsse</i>",
+        "description": ""
+    },
+    "play.online": {
+        "message": "Online für mehrere Spieler",
+        "description": ""
+    },
+    "play.northAmericaCup": {
+        "message": "Nordamerika-Cup",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.kick": {
+        "message": "Kick raus",
+        "description": "Button label"
+    },
+    "challenges.slideTrap": {
+        "message": "Führe {MIN_SLIDES} saubere Grätschen während eines Spiels aus",
+        "description": ""
+    },
+    "tournament.final": {
+        "message": "Finale",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalkeeperSlideTrapName": {
+        "message": "Torwart-Parade",
+        "description": "Match challenge name."
+    },
+    "challenges.noSupermovesName": {
+        "message": "Keine Kraft",
+        "description": "Match challenge name."
+    },
+    "match.goal": {
+        "message": "Tooor!",
+        "description": ""
+    },
+    "actions.left": {
+        "message": "Links",
+        "description": "Name of action for moving in-game character left."
+    },
+    "tournament.custom.teams.randomize": {
+        "message": "Zufallsmannschaften",
+        "description": "Button label."
+    },
+    "achievements.thief": {
+        "message": "Fange den Ball ab {MIN_STEALS} Mal",
+        "description": ""
+    },
+    "ai.level3": {
+        "message": "Legende",
+        "description": "Fourth difficulty level name"
+    },
+    "options.title": {
+        "message": "Optionen",
+        "description": "Options menu title."
+    },
+    "leagues.platinum.genitive": {
+        "message": "Platinliga",
+        "description": "League name in genitive case"
+    },
+    "pause.showChallenge": {
+        "message": "Zeige Herausforderung",
+        "description": "Button label for showing challenge description."
+    },
+    "multiplayer.quickMatch": {
+        "message": "Schnelles Spiel",
+        "description": "Button label"
+    },
+    "hint.8": {
+        "message": "Halte <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> um präzise zu schießen, ziele und drehe den Ball mit Pfeiltasten an.",
+        "description": ""
+    },
+    "multiplayer.matchmaking.assetError": {
+        "message": "Du hast keine Mannschaften, Stadien und Bälle, um dieses Spiel zu starten.",
+        "description": ""
+    },
+    "play.mediterraneanLeague": {
+        "message": "Mittelmeer Liga",
+        "description": ""
+    },
+    "challenges.cleanPasses": {
+        "message": "Spiele {MIN_PASSES} aufeinanderfolgende Pässe ohne den Ballbesitz im Spiel zu verlieren",
+        "description": ""
+    },
+    "challenges.slideAccuracy": {
+        "message": "Erziele {MIN_ACCURACY}% Grätschengenauigkeit",
+        "description": ""
+    },
+    "actions.right2": {
+        "message": "Alt. rechts",
+        "description": "Name of action for moving in-game character right."
+    },
+    "ai.level0.instrumental": {
+        "message": "Anfänger",
+        "description": "First difficulty level name, instrumental case"
+    },
+    "tournament.semifinals": {
+        "message": "Halbfinale",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague": {
+        "message": "Pan Amerikanische Liga",
+        "description": ""
+    },
+    "gameplay.celebration": {
+        "message": "Animation des Feierns",
+        "description": "Option to automatically show celebration after scoring a goal."
+    },
+    "challenges.slideTrapName": {
+        "message": "Saubere Grätschen",
+        "description": "Match challenge name."
+    },
+    "multiplayer.lobby.closedSlotOptions": {
+        "message": "Schließe die Stellenoptionen",
+        "description": "Section title"
+    },
+    "achievements.thiefName": {
+        "message": "Dieb",
+        "description": "Achievement name."
+    },
+    "achievements.allTeams": {
+        "message": "Entsperre alle Mannschaften",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.confirm": {
+        "message": "Schließe dich an",
+        "description": "Button label"
+    },
+    "pause.forfeit": {
+        "message": "Forfeit",
+        "description": "Button label for forfeiting a multiplayer match."
+    },
+    "multiplayer.closed": {
+        "message": "Geschlossen",
+        "description": "Button label"
+    },
+    "hint.20": {
+        "message": "Schalte einen aktiven Spieler um mithilfe <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span> und mit Pfeiltaste oder Controller in Richtung des Spielers, auf den du umschalten möchtest.",
+        "description": ""
+    },
+    "summary.blockedShots": {
+        "message": "Blockierte Schüsse",
+        "description": ""
+    },
+    "multiplayer.public.friends": {
+        "message": "Freunde",
+        "description": "Button label"
+    },
+    "multiplayer.onlineCount": {
+        "message": "Spieler Online",
+        "description": ""
+    },
+    "table.loses": {
+        "message": "L",
+        "description": "Short form of the word 'Loses'"
+    },
+    "video.shadows": {
+        "message": "Schatten",
+        "description": "Visual effect."
+    },
+    "hint.7": {
+        "message": "Um aus der Luft zu schießen, renne unter den fallenden Ball, halte dabei <span class=\"key auto-wide auto-update\" data-action=\"header\"></span>.",
+        "description": ""
+    },
+    "challenges.ballPossessionName": {
+        "message": "Kleber",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanSheet": {
+        "message": "Verliere kein Tor im Spiel",
+        "description": ""
+    },
+    "challenges.magnetOnShotName": {
+        "message": "Magnetismus",
+        "description": "Match challenge name."
+    },
+    "play.panArabLeague.accusative": {
+        "message": "Pan Arabische Liga",
+        "description": "Accusative case"
+    },
+    "achievements.silverLeagueName": {
+        "message": "Silberliga",
+        "description": "Achievement name."
+    },
+    "friendly.ai": {
+        "message": "KI Niveau",
+        "description": "AI skill widget title."
+    },
+    "controls.reset": {
+        "message": "Aufgrund der Änderungen im Spiel mussten die Tastatureinstellungen zurückgesetzt werden. Die Anpassung der Tastatur und der Controller muss leider wiederholt werden. Es tut uns leid! ",
+        "description": ""
+    },
+    "multiplayer.chaos": {
+        "message": "Chaos",
+        "description": ""
+    },
+    "summary.exit": {
+        "message": "Ausgang",
+        "description": "Button label."
+    },
+    "hint.19": {
+        "message": "Verwende Grätsche mit deinem Torwart durch Drücken von <span class=\"key auto-wide auto-update\" data-action=\"goalkeeperSlide\"></span>.",
+        "description": ""
+    },
+    "multiplayer.coop.title": {
+        "message": "Spielmodus",
+        "description": "Section title"
+    },
+    "time": {
+        "message": "{MINUTES} min",
+        "description": "Duration in minutes."
+    },
+    "multiplayer.matchmaking.waitingForGame": {
+        "message": "Warten auf Gegner",
+        "description": ""
+    },
+    "menu.loading": {
+        "message": "Laden",
+        "description": ""
+    },
+    "challenges.goalkeeperSlideTrap": {
+        "message": "Führe {MIN_SLIDES} gelungene Grätschen mit dem Torwart in einem Spiel aus",
+        "description": ""
+    },
+    "leagues.bronze": {
+        "message": "Bronzeliga",
+        "description": ""
+    },
+    "menu.pressKey": {
+        "message": "Drücke beliebige Taste",
+        "description": ""
+    },
+    "tournament.custom.teams": {
+        "message": "Anzahl der Mannschaften",
+        "description": "Button label."
+    },
+    "challenges.dribbleDistanceName": {
+        "message": "Verwirrter Lauf",
+        "description": "Match challenge name."
+    },
+    "actions.up": {
+        "message": "Oben",
+        "description": "Name of action for moving in-game character up."
+    },
+    "menu.selectStadium": {
+        "message": "Stadionauswahl",
+        "description": ""
+    },
+    "hint.15": {
+        "message": "<img src=\"images/powerups/freeze/icon.png\" width=\"32\" height=\"32\"> Das Einfrieren stoppt die Spieler (auch deine Mannschaftskameraden) für gewisse Zeit und in einem bestimmten Umkreis.",
+        "description": ""
+    },
+    "copyrights": {
+        "message": "Urheberrecht © MERIXSTUDIO. Alle Rechte vorbehalten",
+        "description": ""
+    },
+    "main.playOffline": {
+        "message": "Offline Spielen",
+        "description": "Button label."
+    },
+    "video.contrast": {
+        "message": "Kontrast",
+        "description": ""
+    },
+    "match.selectTeams": {
+        "message": "Mannschaftsauswahl",
+        "description": ""
+    },
+    "main.playOnline": {
+        "message": "Online Spiel",
+        "description": "Button label."
+    },
+    "actions.down": {
+        "message": "Unten",
+        "description": "Name of action for moving in-game character down."
+    },
+    "challenges.dribbleDistance": {
+        "message": "Dribbele {MIN_DRIBBLE_DISTANCE} Meter lang ohne den Ballverlust in einem Spiel",
+        "description": ""
+    },
+    "summary.goals": {
+        "message": "Tore",
+        "description": ""
+    },
+    "challenges.interceptionsName": {
+        "message": "Abfangjäger",
+        "description": "Match challenge name."
+    },
+    "actions.slide": {
+        "message": "Grätsche",
+        "description": "Name of action for performing slide tackle."
+    },
+    "achievements.topScorer": {
+        "message": "Schieße {MIN_GOALS, plural, one {# goal} other {# goals}}",
+        "description": ""
+    },
+    "challenges.noBallSlideTackleName": {
+        "message": "Röntgen",
+        "description": "Match challenge name."
+    },
+    "challenges.slideAccuracyName": {
+        "message": "Adlerauge",
+        "description": "Match challenge name."
+    },
+    "controls.passing": {
+        "message": "Zuspielen",
+        "description": "Button label."
+    },
+    "challenges.goalkeeperLobName": {
+        "message": "Luftschlag",
+        "description": "Match challenge name."
+    },
+    "menu.save": {
+        "message": "Speichern",
+        "description": "Button label for saving some options."
+    },
+    "actions.menuClearAssigment": {
+        "message": "Zuordnung löschen",
+        "description": "Name of action for clearing key assigments."
+    },
+    "actions.menuBack": {
+        "message": "Zurück zum Hauptmenü",
+        "description": "Name of action for canceling menu choice."
+    },
+    "tournament.difficultyTitle": {
+        "message": "Schwierigkeitsgrad wählen",
+        "description": "Difficulty selection menu title."
+    },
+    "achievements.localMultiCupName": {
+        "message": "Kopanito-Mannschaft",
+        "description": "Achievement name."
+    },
+    "gameplay.showUsernames": {
+        "message": "Namen der Spieler",
+        "description": "Option to show usernames above players."
+    },
+    "menu.randomBall": {
+        "message": "Zufallsball",
+        "description": ""
+    },
+    "play.commonwealthCup": {
+        "message": "Commonwealth-Cup",
+        "description": ""
+    },
+    "challenges.touchWoodwork": {
+        "message": "Erziele {MIN_GOALS} Tore im Spiel durch Ballprallen gegen einen Torpfosten oder Querbalken",
+        "description": ""
+    },
+    "multiplayer.doubles": {
+        "message": "Double",
+        "description": ""
+    },
+    "achievements.magnetName": {
+        "message": "Super-Magnet",
+        "description": "Achievement name."
+    },
+    "menu.keys.accept": {
+        "message": "Akzeptieren",
+        "description": ""
+    },
+    "actions.right": {
+        "message": "Rechts",
+        "description": "Name of action for moving in-game character right."
+    },
+    "challenges.avoidGoalkeeperName": {
+        "message": "Akrobat",
+        "description": "Match challenge name."
+    },
+    "actions.toggleTeam": {
+        "message": "Kontrolleur-Umschalttaste",
+        "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+    },
+    "achievements.platinumLeagueName": {
+        "message": "Platinliga",
+        "description": "Achievement name."
+    },
+    "summary.interceptions": {
+        "message": "Abfangen",
+        "description": ""
+    },
+    "hint.22": {
+        "message": "Um schneller mit Ball zu laufen, drücke ihn nach vorne durch Drücken <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span> beschleunige durch <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span>.",
+        "description": ""
+    },
+    "achievements.goldenGoal": {
+        "message": "Gewinne das Spiel mit einem Golden Goal",
+        "description": ""
+    },
+    "play.continentalLeague": {
+        "message": "Kontinentale Liga",
+        "description": ""
+    },
+    "summary.fame": {
+        "message": "Berühmtheit",
+        "description": ""
+    },
+    "match.selectTeam.playerPlay": {
+        "message": "{KEY} Schließ dich an",
+        "description": ""
+    },
+    "menu.next": {
+        "message": "Weiter",
+        "description": "Button label for going to the next screen"
+    },
+    "summary.continue": {
+        "message": "Fortfahren",
+        "description": "Button label."
+    },
+    "menu.quit": {
+        "message": "Verlasse",
+        "description": "Button label for abandoning current game"
+    },
+    "hint.3": {
+        "message": "Fange den Ball mit Grätsche ab, benutze dafür <span class=\"key auto-wide auto-update\" data-action=\"slide\"></span>.",
+        "description": ""
+    },
+    "audio.audio": {
+        "message": "Ton",
+        "description": ""
+    },
+    "multiplayer.matchmaking.foundGame": {
+        "message": "Spiel und Anschluß gefunden",
+        "description": ""
+    },
+    "achievements.goldenGoalName": {
+        "message": "Entscheidungstor",
+        "description": "Achievement name."
+    },
+    "challenges.supershotHitAndScore": {
+        "message": "Schieße ein Tor mittels Super-Schusses und schlage 2 Gegner nieder",
+        "description": ""
+    },
+    "practice.title2": {
+        "message": "Angriff",
+        "description": "Information about current practice mode."
+    },
+    "achievements.legendMastered": {
+        "message": "Vollende alle Veranstaltungen einer Schwierigkeitsstufe der Legende",
+        "description": ""
+    },
+    "achievements.localMulti": {
+        "message": "Spiele ein Spiel mit 3 oder mehr Freunden",
+        "description": ""
+    },
+    "actions.swerveUp": {
+        "message": "Schlenker links (halte)",
+        "description": "Name of action for swerving the ball in one direction."
+    },
+    "menu.comingSoon": {
+        "message": "Demnächst",
+        "description": ""
+    },
+    "achievements.slideTackle": {
+        "message": "Schlage {MIN_HITS} Gegner mit einer Grätsche ",
+        "description": ""
+    },
+    "play.customTournament.accusative": {
+        "message": "Eigenes Turnier",
+        "description": "Accusative case"
+    },
+    "play.southAmericaCup.accusative": {
+        "message": "Südamerika-Cup",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobby.playerOptions": {
+        "message": "Optionen der Stellen",
+        "description": "Section title"
+    },
+    "controls.otherTitle": {
+        "message": "Andere",
+        "description": ""
+    },
+    "challenges.interceptions": {
+        "message": "Fange {MIN_INTERCEPTIONS} Pässe in einem Spiel ab",
+        "description": ""
+    },
+    "achievements.supermovesMaster": {
+        "message": "Verwende 4 verschiedene Super-Züge in einem Spiel",
+        "description": ""
+    },
+    "challenges.magnetOnShot": {
+        "message": "Stoppe den Schuss durch den Ballmagnet",
+        "description": ""
+    },
+    "multiplayer.chaos.info": {
+        "message": "3 vs 3",
+        "description": ""
+    },
+    "play.oceaniaCup.accusative": {
+        "message": "Ozeanien-Cup",
+        "description": "Accusative case"
+    },
+    "actions.up2": {
+        "message": "Alt. oben",
+        "description": "Name of action for moving in-game character up."
+    },
+    "gif.showFolder": {
+        "message": "Zeige in der Datei",
+        "description": "Button label."
+    },
+    "tournament.fixture": {
+        "message": "Reihe {NUMBER}",
+        "description": "League screen heading."
+    },
+    "controls.movementTitle": {
+        "message": "Bewegung",
+        "description": ""
+    },
+    "achievements.localMultiName": {
+        "message": "Hausparty",
+        "description": "Achievement name."
+    },
+    "achievements.cleanEventName": {
+        "message": "Perfekte Abwehr",
+        "description": "Achievement name."
+    },
+    "achievements.completeMainEvents": {
+        "message": "Gehe alle Hauptveranstaltungen durch (Kontinental + Weltmeisterschaft) auf einer beliebigen Schwierigkeitsstufe",
+        "description": ""
+    },
+    "multiplayer.duel": {
+        "message": "Duell",
+        "description": ""
+    },
+    "play.centralAmericanAndCaribbeanLeague.accusative": {
+        "message": "Zentralamerikanische und Karibische Liga",
+        "description": "Accusative case"
+    },
+    "achievements.cleanEvent": {
+        "message": "Verliere kein einziges Tor in einer Meisterschaft oder Liga ",
+        "description": ""
+    },
+    "tournament.lose": {
+        "message": "Du bist aus dem Turnier ausgeschieden!<br>Mehr Glück nächstes Mal<br>Du hast<i class=\"pink\">{FAME}</i> Berühmtheitspunkte.",
+        "description": "Tournament lose message."
+    },
+    "menu.randomTeam": {
+        "message": "Zufallsmannschaft",
+        "description": ""
+    },
+    "tournament.mainEvent": {
+        "message": "Hauptveranstaltung",
+        "description": "League screen heading."
+    },
+    "challenges.teleportScoreName": {
+        "message": "Teleportmeister",
+        "description": "Match challenge name."
+    },
+    "challenges.goalkeeperLob": {
+        "message": "Schieße ein Tor duch das Lobben des Balls über Torwart",
+        "description": ""
+    },
+    "table.draws": {
+        "message": "D",
+        "description": "Short form of the word 'Draws'"
+    },
+    "menu.yes": {
+        "message": "Ja",
+        "description": ""
+    },
+    "friendly.drawsOff": {
+        "message": "Golden-Goal",
+        "description": "When a draw is not allowed in a match."
+    },
+    "actions.swerveDown": {
+        "message": "Schlenker rechts (halte)",
+        "description": "Name of action for swerving the ball in another direction."
+    },
+    "pause.title": {
+        "message": "Pause",
+        "description": "Pause menu title."
+    },
+    "options.language": {
+        "message": "Sprache",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.closedSlotOptions.open": {
+        "message": "Öffne die Stelle",
+        "description": "Button label"
+    },
+    "challenges.dribbleTime": {
+        "message": "Dribbele {MIN_DRIBBLE_TIME} Sekunden lang ohne Ballverlust in einem Spiel",
+        "description": ""
+    },
+    "multiplayer.gameList.stadium": {
+        "message": "Stadion",
+        "description": "Table header"
+    },
+    "multiplayer.gameList": {
+        "message": "Verfügbare Spiele",
+        "description": "Section title"
+    },
+    "challenges.slideScoreName": {
+        "message": "Schuss durch Grätsche",
+        "description": "Match challenge name."
+    },
+    "ai.level1.instrumental": {
+        "message": "Amateur",
+        "description": "Second difficulty level name, instrumental case"
+    },
+    "tournament.startGame": {
+        "message": "Spiel starten",
+        "description": "Button label."
+    },
+    "menu.selectBall": {
+        "message": "Ballauswahl",
+        "description": ""
+    },
+    "challenges.ballPossession": {
+        "message": "Erziele {MIN_POSSESSION}% Ballbesitz",
+        "description": ""
+    },
+    "challenges.progress.meters": {
+        "message": "{VALUE}/{MIN}m",
+        "description": ""
+    },
+    "ai.level1": {
+        "message": "Amateur",
+        "description": "Second difficulty level name"
+    },
+    "leagues.intro": {
+        "message": "<p>Du hast <i class=\"pink\">{FAME}</i> Berühmtheitspunkte!</p><p>Gewinne Freundschaftsspiele, Turniere und nimm Spielherausforderungen an, um noch mehr Punkte zu bekommen. Höheres Niveau der Computer KI bedeutet auch mehr Berühmtheitspunkte.</p><p>Du brauchst <i class=\"pink\">{MIN_FAME}</i> Berühmtheitspunkte, um zu<i class=\"bronze no-wrap\">Bronzeliga aufzusteigen</i>.</p>",
+        "description": ""
+    },
+    "challenges.cleanLobs": {
+        "message": "Spiele {MIN_PASSES} hintereinander im Lob ohne den Ballbesitz zu verlieren",
+        "description": ""
+    },
+    "multiplayer.gameList.hostName": {
+        "message": "Gastgeber-Name",
+        "description": "Table header"
+    },
+    "multiplayer.lobbyStatus0": {
+        "message": "Fertig",
+        "description": ""
+    },
+    "multiplayer.complete": {
+        "message": "Komplett",
+        "description": ""
+    },
+    "achievements.allTeamsName": {
+        "message": "Sammler",
+        "description": "Achievement name."
+    },
+    "actions.goalkeeperSlide": {
+        "message": "Torwarts Grätsche ",
+        "description": "Name of action for performing goalkeeper slide tackle."
+    },
+    "actions.shoot": {
+        "message": "Schuss (halte für einen präzisen Schuss)",
+        "description": "Name of action for shooting at the goal."
+    },
+    "leagues.silver.genitive": {
+        "message": "Silberliga",
+        "description": "League name in genitive case"
+    },
+    "hint.10": {
+        "message": "Super-Zug ist ein einer Mannschaft hin und wieder vergebener Bonus. Um ihn zu benutzen, drücke <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span>.",
+        "description": ""
+    },
+    "multiplayer.slowConnection": {
+        "message": "Problem mit Verbindung",
+        "description": ""
+    },
+    "hint.18": {
+        "message": "Einige Super-Züge können verwendet werden, um die Super-Züge des Spielgegners zu neutralisieren.",
+        "description": ""
+    },
+    "achievements.lastSecondsGoalName": {
+        "message": "Tor in den letzten Sekunden",
+        "description": "Achievement name."
+    },
+    "multiplayer.gameList.join.error": {
+        "message": "Ein Fehler ist aufgetreten, versuche mit anderem Spiel.",
+        "description": "Error message"
+    },
+    "challenges.fastTriple": {
+        "message": "Erziele 3 Tore in weniger als {MIN_TIME}  Sekunden",
+        "description": ""
+    },
+    "challenges.slideInterceptName": {
+        "message": "Abfang durch Grätsche",
+        "description": "Match challenge name."
+    },
+    "match.goldenGoal": {
+        "message": "GOLDEN GOOOAL!",
+        "description": ""
+    },
+    "actions.menuAltLeft": {
+        "message": "Menu alt. links",
+        "description": "Name of action for alternative scrolling."
+    },
+    "table.wins": {
+        "message": "W",
+        "description": "Short form of the word 'Wins'"
+    },
+    "play.africaCup.accusative": {
+        "message": "Afrika-Cup",
+        "description": "Accusative case"
+    },
+    "achievements.friendlyFireName": {
+        "message": "Befreundeter Beschuss",
+        "description": "Achievement name."
+    },
+    "controls.title": {
+        "message": "Steuerung",
+        "description": "Controls menu title."
+    },
+    "challenges.progress.percent": {
+        "message": "{VALUE}/{MIN}%",
+        "description": ""
+    },
+    "achievements.famousName": {
+        "message": "Berühmtheit",
+        "description": "Achievement name."
+    },
+    "match.cornerKick": {
+        "message": "Eckball!",
+        "description": ""
+    },
+    "challenges.penaltyAreaScoreName": {
+        "message": "Aufeinander treffen",
+        "description": "Match challenge name."
+    },
+    "multiplayer.gameList.refresh": {
+        "message": "Frische es auf",
+        "description": "Button label"
+    },
+    "challenges.slideScore": {
+        "message": "Erziele ein Tor, indem du  durch die Torlinie gleitest",
+        "description": ""
+    },
+    "actions.pause": {
+        "message": "Pause",
+        "description": "Name of action for pausing the game."
+    },
+    "audio.title": {
+        "message": "Ton",
+        "description": "Audio options menu title."
+    },
+    "menu.no": {
+        "message": "Nein",
+        "description": ""
+    },
+    "friendly.startMatch": {
+        "message": "Spiel",
+        "description": "Button label."
+    },
+    "controls.duplicated": {
+        "message": "Es scheint, als ob dieselben Tasten verschiedenen Aktionen zugeteilt worden wären. Korrigiere dies, bevor du es speicherst.",
+        "description": ""
+    },
+    "legendUnlock": {
+        "message": "Gewinne<br><i>Continental-Cups</i> und <i>Weltmeisterschaft</i> auf Niveau <i class=\"gold\">Professionell</i> schwierig",
+        "description": ""
+    },
+    "play.continentalLeague.accusative": {
+        "message": "Kontinentale Liga",
+        "description": "Accusative case"
+    },
+    "actions.supermove": {
+        "message": "Super Spielzug",
+        "description": "Name of action for activating a super-move (special action in game)."
+    },
+    "video.resolution": {
+        "message": "Auflösung",
+        "description": ""
+    },
+    "challenges.pitchAreaScore": {
+        "message": "Schieße {MIN_GOALS} von außerhalb des Strafraums des Gegenrs",
+        "description": ""
+    },
+    "friendly.title": {
+        "message": "Freundschaftsspiel",
+        "description": ""
+    },
+    "match.halfTime": {
+        "message": "Halbzeit!",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.message": {
+        "message": "Benutzer {USERNAME} hat dich zum Spielen eingeladen.<br>Nach der Annahme der Einladung wird aktuelles Spiel abgebrochen und das Spielstadium geht damit verloren.",
+        "description": "Alert text"
+    },
+    "summary.slides": {
+        "message": "Grätschen",
+        "description": ""
+    },
+    "challenges.slideHit": {
+        "message": "Schlage {MIN_HITS} Spielgegner nieder",
+        "description": ""
+    },
+    "gif.successMessage": {
+        "message": "GIF Generierung wurde abgeschlossen.<br>Man kann sie unter Spieldateien finden, im Dateiunterverzeichnis `Replays`: <i class=\"yellow\">{PATH}</i>",
+        "description": ""
+    },
+    "challenges.goalDifferenceName": {
+        "message": "Dominator",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanPassesName": {
+        "message": "Tiki-Taka",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefender": {
+        "message": "Erziele ein Tor mit einem der Verteidiger",
+        "description": ""
+    },
+    "multiplayer.public.title": {
+        "message": "Lobby Sichtbarkeit",
+        "description": "Button label"
+    },
+    "friendly.matchTime": {
+        "message": "Spielzeit",
+        "description": "Match time widget title."
+    },
+    "challenges.failed": {
+        "message": "Aufgabe nicht vollendet",
+        "description": ""
+    },
+    "leagues.userLimit": {
+        "message": "Spielerlimit:",
+        "description": ""
+    },
+    "challenges.noSlideTackleName": {
+        "message": "Fair Play",
+        "description": "Match challenge name."
+    },
+    "menu.reset": {
+        "message": "Zurück zur Grundeinstellung",
+        "description": "Button label"
+    },
+    "tournament.custom.league.title": {
+        "message": "Liga",
+        "description": "Custom tournament league type screen heading."
+    },
+    "challenges.supershotFromPenaltyArea": {
+        "message": "Erziele ein Tor durch einen Super-Schuss vom eigenen Strafraum aus",
+        "description": ""
+    },
+    "challenges.magnetOnSupershot": {
+        "message": "Stoppe den Super-Schuss durch den Ballmagnet",
+        "description": ""
+    },
+    "hint.12": {
+        "message": "<img src=\"images/powerups/teleport/icon.png\" width=\"32\" height=\"32\"> Teleport ermöglicht dir, einen Spieler mit Ball an eine von dir bestimmte Stelle des Spielfeldes zu versetzen.",
+        "description": ""
+    },
+    "play.microstatesCup": {
+        "message": "Mikro-Länder-Cup",
+        "description": ""
+    },
+    "challenges.cornerDefenseName": {
+        "message": "Verpasse kein Tor aus dem Eckstoß",
+        "description": "Match challenge name."
+    },
+    "leagues.beginner": {
+        "message": "Qualifikationsspiele",
+        "description": ""
+    },
+    "gif.description": {
+        "message": "GIF Generierung dauert an. Es kann einige Minuten dauern.",
+        "description": ""
+    },
+    "achievements.supershotName": {
+        "message": "Super-Schuss",
+        "description": "Achievement name."
+    },
+    "challenges.maxBallSwerveName": {
+        "message": "Boomerang",
+        "description": "Match challenge name."
+    },
+    "pause.resume": {
+        "message": "Fortsetzen",
+        "description": "Button label."
+    },
+    "challenges.cleanLobsName": {
+        "message": "Tiki-Taka hoch",
+        "description": "Match challenge name."
+    },
+    "controls.gamepad3": {
+        "message": "<b class=\"user-icon user-3 connected online\"></b> Controller 3",
+        "description": "Button label."
+    },
+    "multiplayer.open": {
+        "message": "Offen",
+        "description": "Button label"
+    },
+    "multiplayer.complete.info": {
+        "message": "5 vs 5",
+        "description": ""
+    },
+    "tournament.thirdPlace": {
+        "message": "Dritter Platz",
+        "description": "Tournament screen heading."
+    },
+    "challenges.windmakerSaveName": {
+        "message": "Vom Winde verweht",
+        "description": "Match challenge name."
+    },
+    "challenges.trap": {
+        "message": "Fange den Ball ab {MIN_TRAPS} Mal in einem Spiel ohne die Grätschen zu benutzen",
+        "description": ""
+    },
+    "replay.generateGif": {
+        "message": "Generiere GIF",
+        "description": "Button label."
+    },
+    "multiplayer.doubles.info": {
+        "message": "2 vs 2",
+        "description": ""
+    },
+    "controls.passingTitle": {
+        "message": "Zuspielen",
+        "description": ""
+    },
+    "gameplay.replays": {
+        "message": "Wiederholungen",
+        "description": "Option to automatically show replays during match after scoring a goal."
+    },
+    "tournament.continue": {
+        "message": "Fortfahren",
+        "description": "Button label."
+    },
+    "options.audio": {
+        "message": "Hörton",
+        "description": "Button label."
+    },
+    "achievements.completeMainEventsName": {
+        "message": "Ein Globetrotter",
+        "description": "Achievement name."
+    },
+    "play.europeCup": {
+        "message": "Europa-Cup",
+        "description": ""
+    },
+    "summary.challenge": {
+        "message": "Herausforderung",
+        "description": ""
+    },
+    "achievements.magnet": {
+        "message": "Fange den Ball ab {MIN_STEALS} Mal mittels Ballmagneten",
+        "description": ""
+    },
+    "challenges.trapName": {
+        "message": "Jäger",
+        "description": "Match challenge name."
+    },
+    "multiplayer.public.public": {
+        "message": "Öffentlich",
+        "description": "Button label"
+    },
+    "tournament.quarterfinals": {
+        "message": "Viertelfinale",
+        "description": "Tournament screen heading."
+    },
+    "leagues.fameNeeded": {
+        "message": "Erforderliche Berühmtheit:",
+        "description": ""
+    },
+    "tournament.playMatch": {
+        "message": "Spiele",
+        "description": "Button label."
+    },
+    "challenges.noSlideTackle": {
+        "message": "Gewinne ohne die Grätschen zu benutzen (betrifft den Spieler auf dem Spielfeld und den Torwart)",
+        "description": ""
+    },
+    "controls.gamepad4": {
+        "message": "<b class=\"user-icon user-4 connected online\"></b> Controller 4",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.kickAlert": {
+        "message": "Du wurdest von Lobby herausgeworfen",
+        "description": "Alert message"
+    },
+    "multiplayer.matchmaking.searchingForGame": {
+        "message": "Gegnerauswahl",
+        "description": ""
+    },
+    "multiplayer.friendStatus.away": {
+        "message": "Nickerchen",
+        "description": "Section title"
+    },
+    "practice.swerving": {
+        "message": "Schlenker",
+        "description": ""
+    },
+    "tournament.custom.eliminations.title": {
+        "message": "Ausscheidungsphase",
+        "description": "Custom tournament eliminations type screen heading."
+    },
+    "menu.on": {
+        "message": "Ein",
+        "description": "When something is enabled"
+    },
+    "multiplayer.invite.alert.message": {
+        "message": "Benutzer {USERNAME} hat dich zum Kopanito-Spiel eingeladen",
+        "description": "Alert text"
+    },
+    "multiplayer.invite.confirm.decline": {
+        "message": "Ignoriere",
+        "description": "Button label"
+    },
+    "multiplayer.lobby": {
+        "message": "Lobby",
+        "description": "Section title"
+    },
+    "challenges.cornerScore": {
+        "message": "Schieße  {MIN_GOALS}  in einem Spiel vom Eckstoß ",
+        "description": ""
+    },
+    "controls.passingManualOnly": {
+        "message": "Nur einfach",
+        "description": ""
+    },
+    "leagues.platinum": {
+        "message": "Platinliga",
+        "description": ""
+    },
+    "controls.passingManualPreferred": {
+        "message": "Einfach bevorzugt",
+        "description": ""
+    },
+    "controls.menuTitle": {
+        "message": "Menü",
+        "description": ""
+    },
+    "hint.17": {
+        "message": "Je besser du spielst, desto mehr Super-Züge erhältst du während des Spiels.",
+        "description": ""
+    },
+    "challenges.windmakerSave": {
+        "message": "Torverlust verhindern durch Aktivierung der Windmühle im letzten Moment",
+        "description": ""
+    },
+    "match.goalKick": {
+        "message": "Abstoß!",
+        "description": ""
+    },
+    "tournament.teamTitle": {
+        "message": "Mannschaft wählen",
+        "description": "Team selection menu title."
+    },
+    "help.content": {
+        "message": "<file src=\"help.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "achievements.platinumLeague": {
+        "message": "Erreiche <i class=\"platinum\">Platinliga</i> / Erlange <i class=\"pink\">{FAME}</i> Ruhm",
+        "description": ""
+    },
+    "friendly.draws": {
+        "message": "Unentschieden",
+        "description": "Draws widget title."
+    },
+    "hint.14": {
+        "message": "<img src=\"images/powerups/windmaker/icon.png\" width=\"32\" height=\"32\">Windmühlen Super-Zug verteidigt dein Tor vor Gegnerschüssen (wenn er nicht zu spät eingeschaltet wurde)",
+        "description": ""
+    },
+    "challenges.touchWoodworkName": {
+        "message": "Latte",
+        "description": "Match challenge name."
+    },
+    "achievements.completeOptionalEvents": {
+        "message": "Gehe alle optionalen Veranstaltungen durch (kleinere Cups und Ligas) auf einer beliebigen Schwierigkeitsstufe",
+        "description": ""
+    },
+    "tournament.restart": {
+        "message": "Wiederaufnahme",
+        "description": "Button label."
+    },
+    "controls.pressKey": {
+        "message": "Drücke die Taste",
+        "description": "Button label."
+    },
+    "gameplay.aiIndicators": {
+        "message": "KI Indikatoren",
+        "description": "Option to show AI indicators (circles beneath players)."
+    },
+    "multiplayer.lobbyCount": {
+        "message": "Spieler in Zimmern",
+        "description": ""
+    },
+    "tournament.standingsButton": {
+        "message": "Status",
+        "description": "Tournament button label."
+    },
+    "menu.cancel": {
+        "message": "Annullieren",
+        "description": "Button label for cancelling changes"
+    },
+    "achievements.silverLeague": {
+        "message": "Erreiche <i class=\"silver\">Silberliga</i> / Erlange <i class=\"pink\">{FAME}</i> Ruhm",
+        "description": ""
+    },
+    "tournament.custom.humans": {
+        "message": "Mannschaften",
+        "description": "Button label."
+    },
+    "challenges.golzagol": {
+        "message": "Schieße ein Tor in weniger als {MIN_TIME} Sekunden nach dem Torverlust",
+        "description": ""
+    },
+    "achievements.completeEventName": {
+        "message": "{EVENT_NAME}",
+        "description": ""
+    },
+    "play.mediterraneanLeague.accusative": {
+        "message": "Mittelmeer Liga",
+        "description": "Accusative case"
+    },
+    "languageName": {
+        "message": "Deutsch",
+        "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+    },
+    "challenges.doubleSlideHit": {
+        "message": "Greife 2 Gegner mit einer Grätsche an",
+        "description": ""
+    },
+    "achievements.completeEvent": {
+        "message": "Gewinne {EVENT_NAME_ACCUSATIVE}",
+        "description": ""
+    },
+    "ai.level0": {
+        "message": "Anfänger",
+        "description": "First difficulty level name"
+    },
+    "achievements.lastSecondsGoal": {
+        "message": "Schieße ein Tor in den letzten Sekunden eines Spiels",
+        "description": ""
+    },
+    "match.throwIn": {
+        "message": "Einwurf!",
+        "description": ""
+    },
+    "options.video": {
+        "message": "Video",
+        "description": "Button label."
+    },
+    "multiplayer.search": {
+        "message": "Suche",
+        "description": "Button label"
+    },
+    "play.asiaCup.accusative": {
+        "message": "Asien-Cup",
+        "description": "Accusative case"
+    },
+    "achievements.freezerName": {
+        "message": "Eisskulpturen",
+        "description": "Achievement name."
+    },
+    "hint.0": {
+        "message": "Für Flach Pass drücke <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span>, für Lob Pass drücke <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>.",
+        "description": ""
+    },
+    "options.controls": {
+        "message": "Steuerung",
+        "description": "Button label."
+    },
+    "table.goalsFor": {
+        "message": "F",
+        "description": "Short form of the words 'Goals For'"
+    },
+    "play.worldCup.accusative": {
+        "message": "Weltmeisterschaft",
+        "description": "Accusative case"
+    },
+    "play.pacificLeague": {
+        "message": "Pacific Liga",
+        "description": ""
+    },
+    "multiplayer.lobby.openSlotOptions": {
+        "message": "Öffne die Stellenoptionen",
+        "description": "Section title"
+    },
+    "challenges.supershotHitAndScoreName": {
+        "message": "Combo-Superschuss",
+        "description": "Match challenge name."
+    },
+    "achievements.localMultiCup": {
+        "message": "Spiele ein Turnierspiel mit einem Freund",
+        "description": ""
+    },
+    "challenges.noPreciseShotName": {
+        "message": "Angriffsmodus aus",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefenderName": {
+        "message": "Ein Angriff ist die beste Verteitigung",
+        "description": "Match challenge name."
+    },
+    "ai.level2": {
+        "message": "Profi",
+        "description": "Third difficulty level name"
+    },
+    "ai.level2.instrumental": {
+        "message": "Professionell",
+        "description": "Third difficulty level name, instrumental case"
+    },
+    "actions.menuAccept": {
+        "message": "Menü akzeptieren",
+        "description": "Name of action for accepting menu choice."
+    },
+    "trophies.title": {
+        "message": "Trophäe",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlides": {
+        "message": "Führe {MIN_SLIDES} hintereinander gelungene Grätschen  aus",
+        "description": ""
+    },
+    "main.title": {
+        "message": "Hauptmenü",
+        "description": "Main menu title"
+    },
+    "challenges.maxBallSwerve": {
+        "message": "Schieße {MIN_GOALS} Tore im Spiel mit extremen Drehbällen",
+        "description": ""
+    },
+    "tournament.custom.teams.start": {
+        "message": "Start",
+        "description": "Button label."
+    },
+    "tournament.groupStage": {
+        "message": "Gruppenphase",
+        "description": "Tournament screen heading."
+    },
+    "video.title": {
+        "message": "Video",
+        "description": "Video options menu title."
+    },
+    "hint.1": {
+        "message": "Um den Spieler zu wechseln drücke <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span>.",
+        "description": ""
+    },
+    "multiplayer.gameList.mode": {
+        "message": "Modus",
+        "description": "Table header"
+    },
+    "menu.back": {
+        "message": "Zurück",
+        "description": "Button label for returning to the previous screen"
+    },
+    "achievements.firstSecondsGoal": {
+        "message": "Schieße ein Tor in den ersten Sekunden eines Spiels",
+        "description": ""
+    },
+    "achievements.famous": {
+        "message": "Erlange <i class=\"pink\">{MIN_FAME}</i>  Ruhmpunkte",
+        "description": ""
+    },
+    "matches": {
+        "message": "{MATCHES, plural, one {# Spiel} few {# Spiele} many {# Spiele} other {# Spiele}}",
+        "description": "Number of matches, may require plural syntax, depending on language"
+    },
+    "video.overlay": {
+        "message": "Farbauflage",
+        "description": "Visual effect."
+    },
+    "hint.11": {
+        "message": "<img src=\"images/powerups/magnet/icon.png\" width=\"32\" height=\"32\"> Magnetischer Super-Zug zieht den Ball an deinen Spieler.",
+        "description": ""
+    },
+    "achievements.supershot": {
+        "message": "Schieße {MIN_GOALS, plural, one {# Tor} other {# Tore}} mit einem Super-Zug",
+        "description": ""
+    },
+    "play.worldLeague": {
+        "message": "Welt Liga",
+        "description": ""
+    },
+    "video.fullscreen": {
+        "message": "Vollbild",
+        "description": ""
+    },
+    "challenges.untouchableGoal": {
+        "message": "Schieße ein Tor ohne Ballverlust (beginnend mit dem Tormann oder Ankick)",
+        "description": ""
+    },
+    "pause.back": {
+        "message": "Verlassen",
+        "description": "Button label for abandoning match and returning to menu."
+    },
+    "menu.keys.selectMatch": {
+        "message": "Wähle ein Spiel aus",
+        "description": ""
+    },
+    "hint.6": {
+        "message": "Laufe und halte gedrückt Taste <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> um Ball von der ersten Berührung zu kicken.",
+        "description": ""
+    },
+    "menu.resetMessage": {
+        "message": "Möchtest du wirklich die Grundeinstellungen herstellen?",
+        "description": ""
+    },
+    "leagues.relegation": {
+        "message": "Entschuldigung!<br>du bist abgestiegen in<i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>.",
+        "description": ""
+    },
+    "table.points": {
+        "message": "P",
+        "description": "Short form of the word 'Points'"
+    },
+    "menu.randomStadium": {
+        "message": "Zufallsstadion",
+        "description": ""
+    },
+    "play.customTournament": {
+        "message": "Eigenes Turnier",
+        "description": ""
+    },
+    "controls.shootingTitle": {
+        "message": "Schießen",
+        "description": ""
+    },
+    "users.name": {
+        "message": "Spieler {id}",
+        "description": "Generic username shown in-game"
+    },
+    "multiplayer.gameList.noLobbies": {
+        "message": "Keine Spiele gefunden",
+        "description": "Error message"
+    },
+    "hint.24": {
+        "message": "Turniere können mit Spielfreuden deiner Mannschaft gespielt werden.",
+        "description": ""
+    },
+    "summary.possession": {
+        "message": "Ballbesitz",
+        "description": ""
+    },
+    "actions.menuAltRight": {
+        "message": "Menu alt. rechts",
+        "description": "Name of action for alternative scrolling."
+    },
+    "leagues.beginner.genitive": {
+        "message": "Qualifikationsspiele",
+        "description": "League name in genitive case"
+    },
+    "menu.teamStadium": {
+        "message": "Stadion nach Mannschaften",
+        "description": ""
+    },
+    "hint.13": {
+        "message": "<img src=\"images/powerups/supershot/icon.png\" width=\"32\" height=\"32\"> Super-Schuss ermöglicht dir, den Ball unter Kontrolle zu halten. Meide dabei die Spielgegner.",
+        "description": ""
+    },
+    "challenges.cleanGroundPasses": {
+        "message": "Spiele {MIN_PASSES} aufeinanderfolgende Flachpässe ohne den Ballbesitz zu verlieren",
+        "description": ""
+    },
+    "achievements.completeOptionalEventsName": {
+        "message": "Reisender",
+        "description": "Achievement name."
+    },
+    "actions.left2": {
+        "message": "Alt. links",
+        "description": "Name of action for moving in-game character left."
+    },
+    "multiplayer.title": {
+        "message": "Mehrere Spieler Online",
+        "description": "Section title"
+    },
+    "challenges.roundingTheKeeper": {
+        "message": "Schieße Tor durch das Überqueren der Torlinie mit dem Ball",
+        "description": ""
+    },
+    "play.worldLeague.accusative": {
+        "message": "Weltliga",
+        "description": "Accusative case"
+    },
+    "challenges.avoidGoalkeeper": {
+        "message": "Vermeide 2 Torwartgrätschen hintereinander",
+        "description": ""
+    },
+    "multiplayer.host.info": {
+        "message": "Passe ein Spiel an und lade andere Spieler ein",
+        "description": ""
+    },
+    "multiplayer.matchmaking.connecting": {
+        "message": "Verbindung mit Server...",
+        "description": ""
+    },
+    "challenges.reverseShotName": {
+        "message": "Fersenschuss",
+        "description": "Match challenge name."
+    },
+    "ai.level3.instrumental": {
+        "message": "Legende",
+        "description": "Fourth difficulty level name, instrumental case"
+    },
+    "achievements.legendMasteredSuccess": {
+        "message": "Gratulation!<br>Du hast alle verfügbaren Wettkämpfe der höchsten Schwierigkeitsstufe vollendet!",
+        "description": ""
+    },
+    "play.worldCup": {
+        "message": "Weltmeisterschaft",
+        "description": ""
+    },
+    "summary.player": {
+        "message": "Spieler",
+        "description": ""
+    },
+    "tournament.roundOf16": {
+        "message": "Runde der letzten 16",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalDifference": {
+        "message": "Gewinne durch Schiessen {MIN_DIFFERENCE} mehr Tore als dein Gegner",
+        "description": ""
+    },
+    "achievements.legendMasteredName": {
+        "message": "Legende",
+        "description": "Achievement name."
+    }
+}

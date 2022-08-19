@@ -1,0 +1,115 @@
+<div>
+<p>Kopanito jest grą opartą na umiejętnościach. To znaczy, że aby być dobrym, trzeba nauczyć się technik w praktyce (jak w prawdziwej piłce). Musisz wypracować sobie odpowiednią precyzję i refleks. Szczęście niewiele pomoże w grze. Po prostu lepszy gracz wygrywa, a zawodnicy nie mają żadnych parametrów, które mogły by Ci pomóc. To Ty jesteś tymi parametrami.</p>
+
+
+<figure><img src="file://{{ 'help/dribbling.png'|file }}"></figure><p>Używaj <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> by poruszać swoim zawodnikiem (tym z kółkiem pod spodem).</p>
+<p>{{ 'pass'|action }} Podanie po ziemi<br>{{ 'togglePlayer'|action }} Zmiana zawodnika<br>{{ 'shoot'|action }} Strzał (przytrzymaj dla strzału precyzyjnego)<br>{{ 'header'|action }} Strzał z powietrza (przytrzymaj będąc pod piłką)<br>{{ 'slide'|action }} Wślizg<br>{{ 'lob'|action }} Podanie górą (przytrzymaj by mocniej kopnąć)<br></p>
+
+
+<h2>Podania</h2>
+<p>W grze są dwa sposoby na podawanie piłki: po ziemi i górą.</p>
+
+<h3>Podanie po ziemi</h3>
+<figure><img src="file://{{ 'help/ground_pass.png'|file }}"><figcaption><p>Naciśnij {{ 'pass'|action }}</p>
+    </figcaption></figure><p>Aby wykonać podanie po ziemi naciśnij {{ 'pass'|action }} i użyj <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> by wskazać kierunek kopnięcia piłki. Gracz odbierający podanie zostanie wybrany automatycznie.</p>
+
+<h3>Podanie górą</h3>
+<figure><img src="file://{{ 'help/lob_pass.png'|file }}"><figcaption><p>Przytrzymaj {{ 'lob'|action }}</p>
+    </figcaption></figure><p>Aby wykonać podanie górą przytrzymaj {{ 'lob'|action }} i użyj <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> by wskazać kierunek kopnięcia piłki. Im dłużej przytrzymasz wymieniony przycisk, tym dalsze będzie podanie.</p>
+
+<h3>Wspomagane vs proste podania</h3>
+<p>Wspomagane podanie jest wtedy, gdy odbiorca podania sterowany przez SI przejmuje piłkę (jeśli zdąży). Jest to domyślny rodzaj podań w grze.</p>
+<p>Wspomagane podania pozwalają na kolejkowanie akcji, np. podanie piłki dalej lub oddanie strzału na bramkę zanim odbierający będzie miał piłkę. Można to wypróbować na spokojnie w trybie treningowym.</p>
+<p>Proste podania pozwalają kopnąć piłkę w wybranym kierunku i przejęcie kontroli nad zawodnikiem odbierającym. Można też zastosować grę z powietrza przy tych podaniach.</p>
+<p>Aby wykonać podanie proste przytrzymaj {{ 'passModifier'|action }} w trakcie kopania piłki.</p>
+<p>Uwaga: wykonanie główki lub przewrotki przy podaniach wspomaganych zazwyczaj będzie niemożliwe, potrzebujesz do tego podań prostych.</p>
+<p>Uwaga 2: próbowanie pokonania SI na poziomie profesjonalnym lub legendarnym przy pomocy tylko podań wspomaganych nie jest dobrym pomysłem, czuj się ostrzeżony.</p>
+
+
+<h2>Strzelanie</h2>
+<p>Aby strzelać na bramkę używaj {{ 'shoot'|action }}. Jest parę metod strzelania opisanych poniżej.</p>
+
+<h3>Strzał bezpośredni</h3>
+<figure><img src="file://{{ 'help/direct_shot.png'|file }}"><figcaption><p>Szybko naciśnij {{ 'shoot'|action }}</p>
+    </figcaption></figure><p>Szybko przyciskając {{ 'shoot'|action }} Twój zawodnik wykona bezpośredni, automatyczny strzał w najlepszym według jego opinii kierunku. Strzał ten nie jest najmocniejszy, a najlepiej użyć go gdy bramkarz wyjdzie z bramki.</p>
+
+<h3>Strzał z pierwszej piłki</h3>
+<figure><img src="file://{{ 'help/chip_shot.png'|file }}"><figcaption><p>Przytrzymaj {{ 'shoot'|action }} gdy wbiegasz na piłkę</p>
+    </figcaption></figure><p>Ten typ strzału jest znacznie mocniejszy niż strzał bezpośredni, ale kierunek piłki jest automatyczny. Może być użyty wbiegając na toczącą się piłkę.</p>
+
+<h3>Strzał precyzyjny</h3>
+<figure><img src="file://{{ 'help/precise_shot.png'|file }}"><figcaption><p>Przytrzymaj {{ 'shoot'|action }}</p>
+    </figcaption></figure><p>Przytrzymując przycisk strzału przejdziesz do trybu celowania, dzięki któremu możesz nadać strzałowi kierunek za pomocą klawiszy <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> oraz podkręcić piłkę. Im dłużej trzymasz przycisk, tym mocniejszy strzał.</p>
+<figure><img src="file://{{ 'help/swerve.png'|file }}"><figcaption><p>Przytrzymaj {{ 'swerveUp'|action }} lub {{ 'swerveDown'|action }}</p>
+    </figcaption></figure><p>Przerywana linia celowania może być wyginana za pomocą klawiszy {{ 'swerveUp'|action }}  lub {{ 'swerveDown'|action }}. Jest to dobry sposób na zmylenie przeciwnika lub uderzanie z ostrych kątów.</p>
+<p>Uwaga: silny strzał może znokautować innych graczy, w tym bramkarza.</p>
+
+
+<h2>Wślizg</h2>
+<figure><img src="file://{{ 'help/slide_tackle.png'|file }}"><figcaption><p>Naciśnij {{ 'slide'|action }}</p>
+    </figcaption></figure><p>Wciśnij {{ 'slide'|action }} by wykonać wślizg w kierunku, w którym się poruszasz. Jest to skuteczny sposób bronienia, aczkolwiek wykonując go należy być bardzo precyzyjnym, w szczególności gdy chce się trafić zawodnika biegnącego z piłką. Tak, polowanie na przeciwników zamiast na piłkę jest bardzo perfidną i zaskakującą taktyką. Dla przykładu spróbuj skosić gracza do którego kierowane jest podanie. Zawodnicy oczekujący na górne piłki są bardziej podatni na wślizgi.</p>
+<p>Wślizgi mogą być również użyte by "biec" szybciej (bez piłki), wjechać z piłką do bramki lub powstrzymać strzał przeciwnika.</p>
+
+
+<h2>Gra z powietrza</h2>
+<figure><img src="file://{{ 'help/header.png'|file }}"><figcaption><p>Przytrzymaj {{ 'header'|action }} gdy jesteś pod piłką</p>
+    </figcaption></figure><p>Gdy piłka jest w powietrzu możesz wykonać główkę lub przewrotkę wbiegając pod piłkę trzymając {{ 'header'|action }}. Kierunek strzału jest automatyczny jak przy strzale bezpośrednim.</p>
+<p>Pamiętaj, że możesz ten manewr wykorzystać również defensywnie, np. przerywając górne podanie przeciwnika w Twoje pole karne.</p>
+
+
+<h2>Super-ruchy</h2>
+<p>W górnej części ekranu znajdują się dwa paski umiejętności. Jeden należy do Ciebie, drugi do przeciwnika. Gdy Twój się wypełni, otrzymasz jeden, losowy super-ruch, a obok paska pojawi się migająca ikona.</p>
+<p>Aby aktywować super-ruch, naciśnij {{ 'powerup'|action }}. Czasami trzeba przytrzymać ten przycisk dłużej, w zależności od aktualnego super-ruchu.</p>
+<p>Niektóre super-ruchy mogą być użyte by przeciwdziałać super-ruchom oponentów.</p>
+
+<h3>Magnes</h3>
+<figure><img src="file://{{ 'help/magnet.png'|file }}"><figcaption><p>Naciśnij {{ 'powerup'|action }}</p>
+    </figcaption></figure><p>Użyj go by przyciągnąć piłkę do kontrolowanego przez siebie gracza. Jest to świetne zaskoczenie i warto je stosować w ataku i obronie.</p>
+
+<h3>Teleport</h3>
+<figure><img src="file://{{ 'help/teleport.png'|file }}"><figcaption><p>Przytrzymaj {{ 'powerup'|action }} by wycelować i puść by przenieść zawodnika</p>
+    </figcaption></figure><p>Przytrzymaj {{ 'powerup'|action }} i pojawi się celownik. Gdy puścisz przycisk przeniesiesz się we wskazane przez siebie miejsce. Możesz przenieść się z piłką do bramki lub w zawodnika, który aktualnie posiada piłkę. Możesz również próbować zablokować strzał przeciwnika. Uwaga: gdy celujesz przeciwnik może Ci zabrać piłkę.</p>
+
+<h3>Super-strzał</h3>
+<figure><img src="file://{{ 'help/supershot.png'|file }}"><figcaption><p>Naciśnij {{ 'powerup'|action }} by strzelić i użyj <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> by kontrolować piłkę podczas lotu</p>
+    </figcaption></figure><p>Jest to bardzo mocny strzał, który możesz kontrolować używając <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>. Uważaj by nie uderzyć innych zawodników, spowolni to piłkę. Możesz zdobyć gola strzelając nawet z własnej połowy.</p>
+
+<h3>Wiatrak</h3>
+<figure><img src="file://{{ 'help/windmaker.png'|file }}"><figcaption><p>Naciśnij {{ 'powerup'|action }}</p>
+    </figcaption></figure><p>Wiatrak blokuje dostęp do Twojej bramki. Używaj go by chronić się przed strzałami przeciwnika. Jego działanie trwa kilka sekund i może zatrzymać piłkę po super-strzale jeśli jest uruchomiony odpowiednio wcześnie.</p>
+
+<h3>Zamrożenie</h3>
+<figure><img src="file://{{ 'help/freeze.png'|file }}"><figcaption><p>Przytrzymaj {{ 'powerup'|action }} by naładować i puść by zamrozić graczy wokół</p>
+    </figcaption></figure><p>Zamrożenie unieruchamia pobliskich graczy (w tym kolegów z drużyny) na jakiś czas. Piłka też jest zatrzymywana, jeśli znajduje się w promieniu rażenia, co jest przydatne do powstrzymywania strzałów przeciwnika.</p>
+<p>Możesz odmrozić kolegę z drużyny robiąc w niego wślizg.</p>
+
+
+<h3>Teslakopter</h3>
+<figure><img src="file://{{ 'help/tesla.png'|file }}"><figcaption><p>Naciśnij {{ 'powerup'|action }} by aktywować i naciśnij ponownie by razić graczy prądem</p>
+    </figcaption></figure><p>Teslakopter zawsze podąża za zawodnikiem z piłką i pozwala mu na rażenie prądem innych graczy w pewnym promieniu. Są 4 ładunki, po zużyciu ostatniego teslakopter odlatuje.</p>
+<p>Ważne: utrata piłki oznacza również utratę kontroli nad teslakopterem.</p>
+
+
+<h2>Bramkarz</h2>
+<figure><img src="file://{{ 'help/goalkeeper_slide.png'|file }}"><figcaption><p>Naciśnij {{ 'goalkeeperSlide'|action }}</p>
+    </figcaption></figure><p>Bramkarze sterowani są przez SI. Będą się starać złapać lub przechwycić piłkę znajdując się blisko zawodnika. Możesz wymusić wślizg bramkarzem wciskając {{ 'goalkeeperSlide'|action }}. Bramkarz zawsze wykonuje wślizg w kierunku piłki, więc może się z nią minąć gdy ta szybko się porusza.</p>
+<p>Gdy Twój bramkarz jest w posiadaniu piłki, możesz podać ją po ziemi lub górą, używając odpowiednich przycisków ({{ 'pass'|action }} i  {{ 'lob'|action }}). Pamiętaj, że masz na to 3 sekundy. Jeżeli w tym czasie nie podasz, SI przejmie kontrolę nad Twoim bramkarzem.</p>
+<p>Bramkarz jest odporny na wślizgi, ale nie może poruszać się z piłką.</p>
+
+
+<h2>Zaawansowane techniki</h2>
+<h3>Sprint</h3>
+<p>Przytrzymaj {{ 'sprint'|action }} by przyspieszyć. Robić to mogą tylko gracze bez piłki. Zawodnicy się nie męczą, więc przyspieszaj do woli.</p>
+
+<h3>Wysunięcie piłki</h3>
+<figure><img src="file://{{ 'help/push_forward.png'|file }}"></figure><p>Możesz wypuścić piłkę przed siebie szybko naciskając {{ 'pass'|action }}. Następnie, sprintując, możesz dogonić piłkę. Działa to tylko wtedy gdy przed Tobą nie ma członka Twojej drużyny.</p>
+
+<h3>Zmiana zawodników</h3>
+<figure><img src="file://{{ 'help/change_player.png'|file }}"></figure><p>Gdy chcesz zmienić zawodnika za pomocą klawisza {{ 'togglePlayer'|action }} pamiętaj by ustalić kierunek od zawodnika do piłki za pomocą <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>. Jeżeli lewy drążek jest w pozycji pionowej lub nie masz wciśniętych klawiszy kierunku, komputer wybierze zawodnika będącego najbliżej piłki.</p>
+
+<h3>Strzał z pierwszej piłki</h3>
+<figure><img src="file://{{ 'help/lob_score.png'|file }}"></figure><p>Możesz przelobować bramkarza krótko wciskając {{ 'lob'|action }}. Oczywiście najlepiej używać tej taktyki gdy bramkarz oddali się od bramki.</p>
+
+<h3>Inne wskazówki</h3>
+<figure><img src="file://{{ 'help/dribbling.png'|file }}"></figure><p>Zawodnik bez piłki jest wolniejszy i nie może przyspieszać. Gdy biegniesz z piłką zawodnik bez niej może Ci ją zabrać wbiegając w Ciebie. Oczywiście zawodnik z piłką może być powalony dzięki celnemu wślizgowi, dlatego ważna jest kontrola nad piłką. Jeżeli masz problem z dryblingiem spróbuj częściej podawać, lecąca piłka zazwyczaj jest szybsza od biegnącego przeciwnika.</p>
+</div>

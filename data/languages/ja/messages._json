@@ -1,0 +1,1022 @@
+{
+    "tournament.groupName": {
+        "message": "グループ {LETTER}",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague.accusative": {
+        "message": "パンアメリカリーグ",
+        "description": "Accusative case"
+    },
+    "play.practice": {
+        "message": "練習",
+        "description": ""
+    },
+    "summary.title": {
+        "message": "{RED_SCORE} : {BLUE_SCORE}",
+        "description": ""
+    },
+    "challenges.completed": {
+        "message": "チャレンジ成功",
+        "description": ""
+    },
+    "play.oceaniaCup": {
+        "message": "オセアニアカップ",
+        "description": ""
+    },
+    "audio.effectsVolume": {
+        "message": "効果音音量",
+        "description": ""
+    },
+    "menu.ok": {
+        "message": "OK",
+        "description": "Button label for accepting changes"
+    },
+    "play.panArabLeague": {
+        "message": "パンアラブリーグ",
+        "description": ""
+    },
+    "challenges.teleportScore": {
+        "message": "スーパームーブのテレポートを使ってゴールを決めよう。",
+        "description": ""
+    },
+    "video.dirt": {
+        "message": "芝生の状態不良",
+        "description": "Visual effect."
+    },
+    "leaderboards.friends": {
+        "message": "友達",
+        "description": "Button label."
+    },
+    "summary.offensive": {
+        "message": "攻撃",
+        "description": ""
+    },
+    "table.goalsAgainst": {
+        "message": "失点",
+        "description": "Short form of the words 'Goals Against'"
+    },
+    "challenges.cornerDefense": {
+        "message": "コーナーキックからの相手ゴールを食い止めよう。",
+        "description": ""
+    },
+    "leaderboards.title": {
+        "message": "リーダーボード",
+        "description": "Button label."
+    },
+    "play.friendly": {
+        "message": "親善試合",
+        "description": ""
+    },
+    "video.depthOfField": {
+        "message": "被写界深度",
+        "description": "Visual effect."
+    },
+    "leagues.table.name": {
+        "message": "プレイヤー",
+        "description": ""
+    },
+    "match.selectTeam.playerLeave": {
+        "message": "{KEY} 退出",
+        "description": ""
+    },
+    "video.particles": {
+        "message": "パーティクル",
+        "description": "Visual effect."
+    },
+    "audio.musicVolume": {
+        "message": "Music volume",
+        "description": ""
+    },
+    "play.southAmericaCup": {
+        "message": "南アメリカカップ",
+        "description": ""
+    },
+    "match.selectTeam.playerDisconnected": {
+        "message": "コントローラー{NUMBER} 未接続",
+        "description": ""
+    },
+    "play.pacificLeague.accusative": {
+        "message": "パシフィックリーグ",
+        "description": "Accusative case"
+    },
+    "challenges.penaltyAreaScore": {
+        "message": "相手のペナルティエリアから最低 {MIN_GOALS} 回ゴールを決めよう。",
+        "description": ""
+    },
+    "actions.sprint": {
+        "message": "スプリント",
+        "description": "Name of action for running faster."
+    },
+    "challenges.noSupermoves": {
+        "message": "スーパームーブを使用せずに勝とう。",
+        "description": ""
+    },
+    "help.content.goalkeeper": {
+        "message": "<file src=\"help_goalkeeper.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "challenges.reverseShot": {
+        "message": "相手ゴールの反対方向に走りながら正確なシュートでゴールを決めよう。",
+        "description": ""
+    },
+    "play.northAmericaCup.accusative": {
+        "message": "北アメリカカップ",
+        "description": "Accusative case"
+    },
+    "tournament.end": {
+        "message": "トーナメント終了",
+        "description": "Button label."
+    },
+    "legendUnlocked": {
+        "message": "おめでとう！<br>あなたはさらに上の : <i class=\"platinum\">レジェンド</i>レベルを解き放ちました。",
+        "description": ""
+    },
+    "play.microstatesCup.accusative": {
+        "message": "マイクロステートカップ",
+        "description": "Accusative case"
+    },
+    "video.brightness": {
+        "message": "明るさ",
+        "description": ""
+    },
+    "menu.saveMessage": {
+        "message": "本当にこの設定を保存しますか。",
+        "description": ""
+    },
+    "help.title": {
+        "message": "遊び方",
+        "description": ""
+    },
+    "leagues.table.fame": {
+        "message": "名声",
+        "description": ""
+    },
+    "challenges.noPreciseShot": {
+        "message": "正確なシュートを使わずに勝とう。",
+        "description": ""
+    },
+    "controls.gamepad2": {
+        "message": "ゲームパッド　2",
+        "description": "Button label."
+    },
+    "actions.togglePlayer": {
+        "message": "プレイヤー切り替え",
+        "description": "Name of action for changing in-game characters."
+    },
+    "challenges.slideIntercept": {
+        "message": "スライドタックルを使って最低{MIN_INTERCEPTIONS} 回、インターセプトしよう。",
+        "description": ""
+    },
+    "menu.selectTeam": {
+        "message": "チーム選択",
+        "description": ""
+    },
+    "unlock": {
+        "message": "難易度 <i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> で\n<br><i>{MODE}</i><br>を勝ち取ろう。",
+        "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+    },
+    "help.title.basics": {
+        "message": "基礎テクニック",
+        "description": "Section heading and button label."
+    },
+    "summary.shots": {
+        "message": "シュート",
+        "description": ""
+    },
+    "distance": {
+        "message": "{METERS}m",
+        "description": "Distance covered in meters."
+    },
+    "challenges.teleportKnockDown": {
+        "message": "テレポートを使い相手をノックダウンしよう。",
+        "description": ""
+    },
+    "play.commonwealthCup.accusative": {
+        "message": "コモンウェルスカップ",
+        "description": "Accusative case"
+    },
+    "controls.keyboard": {
+        "message": "キーボード",
+        "description": "Button label."
+    },
+    "leaderboards.global": {
+        "message": "グローバル",
+        "description": "Button label."
+    },
+    "challenges.everyoneScores": {
+        "message": "フィールドプレイヤー全員にゴールさせよう。",
+        "description": ""
+    },
+    "menu.off": {
+        "message": "オフ",
+        "description": "When something is disabled"
+    },
+    "play.asiaCup": {
+        "message": "アジアカップ",
+        "description": ""
+    },
+    "challenges.hatTrick": {
+        "message": "ハットトリックを決めよう。",
+        "description": ""
+    },
+    "play.africaCup": {
+        "message": "アフリカカップ",
+        "description": ""
+    },
+    "challenges.progress.count": {
+        "message": "{VALUE}/{MIN}",
+        "description": ""
+    },
+    "help.content.basics": {
+        "message": "<file src=\"help_basics.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "leagues.gold": {
+        "message": "ゴールドリーグ",
+        "description": ""
+    },
+    "leagues.table.league": {
+        "message": "L",
+        "description": "Initial from the word `League` used in the leaderboard table"
+    },
+    "leagues.promotion": {
+        "message": "おめでとうございます！<br>あなたは <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>に昇格しました。",
+        "description": ""
+    },
+    "play.centralAmericanAndCaribbeanLeague": {
+        "message": "中央アメリカ・カリブリーグ",
+        "description": ""
+    },
+    "challenges.progress.seconds": {
+        "message": "{VALUE}/{MIN}s",
+        "description": ""
+    },
+    "play.europeCup.accusative": {
+        "message": "ヨーロッパカップ",
+        "description": "Accusative case"
+    },
+    "actions.lob": {
+        "message": "ロブパス",
+        "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+    },
+    "actions.pass": {
+        "message": "パス",
+        "description": "Name of action for passing the ball to another player."
+    },
+    "help.content.advanced": {
+        "message": "<file src=\"help_advanced.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "controls.gamepad1": {
+        "message": "ゲームパッド　1",
+        "description": "Button label."
+    },
+    "menu.keys.move": {
+        "message": "ナビゲーション",
+        "description": ""
+    },
+    "challenges.goldenGoalWin": {
+        "message": "ゴールデンゴールで勝とう。",
+        "description": ""
+    },
+    "leagues.silver": {
+        "message": "シルバーリーグ",
+        "description": ""
+    },
+    "challenges.title": {
+        "message": "マッチチャレンジ",
+        "description": ""
+    },
+    "menu.keys.back": {
+        "message": "戻る",
+        "description": ""
+    },
+    "controls.change": {
+        "message": "変更",
+        "description": "Button label."
+    },
+    "play.title": {
+        "message": "大会の選択",
+        "description": ""
+    },
+    "play.northAmericaCup": {
+        "message": "北アメリカカップ",
+        "description": ""
+    },
+    "challenges.slideTrap": {
+        "message": "最低 {MIN_SLIDES} 回クリーンなスライディングタックルを決めよう。",
+        "description": ""
+    },
+    "match.goal": {
+        "message": "ゴーーール！",
+        "description": ""
+    },
+    "actions.left": {
+        "message": "左",
+        "description": "Name of action for moving in-game character left."
+    },
+    "ai.level3": {
+        "message": "レジェンド",
+        "description": "Fourth difficulty level name"
+    },
+    "options.title": {
+        "message": "オプション",
+        "description": "Options menu title."
+    },
+    "play.mediterraneanLeague": {
+        "message": "地中海カップ",
+        "description": ""
+    },
+    "main.quit": {
+        "message": "やめる",
+        "description": "Button label for closing the game and returning to OS."
+    },
+    "summary.shotsOffTarget": {
+        "message": "枠外シュート",
+        "description": ""
+    },
+    "challenges.cleanPasses": {
+        "message": "ボールを取られることなく最低 {MIN_PASSES} 回パスをしよう。",
+        "description": ""
+    },
+    "challenges.slideAccuracy": {
+        "message": "スライドタックルの正確さ {MIN_ACCURACY}% を達成しよう。",
+        "description": ""
+    },
+    "ai.level0.instrumental": {
+        "message": "ビギナー",
+        "description": "First difficulty level name, instrumental case"
+    },
+    "tournament.semifinals": {
+        "message": "セミファイナル",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague": {
+        "message": "パンアメリカリーグ",
+        "description": ""
+    },
+    "summary.blockedShots": {
+        "message": "ブロックされたシュート",
+        "description": ""
+    },
+    "summary.matchPoints": {
+        "message": "マッチポイント",
+        "description": ""
+    },
+    "table.loses": {
+        "message": "敗戦",
+        "description": "Short form of the word 'Loses'"
+    },
+    "video.shadows": {
+        "message": "シャドー",
+        "description": "Visual effect."
+    },
+    "challenges.cleanSheet": {
+        "message": "一本のゴールも許してはいけません。",
+        "description": ""
+    },
+    "play.panArabLeague.accusative": {
+        "message": "パンアラブリーグ",
+        "description": "Accusative case"
+    },
+    "friendly.ai": {
+        "message": "AI",
+        "description": "Acronym for Artifical Intelligence"
+    },
+    "time": {
+        "message": "{MINUTES} min",
+        "description": "Duration in minutes."
+    },
+    "menu.loading": {
+        "message": "ローディング",
+        "description": ""
+    },
+    "challenges.goalkeeperSlideTrap": {
+        "message": "自分のゴールキーパーで最低 {MIN_SLIDES}回 スライドタックルを成功させよう。",
+        "description": ""
+    },
+    "leagues.bronze": {
+        "message": "ブロンズリーグ",
+        "description": ""
+    },
+    "actions.up": {
+        "message": "上",
+        "description": "Name of action for moving in-game character up."
+    },
+    "menu.selectStadium": {
+        "message": "スタジアム選択",
+        "description": ""
+    },
+    "help.title.advanced": {
+        "message": "高度なテクニック",
+        "description": "Section heading and button label."
+    },
+    "copyrights": {
+        "message": "Copyright © MERIXSTUDIO. All rights reserved.",
+        "description": ""
+    },
+    "help.content.superMoves": {
+        "message": "<file src=\"help_super_moves.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "video.contrast": {
+        "message": "コントラスト",
+        "description": ""
+    },
+    "actions.down": {
+        "message": "下",
+        "description": "Name of action for moving in-game character down."
+    },
+    "challenges.dribbleDistance": {
+        "message": "少なくとも {MIN_DRIBBLE_DISTANCE} メーターをボールを取られることなくドリブルし続けよう。",
+        "description": ""
+    },
+    "actions.slide": {
+        "message": "スライディングタックル",
+        "description": "Name of action for performing slide tackle."
+    },
+    "match.selectTeam.hint": {
+        "message": "キャラクターを選択したいチームのところへ動かしてください。",
+        "description": ""
+    },
+    "match.selectTeam.playerConfirm": {
+        "message": "{KEY} 確認",
+        "description": ""
+    },
+    "menu.save": {
+        "message": "セーブ",
+        "description": "Button label for saving some options."
+    },
+    "actions.menuBack": {
+        "message": "メニューに戻る",
+        "description": "Name of action for canceling menu choice."
+    },
+    "tournament.difficultyTitle": {
+        "message": "難易度選択",
+        "description": "Difficulty selection menu title."
+    },
+    "menu.randomBall": {
+        "message": "ボール　自動選択",
+        "description": ""
+    },
+    "play.commonwealthCup": {
+        "message": "コモンウェルスカップ",
+        "description": ""
+    },
+    "challenges.touchWoodwork": {
+        "message": "ゴールポストかクロスバーにボールを当てて最低 {MIN_GOALS} 回ゴールを決めよう。",
+        "description": ""
+    },
+    "summary.skill": {
+        "message": "スキル",
+        "description": ""
+    },
+    "menu.keys.accept": {
+        "message": "許可",
+        "description": ""
+    },
+    "actions.right": {
+        "message": "右",
+        "description": "Name of action for moving in-game character right."
+    },
+    "actions.toggleTeam": {
+        "message": "コントローラー交換",
+        "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+    },
+    "summary.interceptions": {
+        "message": "インターセプト",
+        "description": ""
+    },
+    "play.continentalLeague": {
+        "message": "コンチネンタルリーグ",
+        "description": ""
+    },
+    "match.selectTeam.playerPlay": {
+        "message": " {KEY}を押してプレイ開始",
+        "description": ""
+    },
+    "menu.next": {
+        "message": "次へ",
+        "description": "Button label for going to the next screen"
+    },
+    "summary.continue": {
+        "message": "続行",
+        "description": "Button label."
+    },
+    "audio.audio": {
+        "message": "オーディオ",
+        "description": ""
+    },
+    "challenges.supershotHitAndScore": {
+        "message": "スーパーショットで相手プレイヤー２人をヒットし、ゴールを決めよう。",
+        "description": ""
+    },
+    "actions.swerveUp": {
+        "message": "スワーブ　左",
+        "description": "Name of action for swerving the ball in one direction."
+    },
+    "help.title.shooting": {
+        "message": "シュート",
+        "description": "Section heading and button label."
+    },
+    "menu.comingSoon": {
+        "message": "近日公開",
+        "description": ""
+    },
+    "summary.defensive": {
+        "message": "守備",
+        "description": ""
+    },
+    "play.southAmericaCup.accusative": {
+        "message": "南アメリカカップ",
+        "description": "Accusative case"
+    },
+    "challenges.interceptions": {
+        "message": "少なくとも {MIN_INTERCEPTIONS} パスをインターセプトしよう。",
+        "description": ""
+    },
+    "challenges.magnetOnShot": {
+        "message": "ボールマグネットを使って相手のシュートを食い止めよう。",
+        "description": ""
+    },
+    "play.oceaniaCup.accusative": {
+        "message": "オセアニアカップ",
+        "description": "Accusative case"
+    },
+    "legendMastered": {
+        "message": "おめでとう！<br>あなたは難易度最高レベルにおいて、全ての試合を制覇しました。",
+        "description": ""
+    },
+    "tournament.fixture": {
+        "message": "試合日程 {NUMBER}",
+        "description": "League screen heading."
+    },
+    "play.centralAmericanAndCaribbeanLeague.accusative": {
+        "message": "中央アメリカ・カリビアリーグ",
+        "description": "Accusative case"
+    },
+    "menu.randomTeam": {
+        "message": "チーム　自動選択",
+        "description": ""
+    },
+    "challenges.goalkeeperLob": {
+        "message": "キーパー頭上を行くロビングでゴールを決めよう。",
+        "description": ""
+    },
+    "table.draws": {
+        "message": "引分",
+        "description": "Short form of the word 'Draws'"
+    },
+    "actions.swerveDown": {
+        "message": "スワーブ　右",
+        "description": "Name of action for swerving the ball in another direction."
+    },
+    "pause.title": {
+        "message": "一時停止",
+        "description": "Pause menu title."
+    },
+    "options.language": {
+        "message": "言語",
+        "description": "Button label."
+    },
+    "summary.passes": {
+        "message": "パス",
+        "description": ""
+    },
+    "challenges.dribbleTime": {
+        "message": "少なくとも {MIN_DRIBBLE_TIME} 秒間ボールを取られることなくドリブルし続けよう。",
+        "description": ""
+    },
+    "ai.level1.instrumental": {
+        "message": "アマ",
+        "description": "Second difficulty level name, instrumental case"
+    },
+    "tournament.startGame": {
+        "message": "試合開始",
+        "description": "Button label."
+    },
+    "menu.selectBall": {
+        "message": "ボール選択",
+        "description": ""
+    },
+    "challenges.ballPossession": {
+        "message": "ボール保持率 {MIN_POSSESSION}% を達成しよう。",
+        "description": ""
+    },
+    "challenges.progress.meters": {
+        "message": "{VALUE}/{MIN}m",
+        "description": ""
+    },
+    "ai.level1": {
+        "message": "アマ",
+        "description": "Second difficulty level name"
+    },
+    "challenges.cleanLobs": {
+        "message": "ボールを取られることなく最低 {MIN_PASSES} 回ロビングパスをしよう。",
+        "description": ""
+    },
+    "actions.goalkeeperSlide": {
+        "message": "GKスライディングタックル",
+        "description": "Name of action for performing goalkeeper slide tackle."
+    },
+    "actions.shoot": {
+        "message": "シュート",
+        "description": "Name of action for shooting at the goal."
+    },
+    "challenges.fastTriple": {
+        "message": " {MIN_TIME} 秒以内に３ゴール決めよう。",
+        "description": ""
+    },
+    "summary.challengePoints": {
+        "message": "チャレンジポイント",
+        "description": ""
+    },
+    "table.wins": {
+        "message": "勝利",
+        "description": "Short form of the word 'Wins'"
+    },
+    "play.africaCup.accusative": {
+        "message": "アフリカカップ",
+        "description": "Accusative case"
+    },
+    "controls.title": {
+        "message": "コントロール",
+        "description": "Controls menu title."
+    },
+    "challenges.progress.percent": {
+        "message": "{VALUE}/{MIN}%",
+        "description": ""
+    },
+    "match.cornerKick": {
+        "message": "コーナーキック！",
+        "description": ""
+    },
+    "help.title.passing": {
+        "message": "パス",
+        "description": "Section heading and button label."
+    },
+    "challenges.slideScore": {
+        "message": "ゴールラインをスライドタックルで超えてゴールを決めよう。",
+        "description": ""
+    },
+    "actions.pause": {
+        "message": "一時停止",
+        "description": "Name of action for pausing the game."
+    },
+    "audio.title": {
+        "message": "オーディオ",
+        "description": "Audio options menu title."
+    },
+    "help.content.passing": {
+        "message": "<file src=\"help_passing.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "friendly.startMatch": {
+        "message": "試合開始",
+        "description": "Button label."
+    },
+    "controls.duplicated": {
+        "message": "1つのキーが複数の動きに設定されているようです。セーブする前に直してください。",
+        "description": ""
+    },
+    "play.continentalLeague.accusative": {
+        "message": "コンチネンタルリーグ",
+        "description": "Accusative case"
+    },
+    "actions.supermove": {
+        "message": "スーパームーブ",
+        "description": "Name of action for activating a super-move (special action in game)."
+    },
+    "video.resolution": {
+        "message": "解像度",
+        "description": ""
+    },
+    "challenges.pitchAreaScore": {
+        "message": "相手ペナルティエリア外から最低 {MIN_GOALS} 回ゴールを決めよう。",
+        "description": ""
+    },
+    "friendly.title": {
+        "message": "親善試合",
+        "description": ""
+    },
+    "match.halfTime": {
+        "message": "ハーフタイム！",
+        "description": ""
+    },
+    "challenges.scoringDefender": {
+        "message": "ディフェンスの選手を使ってゴールを決めよう。",
+        "description": ""
+    },
+    "friendly.matchTime": {
+        "message": "時間",
+        "description": "Match time widget label."
+    },
+    "challenges.failed": {
+        "message": "チャレンジに失敗しました。",
+        "description": ""
+    },
+    "summary.distance": {
+        "message": "走行距離",
+        "description": ""
+    },
+    "leagues.userLimit": {
+        "message": "プレイヤー　人数制限",
+        "description": ""
+    },
+    "menu.reset": {
+        "message": "初期設定にリセット",
+        "description": "Button label"
+    },
+    "challenges.supershotFromPenaltyArea": {
+        "message": "自分のペナルティエリアからスーパーショットを打ってゴールを決めよう。",
+        "description": ""
+    },
+    "challenges.magnetOnSupershot": {
+        "message": "ボールマグネットを使って相手のスーパーシュートを食い止めよう。",
+        "description": ""
+    },
+    "play.microstatesCup": {
+        "message": "ミニ国家カップ",
+        "description": ""
+    },
+    "menu.keys.skipMatch": {
+        "message": "試合をスキップする",
+        "description": ""
+    },
+    "pause.resume": {
+        "message": "再開",
+        "description": "Button label."
+    },
+    "controls.gamepad3": {
+        "message": "ゲームパッド　3",
+        "description": "Button label."
+    },
+    "help.title.goalkeeper": {
+        "message": "ゴールキーパー",
+        "description": "Section heading and button label."
+    },
+    "challenges.trap": {
+        "message": "スライドタックルを使わずに最低 {MIN_TRAPS} 回 ボールをトラップしよう。",
+        "description": ""
+    },
+    "tournament.continue": {
+        "message": "続行",
+        "description": "Button label."
+    },
+    "options.audio": {
+        "message": "オーディオ",
+        "description": "Button label."
+    },
+    "summary.corners": {
+        "message": "コーナー",
+        "description": ""
+    },
+    "main.play": {
+        "message": "プレイ",
+        "description": "Button label."
+    },
+    "play.europeCup": {
+        "message": "ヨーロッパカップ",
+        "description": ""
+    },
+    "tournament.quarterfinals": {
+        "message": "クオーターファイナル",
+        "description": "Tournament screen heading."
+    },
+    "leagues.fameNeeded": {
+        "message": "要求される名声",
+        "description": ""
+    },
+    "tournament.playMatch": {
+        "message": "試合する",
+        "description": "Button label."
+    },
+    "challenges.noSlideTackle": {
+        "message": "スライドタックルを使用せず勝とう (フィールドプレーヤー、ゴールキーパー共に)。",
+        "description": ""
+    },
+    "controls.gamepad4": {
+        "message": "ゲームパッド　4",
+        "description": "Button label."
+    },
+    "menu.on": {
+        "message": "オン",
+        "description": "When something is enabled"
+    },
+    "challenges.cornerScore": {
+        "message": "コーナーキックから最低{MIN_GOALS} 回ゴールを決めよう。",
+        "description": ""
+    },
+    "leagues.platinum": {
+        "message": "プラチナリーグ",
+        "description": ""
+    },
+    "challenges.windmakerSave": {
+        "message": "ウインドメーカーを作動させ相手のシュートをギリギリで防ごう。",
+        "description": ""
+    },
+    "help.content.shooting": {
+        "message": "<file src=\"help_shooting.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "match.goalKick": {
+        "message": "ゴールキック！",
+        "description": ""
+    },
+    "tournament.teamTitle": {
+        "message": "チーム選択",
+        "description": "Team selection menu title."
+    },
+    "summary.slideTackleAccuracy": {
+        "message": "スライディングタックル成功率",
+        "description": ""
+    },
+    "friendly.draws": {
+        "message": "ドロー",
+        "description": ""
+    },
+    "tournament.restart": {
+        "message": "リスタート",
+        "description": "Button label."
+    },
+    "help.content.slideTackle": {
+        "message": "<file src=\"help_slide_tackle.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "controls.pressKey": {
+        "message": "キーを押す",
+        "description": "Button label."
+    },
+    "menu.cancel": {
+        "message": "キャンセル",
+        "description": "Button label for cancelling changes"
+    },
+    "challenges.golzagol": {
+        "message": "相手に得点を許した後、 {MIN_TIME} 秒以内にゴールを決めよう。",
+        "description": ""
+    },
+    "play.mediterraneanLeague.accusative": {
+        "message": "地中海カップ",
+        "description": "Accusative case"
+    },
+    "languageName": {
+        "message": "日本語",
+        "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+    },
+    "challenges.doubleSlideHit": {
+        "message": "１回のスライドタックルで少なくとも２人の相手プレイヤーをヒットしよう。",
+        "description": ""
+    },
+    "ai.level0": {
+        "message": "ビギナー",
+        "description": "First difficulty level name"
+    },
+    "match.throwIn": {
+        "message": "スローイン！",
+        "description": ""
+    },
+    "options.video": {
+        "message": "ビデオ",
+        "description": "Button label."
+    },
+    "play.asiaCup.accusative": {
+        "message": "アジアカップ",
+        "description": "Accusative case"
+    },
+    "options.controls": {
+        "message": "コントロール",
+        "description": "Button label."
+    },
+    "table.goalsFor": {
+        "message": "得点",
+        "description": "Short form of the words 'Goals For'"
+    },
+    "play.worldCup.accusative": {
+        "message": "ワールドカップ",
+        "description": "Accusative case"
+    },
+    "play.pacificLeague": {
+        "message": "パシフィックリーグ",
+        "description": ""
+    },
+    "ai.level2": {
+        "message": "プロ",
+        "description": "Third difficulty level name"
+    },
+    "ai.level2.instrumental": {
+        "message": "プロ",
+        "description": "Third difficulty level name, instrumental case"
+    },
+    "actions.menuAccept": {
+        "message": "OK",
+        "description": "Name of action for accepting menu choice."
+    },
+    "help.title.superMoves": {
+        "message": "スーパームーブ",
+        "description": "Section heading and button label."
+    },
+    "trophies.title": {
+        "message": "トロフィー",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlides": {
+        "message": "連続で最低 {MIN_SLIDES}回 スライディングタックルを成功させよう。",
+        "description": ""
+    },
+    "main.title": {
+        "message": "メインメニュー",
+        "description": "Main menu title"
+    },
+    "challenges.maxBallSwerve": {
+        "message": "超スワーブシュートで最低 {MIN_GOALS} 回ゴールを決めよう。",
+        "description": ""
+    },
+    "tournament.groupStage": {
+        "message": "グループステージ",
+        "description": "Tournament screen heading."
+    },
+    "video.title": {
+        "message": "ビデオ",
+        "description": "Video options menu title."
+    },
+    "menu.back": {
+        "message": "戻る",
+        "description": "Button label for returning to the previous screen"
+    },
+    "matches": {
+        "message": "{MATCHES, plural, other {# 試合}}",
+        "description": "Number of matches, may require plural syntax, depending on language"
+    },
+    "video.overlay": {
+        "message": "カラーオーバーレイ",
+        "description": "Visual effect."
+    },
+    "play.worldLeague": {
+        "message": "ワールドリーグ",
+        "description": ""
+    },
+    "challenges.untouchableGoal": {
+        "message": "ボールを一度も取られることなくゴールを決めよう（ゴールキック時点から、またはキックオフから）",
+        "description": ""
+    },
+    "pause.back": {
+        "message": "やめる",
+        "description": "Button label for abandoning match and returning to menu."
+    },
+    "menu.resetMessage": {
+        "message": "本当に初期設定にリセットしてもよろしいですか。",
+        "description": ""
+    },
+    "leagues.relegation": {
+        "message": "残念！<br>あなたは <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>に降格してしまいました。",
+        "description": ""
+    },
+    "table.points": {
+        "message": "勝点",
+        "description": "Short form of the word 'Points'"
+    },
+    "menu.randomStadium": {
+        "message": "スタジアム　自動選択",
+        "description": ""
+    },
+    "summary.possession": {
+        "message": "ボールポゼッション",
+        "description": ""
+    },
+    "challenges.cleanGroundPasses": {
+        "message": "ボールを取られることなく最低 {MIN_PASSES} 回、グラウンダーパスをしよう。",
+        "description": ""
+    },
+    "challenges.roundingTheKeeper": {
+        "message": "ゴールラインをドリブルで超えてゴールを決めよう。",
+        "description": ""
+    },
+    "play.worldLeague.accusative": {
+        "message": "ワールドリーグ",
+        "description": "Accusative case"
+    },
+    "help.title.slideTackle": {
+        "message": "スライディングタックル",
+        "description": "Section heading and button label."
+    },
+    "ai.level3.instrumental": {
+        "message": "レジェンド",
+        "description": "Fourth difficulty level name, instrumental case"
+    },
+    "play.worldCup": {
+        "message": "ワールドカップ",
+        "description": ""
+    },
+    "tournament.roundOf16": {
+        "message": "決勝トーナメント",
+        "description": "Tournament screen heading."
+    },
+    "summary.total": {
+        "message": "トータル",
+        "description": ""
+    },
+    "challenges.goalDifference": {
+        "message": " {MIN_DIFFERENCE} 点差をつけて相手に勝ちましょう。",
+        "description": ""
+    }
+}

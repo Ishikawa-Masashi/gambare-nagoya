@@ -1,0 +1,211 @@
+
+<p>Kopanito is a skill-based game. It means, that you need to learn the game's mechanic over time (like in real life football). You need to work out your precision and reflexes to be a better player. Luck means little in Kopanito. The better player just wins and there aren't footballer stats that can help you. You are the stats.</p>
+
+
+<figure>
+    <img src="file://{{ 'help/dribbling.png'|file }}">
+</figure>
+<p>Use <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> to move your player (the one with a circle underneath).</p>
+<p>
+    {{ 'pass'|action }} Ground pass<br>
+    {{ 'togglePlayer'|action }} Change player<br>
+    {{ 'shoot'|action }} Shot (hold for precise shot mode)<br>
+    {{ 'header'|action }} Air shot (hold when under the ball)<br>
+    {{ 'slide'|action }} Slide tackle<br>
+    {{ 'lob'|action }} Lob pass (hold for stronger kick)<br>
+</p>
+
+
+<h2>Passing</h2>
+<p>There are two ways to pass the ball between players: ground pass and lob pass.</p>
+
+<h3>Ground pass</h3>
+<figure>
+    <img src="file://{{ 'help/ground_pass.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'pass'|action }}</p>
+    </figcaption>
+</figure>
+<p>To make a ground pass, press {{ 'pass'|action }} and use <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> to indicate direction in which you want to kick the ball. Receiving player will be selected automatically.</p>
+
+<h3>Lob pass</h3>
+<figure>
+    <img src="file://{{ 'help/lob_pass.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'lob'|action }}</p>
+    </figcaption>
+</figure>
+<p>To make a lob pass, hold {{ 'lob'|action }} and use <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> to indicate direction in which you want to kick the ball. The longer you hold, the further the ball will go.</p>
+
+<h3>Assisted vs manual passes</h3>
+<p>Assisted pass is where a pass receiver controlled by AI traps the ball (if possible). This is the default pass type in the game.</p>
+<p>Assisted passes allow you to queue actions, e.g. pass the ball further or shot at the goal before the receiver traps the ball. Feel free to try this in the practice mode in the game.</p>
+<p>Manual passes in contrast allows you to kick the ball precisely in the direction you want and control the pass receiver before trapping the ball. Air play can also be used with manual passes too.</p>
+<p>To perform a manual pass just hold the pass modifier key {{ 'passModifier'|action }} while kicking the ball.</p>
+<p>Note: Performing a header or bicycle kick on assisted passes isn't possible in most situations, you still need a manual lob pass for this purpose.</p>
+<p>Note 2: Trying to beat the Professional or Legend AI using only assisted passes isn't a good idea, feel warned.</p>
+
+
+<h2>Shooting</h2>
+<p>To shoot use {{ 'shoot'|action }}. There are a few ways to shoot described below.</p>
+
+<h3>Direct shot</h3>
+<figure>
+    <img src="file://{{ 'help/direct_shot.png'|file }}">
+    <figcaption>
+        <p>Press quickly {{ 'shoot'|action }}</p>
+    </figcaption>
+</figure>
+<p>By quickly pressing {{ 'shoot'|action }}, your player will make a sort of an automatic shot in the best direction according to him. The kick won’t be strong, this type of shot is best used if you manage to lure an opponent’s goalkeeper out of his goal.</p>
+
+<h3>First touch shot</h3>
+<figure>
+    <img src="file://{{ 'help/chip_shot.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'shoot'|action }} when running into the ball</p>
+    </figcaption>
+</figure>
+<p>This type of shot is much stronger than a direct shot, but still kick direction is automatic. It can be performed when the ball has no owner.</p>
+
+<h3>Precise shot</h3>
+<figure>
+    <img src="file://{{ 'help/precise_shot.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'shoot'|action }}</p>
+    </figcaption>
+</figure>
+<p>By holding the shoot button, you’ll enter precise shooting mode, where you can adjust kick direction using <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> and apply ball’s swerving. The longer you hold the button, the stronger the shot will be.</p>
+<figure>
+    <img src="file://{{ 'help/swerve.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'swerveUp'|action }} or {{ 'swerveDown'|action }}</p>
+    </figcaption>
+</figure>
+<p>The dashed targeting line can be bend by holding {{ 'swerveUp'|action }} or {{ 'swerveDown'|action }} to making the ball swerve. This is a good way to mislead the opponent’s goalkeeper or to shoot from very narrow angles.</p>
+<p>Note: a strong shot may knock down other players, including a goalkeeper.</p>
+
+
+<h2>Slide tackle</h2>
+<figure>
+    <img src="file://{{ 'help/slide_tackle.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'slide'|action }}</p>
+    </figcaption>
+</figure>
+<p>Press {{ 'slide'|action }} to slide tackle in the direction you’re moving. It is a very powerful defensive maneuver, but requires a lot of precision, especially when trying to hit a moving opponent. Yes, targeting opponents instead of the ball is a very perfidious and surprising tactic. For example try to predict when your opponent will pass the ball next, and knock down the pass receiver before the ball reaches him.</p>
+<p>The slide tackle can be used also to “run” faster (without the ball), to score goals by going through the goalkeeper or to cancel precise shots.</p>
+
+
+<h2>Air play</h2>
+<figure>
+    <img src="file://{{ 'help/header.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'header'|action }} when under the ball</p>
+    </figcaption>
+</figure>
+<p>You can perform a powerful header or a bicycle kick when the ball is in the air and you manage to stay close to it while holding {{ 'header'|action }}. Shot direction is automatic like in the direct shot.</p>
+<p>Remember that you can also use this move defensively, e.g. when an opponent makes a cross pass into your penalty area.</p>
+
+
+<h2>Super-moves</h2>
+<p>In the upper part of the screen there are two skill bars, that fill up during play. One bar is for your team and the other one is for opponents. When it fills up, you’ll receive a random super-move and a glowing icon will appear.</p>
+<p>To activate a super-move, press {{ 'powerup'|action }}. Sometimes it’s required to hold that button longer, depending on the super-move.</p>
+<p>Some super-moves can be used to counteract opponent super-moves.</p>
+
+<h3>Ball magnet</h3>
+<figure>
+    <img src="file://{{ 'help/magnet.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'powerup'|action }}</p>
+    </figcaption>
+</figure>
+<p>Use this to attract the ball to the currently controlled player. Great for making surprises, can be used offensively and defensively.</p>
+
+<h3>Teleport</h3>
+<figure>
+    <img src="file://{{ 'help/teleport.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'powerup'|action }} to target and release to teleport</p>
+    </figcaption>
+</figure>
+<p>Hold {{ 'powerup'|action }} and a crosshair will appear. Releasing the button will teleport your currently controlled player to this spot. You can teleport with the ball into opponent’s goal or into an opponent with the ball. Can also be used for attempting to block opponent’s shots. Note: an opponent can steal the ball from you during targeting</p>
+
+<h3>Super-shot</h3>
+<figure>
+    <img src="file://{{ 'help/supershot.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'powerup'|action }} to launch and use <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> to control the ball</p>
+    </figcaption>
+</figure>
+<p>This is a very powerful kick, after which you’ll be able to control the ball using <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>. Avoid hitting any players though, as it will slow down the ball. Can be performed even from your half and still score a goal.</p>
+
+<h3>Windmaker</h3>
+<figure>
+    <img src="file://{{ 'help/windmaker.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'powerup'|action }} to deploy</p>
+    </figcaption>
+</figure>
+<p>Windmaker will blow the ball out of your goal. Use it to defend against opponent’s shots. It last several seconds only. It can stop the super-shot if timed properly.</p>
+
+<h3>Freeze</h3>
+<figure>
+    <img src="file://{{ 'help/freeze.png'|file }}">
+    <figcaption>
+        <p>Hold {{ 'powerup'|action }} to charge and release to freeze nearby players</p>
+    </figcaption>
+</figure>
+<p>Freeze will immobilize nearby players (including teammates!) for some time. Ball is stopped when caught in the freeze radius, which is useful to cancel opponent's shots.</p>
+<p>You can defrost your teammate by slide tackling him.</p>
+
+
+<h3>Tesla-copter</h3>
+<figure>
+    <img src="file://{{ 'help/tesla.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'powerup'|action }} to activate and press again to zap</p>
+    </figcaption>
+</figure>
+<p>Tesla-copter always follows a player with the ball and allows him to shock other players in radius. There are 4 charges, after using the last one tesla-copter flies away.</p>
+<p>Important: losing the ball means also losing control of the tesla-copter!</p>
+
+
+<h2>Goalkeeper</h2>
+<figure>
+    <img src="file://{{ 'help/goalkeeper_slide.png'|file }}">
+    <figcaption>
+        <p>Press {{ 'goalkeeperSlide'|action }}</p>
+    </figcaption>
+</figure>
+<p>Goalkeepers are controlled only by the AI. They will try to catch the ball or intercept it when they are closest team member. You can enforce a slide tackle using {{ 'goalkeeperSlide'|action }} on your goalkeeper, but use this carefully. When a goalkeeper does the slide tackle he always does it towards the ball and if the ball is moving fast, goalkeeper will miss it most of the time.</p>
+<p>When your goalkeeper has the ball, you can make the regular pass or the lob pass using the appropriate buttons ({{ 'pass'|action }} and {{ 'lob'|action }}). Note, that you have a limited time for this: 3 seconds. If you do not make the pass in given time, then AI will take control of your goalkeeper.</p>
+<p>A goalkeeper is immune to slide tackles, but can’t move with the ball.</p>
+
+
+<h2>Advanced techniques</h2>
+<h3>Sprinting</h3>
+<p>Hold {{ 'sprint'|action }} to sprint. This works only on players without the ball. Players don’t have stamina and never get fatigued, so sprinting is unlimited.</p>
+
+<h3>Pushing forward</h3>
+<figure>
+    <img src="file://{{ 'help/push_forward.png'|file }}">
+</figure>
+<p>You can push the ball forward by quickly tapping {{ 'pass'|action }}. This works only if there is no team member in front of your player. Then you can catch up the ball by sprinting.</p>
+
+<h3>Changing players</h3>
+<figure>
+    <img src="file://{{ 'help/change_player.png'|file }}">
+</figure>
+<p>When changing players with {{ 'togglePlayer'|action }}, it’s important to indicate the direction from the player you’re looking at to the ball using <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>. If you have left stick centered or no arrow keys pressed, then the game will select the closest player to the ball.</p>
+
+<h3>Chip shot</h3>
+<figure>
+    <img src="file://{{ 'help/lob_score.png'|file }}">
+</figure>
+<p>You can lob the ball over a goalkeeper, just tap {{ 'lob'|action }} briefly. Best used when the opponent’s goalkeeper runs out of his goal.</p>
+
+<h3>Other tips</h3>
+<figure>
+    <img src="file://{{ 'help/dribbling.png'|file }}">
+</figure>
+<p>Player with the ball is slower and can’t sprint. If the opponent will run into the ball when you’re dribbling, then he will steal it from you. Of course the player with the ball can be knocked down by a precise sliding tackle, so being fast and precise is important to maintain control of the ball. If you have a problem with dribbling, then consider making more passes, as the moving ball is usually faster than any opponent.</p>

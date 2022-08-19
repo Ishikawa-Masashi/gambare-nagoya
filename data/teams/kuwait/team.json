@@ -1,0 +1,972 @@
+{
+    "rating": 1468,
+    "code": "KUW",
+    "thumbnail": "thumbnail.png",
+    "flag": "flag.png",
+    "flag_thumbnail": "flag_thumbnail.png",
+    "continent": "asia",
+    "kits": {
+        "goalkeeper": {
+            "arm_left_sleeve": {
+                "name": "goalkeeper/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "goalkeeper/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "../../player/kit/shirt_back.png",
+                "color": "8e8e8eff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "goalkeeper/shirt_front.png",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52,
+                "color": "ffffffff"
+            },
+            "leg_left_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "17181aff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "8f8f8fff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "17181aff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "8f8f8fff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "000000ff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44,
+                "width": 33,
+                "height": 18
+            },
+            "pelvis_shorts": {
+                "name": "../../player/kit/shorts.png",
+                "color": "17181aff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            },
+            "hand_left_glove": {
+                "name": "goalkeeper/hand_left.png",
+                "x": 20.29,
+                "y": -0.1,
+                "rotation": 44.65,
+                "width": 26,
+                "height": 24
+            },
+            "hand_right_glove": {
+                "name": "goalkeeper/hand_right.png",
+                "x": 18.57,
+                "y": -0.32,
+                "rotation": 74.29,
+                "width": 26,
+                "height": 25
+            }
+        },
+        "home": {
+            "arm_left_sleeve": {
+                "name": "../../player/kit/sleeve_left.png",
+                "color": "e1e2e3ff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "../../player/kit/sleeve_right.png",
+                "color": "e1e2e3ff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "../../player/kit/shirt_back.png",
+                "color": "cf352dff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "home/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "cf352dff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "e1e2e3ff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "cf352dff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "e1e2e3ff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "ffffffff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44,
+                "width": 33,
+                "height": 18
+            },
+            "pelvis_shorts": {
+                "name": "../../player/kit/shorts.png",
+                "color": "cf352dff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        },
+        "away": {
+            "arm_left_sleeve": {
+                "name": "../../player/kit/sleeve_left.png",
+                "color": "cf352dff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "../../player/kit/sleeve_right.png",
+                "color": "cf352dff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "../../player/kit/shirt_back.png",
+                "color": "e1e2e3ff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "away/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "e1e2e3ff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "cf352dff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "../../player/kit/shoes.png",
+                "color": "666666ff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "../../player/kit/shorts_leg.png",
+                "color": "e1e2e3ff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "../../player/kit/socks.png",
+                "color": "cf352dff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "cf352dff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44,
+                "width": 33,
+                "height": 18
+            },
+            "pelvis_shorts": {
+                "name": "../../player/kit/shorts.png",
+                "color": "e1e2e3ff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        }
+    },
+    "id": "kuwait",
+    "kitColors": {
+        "home": "cf352d",
+        "away": "e1e2e3"
+    },
+    "players": [
+        {
+            "race": "arab",
+            "role": "G",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/07.png",
+                    "color": "301a0eff",
+                    "x": 40.995884413077945,
+                    "y": -8.50831632355202,
+                    "rotation": -90.13,
+                    "width": 37,
+                    "height": 4
+                },
+                "eyes": {
+                    "name": "../../player/eyes/03.png",
+                    "x": 33.56042741327181,
+                    "y": -6.703783619422527,
+                    "rotation": -90.13,
+                    "width": 35,
+                    "height": 13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 34.30475316755764,
+                    "y": -9.205478878942925,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 32.30589277863025,
+                    "y": -8.700942313789291,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/27.png",
+                    "color": "544033ff",
+                    "x": 48.99206133273315,
+                    "y": -3.4977220648628347,
+                    "rotation": -90.13,
+                    "width": 72,
+                    "height": 40
+                },
+                "hair_back": {
+                    "name": "../../player/hair/27_back.png",
+                    "color": "544033ff",
+                    "x": 29.989841312958077,
+                    "y": -4.454609895310783,
+                    "rotation": -90.13,
+                    "width": 72,
+                    "height": 76
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/07.png",
+                    "x": 3.4724848849808287,
+                    "y": -9.374909073406624,
+                    "rotation": -90.13,
+                    "width": 26,
+                    "height": 4
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/01.png",
+                    "x": 2.7213523524524783,
+                    "y": -9.873206091837947,
+                    "rotation": -90.13,
+                    "width": 32,
+                    "height": 8
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/01.png",
+                    "x": 1.224759602597878,
+                    "y": -8.369806563740825,
+                    "rotation": -90.13,
+                    "width": 23,
+                    "height": 16
+                },
+                "nose": {
+                    "name": "../../player/nose/27.png",
+                    "color": "3c71abff",
+                    "x": 22.364748663029484,
+                    "y": -9.709449499584395,
+                    "rotation": -90.13,
+                    "width": 17,
+                    "height": 20
+                },
+                "face_accessory_1": {
+                    "name": "../../player/accessories/face/moustache_04.png",
+                    "color": "301d10ff",
+                    "x": 8.970769033331687,
+                    "y": -10.137386236339172,
+                    "rotation": -90.13,
+                    "width": 30,
+                    "height": 6
+                }
+            }
+        },
+        {
+            "race": "arab",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/30.png",
+                    "color": "361f14ff",
+                    "x": 37.743623852549405,
+                    "y": -9.500939739773198,
+                    "rotation": -90.13,
+                    "width": 36,
+                    "height": 6
+                },
+                "eyes": {
+                    "name": "../../player/eyes/11.png",
+                    "x": 30.305330695142224,
+                    "y": -8.946403818123589,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 18
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 31.303626426565504,
+                    "y": -9.698670813692358,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 29.803630287589645,
+                    "y": -9.6952674245711,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/54.png",
+                    "color": "5c4537ff",
+                    "x": 36.52726186218735,
+                    "y": 12.030599613898207,
+                    "rotation": -90.13,
+                    "width": 92,
+                    "height": 86
+                },
+                "hair_back": {
+                    "name": "../../player/hair/54_back.png",
+                    "color": "5c4537ff",
+                    "x": 33.49096676694219,
+                    "y": -3.962552423601765,
+                    "rotation": -90.13,
+                    "width": 84,
+                    "height": 91
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/27B.png",
+                    "x": 5.975881839061857,
+                    "y": -7.880585249632861,
+                    "rotation": -90.13,
+                    "width": 23,
+                    "height": 9
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/01.png",
+                    "x": 5.221345917412246,
+                    "y": -9.878878407040045,
+                    "rotation": -90.13,
+                    "width": 32,
+                    "height": 8
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/01.png",
+                    "x": 3.725887630598065,
+                    "y": -7.875480165950972,
+                    "rotation": -90.13,
+                    "width": 23,
+                    "height": 16
+                },
+                "nose": {
+                    "name": "../../player/nose/20.png",
+                    "color": "5c9dbdff",
+                    "x": 20.115888917606114,
+                    "y": -9.204345702910551,
+                    "rotation": -90.13,
+                    "width": 17,
+                    "height": 19
+                },
+                "hair_accessory_1_front": {
+                    "name": "../../player/accessories/hair/54.png",
+                    "color": "ffffffff",
+                    "x": 36.52726186218735,
+                    "y": 12.030599613898207,
+                    "rotation": -90.13,
+                    "width": 92,
+                    "height": 86
+                },
+                "hair_accessory_1_back": {
+                    "name": "../../player/accessories/hair/54_back.png",
+                    "color": "ffffffff",
+                    "x": 33.49096676694219,
+                    "y": -3.962552423601765,
+                    "rotation": -90.13,
+                    "width": 84,
+                    "height": 91
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/beard_20.png",
+                    "color": "361a0cff",
+                    "x": -5.275223666297518,
+                    "y": -8.355058544215366,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 16
+                }
+            }
+        },
+        {
+            "race": "arab",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/11.png",
+                    "color": "523422ff",
+                    "x": 39.98397512516963,
+                    "y": -13.756033883886692,
+                    "rotation": -90.13,
+                    "width": 33,
+                    "height": 4
+                },
+                "eyes": {
+                    "name": "../../player/eyes/13.png",
+                    "x": 34.0451108752181,
+                    "y": -13.454900707854321,
+                    "rotation": -90.13,
+                    "width": 36,
+                    "height": 16
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 33.294545574209955,
+                    "y": -13.703198369789668,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 31.294550722242143,
+                    "y": -13.698660517627987,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/13.png",
+                    "color": "3b2922ff",
+                    "x": 49.24943469899186,
+                    "y": -0.24829766193534683,
+                    "rotation": -90.13,
+                    "width": 67,
+                    "height": 39
+                },
+                "hair_back": {
+                    "name": "../../player/hair/13_back.png",
+                    "color": "3b2922ff",
+                    "x": 31.489837451933962,
+                    "y": -4.458013284432038,
+                    "rotation": -90.13,
+                    "width": 71,
+                    "height": 76
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/african_01B.png",
+                    "x": 5.462269569584863,
+                    "y": -13.879435342495883,
+                    "rotation": -90.13,
+                    "width": 27,
+                    "height": 13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/african_02.png",
+                    "x": 4.212272787104979,
+                    "y": -13.876599184894834,
+                    "rotation": -90.13,
+                    "width": 37,
+                    "height": 18
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/african_02.png",
+                    "x": 2.712276648129119,
+                    "y": -13.873195795773574,
+                    "rotation": -90.13,
+                    "width": 24,
+                    "height": 21
+                },
+                "nose": {
+                    "name": "../../player/nose/01.png",
+                    "color": "9e1303ff",
+                    "x": 21.604540426177774,
+                    "y": -14.207736221951347,
+                    "rotation": -90.13,
+                    "width": 16,
+                    "height": 21
+                }
+            }
+        },
+        {
+            "race": "arab",
+            "role": "M",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/21.png",
+                    "color": "331d11ff",
+                    "x": 41.73964293584357,
+                    "y": -11.260010939568398,
+                    "rotation": -90.13,
+                    "width": 34,
+                    "height": 5
+                },
+                "eyes": {
+                    "name": "../../player/eyes/30.png",
+                    "x": 32.55192151448476,
+                    "y": -10.45150504078134,
+                    "rotation": -90.13,
+                    "width": 40,
+                    "height": 17
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 34.30021531539597,
+                    "y": -11.20547373091074,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 32.80021917642011,
+                    "y": -11.20207034178948,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/36.png",
+                    "color": "574033ff",
+                    "x": 33.502311397346375,
+                    "y": 1.0374347063177654,
+                    "rotation": -90.13,
+                    "width": 90,
+                    "height": 79
+                },
+                "hair_back": {
+                    "name": "../../player/hair/36_back.png",
+                    "color": "574033ff",
+                    "x": 31.493808072575412,
+                    "y": -2.7080177889602064,
+                    "rotation": -90.13,
+                    "width": 90,
+                    "height": 84
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/african_07.png",
+                    "x": 6.717371435746637,
+                    "y": -11.632277291633143,
+                    "rotation": -90.13,
+                    "width": 27,
+                    "height": 16
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/african_03.png",
+                    "x": 3.214544287201912,
+                    "y": -12.874332832830087,
+                    "rotation": -90.13,
+                    "width": 37,
+                    "height": 18
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/african_03.png",
+                    "x": 2.216815787298845,
+                    "y": -11.87206648076534,
+                    "rotation": -90.13,
+                    "width": 24,
+                    "height": 21
+                },
+                "nose": {
+                    "name": "../../player/nose/14.png",
+                    "color": "108f8fff",
+                    "x": 20.857945745811104,
+                    "y": -12.706038388414855,
+                    "rotation": -90.13,
+                    "width": 15,
+                    "height": 21
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/beard_02C.png",
+                    "color": "ffffffff",
+                    "x": 10.23078690600195,
+                    "y": -5.723567095844634,
+                    "rotation": -90.13,
+                    "width": 68,
+                    "height": 42
+                }
+            }
+        },
+        {
+            "race": "arab",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/08.png",
+                    "color": "1f150cff",
+                    "x": 41.993045681460806,
+                    "y": -9.760582032112744,
+                    "rotation": -90.13,
+                    "width": 34,
+                    "height": 6
+                },
+                "eyes": {
+                    "name": "../../player/eyes/15.png",
+                    "x": 33.55645679263034,
+                    "y": -8.453779114894365,
+                    "rotation": -90.13,
+                    "width": 40,
+                    "height": 13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 35.30475059354155,
+                    "y": -9.207747805023766,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 32.30362385254941,
+                    "y": -9.7009397397732,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/52.png",
+                    "color": "786459ff",
+                    "x": 52.493186786717246,
+                    "y": -3.0056645931538206,
+                    "rotation": -90.13,
+                    "width": 70,
+                    "height": 57
+                },
+                "hair_back": {
+                    "name": "../../player/hair/52_back.png",
+                    "color": "786459ff",
+                    "x": 36.99209222092627,
+                    "y": -3.470494951892756,
+                    "rotation": -90.13,
+                    "width": 71,
+                    "height": 87
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/12.png",
+                    "x": 5.72077739888399,
+                    "y": -10.130012226576442,
+                    "rotation": -90.13,
+                    "width": 18,
+                    "height": 4
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/01.png",
+                    "x": 4.721347204420292,
+                    "y": -9.877743943999626,
+                    "rotation": -90.13,
+                    "width": 32,
+                    "height": 8
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/01.png",
+                    "x": 3.2247544545656917,
+                    "y": -8.374344415902506,
+                    "rotation": -90.13,
+                    "width": 23,
+                    "height": 16
+                },
+                "nose": {
+                    "name": "../../player/nose/05.png",
+                    "color": "cf6553ff",
+                    "x": 22.11531653805372,
+                    "y": -9.458882911568208,
+                    "rotation": -90.13,
+                    "width": 17,
+                    "height": 22
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/beard_16.png",
+                    "color": "24150bff",
+                    "x": -0.27693823093861325,
+                    "y": -9.116401244107497,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 28
+                }
+            }
+        },
+        {
+            "race": "arab",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/20.png",
+                    "color": "331f14ff",
+                    "x": 41.744180788005245,
+                    "y": -9.260016087600581,
+                    "rotation": -90.13,
+                    "width": 35,
+                    "height": 6
+                },
+                "eyes": {
+                    "name": "../../player/eyes/23.png",
+                    "x": 33.05418915355755,
+                    "y": -9.452642077837853,
+                    "rotation": -90.13,
+                    "width": 42,
+                    "height": 18
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 35.30134720442029,
+                    "y": -10.707743943999626,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 32.30362385254941,
+                    "y": -9.7009397397732,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/58.png",
+                    "color": "40291cff",
+                    "x": 48.577286510307225,
+                    "y": -2.6634454906758958,
+                    "rotation": -90.13,
+                    "width": 76,
+                    "height": 56
+                },
+                "hair_back": {
+                    "name": "../../player/hair/58_back.png",
+                    "color": "40291cff",
+                    "x": 32.48870041487743,
+                    "y": -4.960280923504838,
+                    "rotation": -90.13,
+                    "width": 79,
+                    "height": 90
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/05.png",
+                    "x": 7.717936093250753,
+                    "y": -11.384546861218006,
+                    "rotation": -90.13,
+                    "width": 26,
+                    "height": 9
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/01.png",
+                    "x": 4.720212741379872,
+                    "y": -10.377742656991579,
+                    "rotation": -90.13,
+                    "width": 32,
+                    "height": 8
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/01.png",
+                    "x": 4.723616130501132,
+                    "y": -8.87774651801572,
+                    "rotation": -90.13,
+                    "width": 23,
+                    "height": 16
+                },
+                "nose": {
+                    "name": "../../player/nose/25.png",
+                    "color": "3d73adff",
+                    "x": 22.613613556485042,
+                    "y": -10.210015444096559,
+                    "rotation": -90.13,
+                    "width": 19,
+                    "height": 19
+                },
+                "face_accessory_1": {
+                    "name": "../../player/accessories/face/moustache_11.png",
+                    "color": "332014ff",
+                    "x": 9.221335621347874,
+                    "y": -9.887954111363406,
+                    "rotation": -90.13,
+                    "width": 33,
+                    "height": 10
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/beard_11.png",
+                    "color": "332014ff",
+                    "x": -1.7809049905559429,
+                    "y": -10.862993350458073,
+                    "rotation": -90.13,
+                    "width": 14,
+                    "height": 6
+                }
+            }
+        }
+    ]
+}

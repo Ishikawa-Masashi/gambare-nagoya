@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1, maximum-scale=1, minimum-scale=1"
+    />
+    <title>Soccer</title>
+
+    <link href="./styles/variables.css" rel="stylesheet" />
+    <link href="./styles/base.css" rel="stylesheet" />
+    <link href="./styles/columns.css" rel="stylesheet" />
+    <link href="./styles/fonts.css" rel="stylesheet" />
+    <link href="./fonts/mikodacs.css" rel="stylesheet" />
+    <link href="./fonts/noto_sans_cjk.css" rel="stylesheet" />
+    <link href="./styles/forms.css" rel="stylesheet" />
+    <link href="./styles/grid.css" rel="stylesheet" />
+    <link href="./styles/wysiwyg.css" rel="stylesheet" />
+    <link href="./styles/main.css" rel="stylesheet" />
+    <!-- <link href="dist/style.css" rel="stylesheet" /> -->
+    <script type="module" crossorigin src="./assets/index.6989b89e.js"></script>
+    <link rel="stylesheet" href="./assets/index.15a82f83.css">
+  </head>
+  <body class="loading">
+    <div id="gui" class="gui">
+      <svg width="10" height="10" class="pattern">
+        <defs>
+          <pattern
+            id="pattern-1"
+            patternUnits="userSpaceOnUse"
+            width="100"
+            height="100"
+          >
+            <animate
+              attributeName="x"
+              from="0"
+              to="100"
+              dur="2s"
+              repeatCount="indefinite"
+            />
+            <image
+              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAABbAgMAAABhWBEKAAAACVBMVEX+0wD+2wD+2AByw6fbAAAAdUlEQVR4Xu2SsQ2EMBAEVx+9+8AdsYiQUigC98sEjtCKHOnCGd1NtBr2LqnZPqWJ+gs+4G5v8G/ionn3eLs07x5vq2K+4VO+41N+4FPe+JTHxzw+5vExj495fMzjYx6MeTDmwZgHX/OVrz3Xnr+Vrz3XnmvPNzA/ihQh2PTwAAAAAElFTkSuQmCC"
+              x="0"
+              y="0"
+              width="100"
+              height="100"
+              preserveAspectRatio="none"
+            />
+          </pattern>
+          <pattern
+            id="pattern-1-light"
+            patternUnits="userSpaceOnUse"
+            width="100"
+            height="100"
+          >
+            <animate
+              attributeName="x"
+              from="0"
+              to="100"
+              dur="2s"
+              repeatCount="indefinite"
+            />
+            <image
+              xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAABbAgMAAABhWBEKAAAACVBMVEX+0wD+2wD+2AByw6fbAAAAdUlEQVR4Xu2SsQ2EMBAEVx+9+8AdsYiQUigC98sEjtCKHOnCGd1NtBr2LqnZPqWJ+gs+4G5v8G/ionn3eLs07x5vq2K+4VO+41N+4FPe+JTHxzw+5vExj495fMzjYx6MeTDmwZgHX/OVrz3Xnr+Vrz3XnmvPNzA/ihQh2PTwAAAAAElFTkSuQmCC"
+              x="0"
+              y="0"
+              width="100"
+              height="100"
+              preserveAspectRatio="none"
+            />
+            <rect
+              x="0"
+              y="0"
+              width="100"
+              height="100"
+              fill="rgba(255, 255, 255, 0.25)"
+            ></rect>
+          </pattern>
+        </defs>
+      </svg>
+    </div>
+
+    <div class="achievement achievement-alert hidden" id="achievement-alert">
+      <figure>
+        <img src="./assets/shadow.7f2a79f9.png" width="64" height="64" />
+        <img src="./assets/shadow.7f2a79f9.png" width="54" height="54" />
+      </figure>
+      <h2><i class="green"></i></h2>
+      <h3><i class="yellow"></i></h3>
+    </div>
+
+    <div class="achievement invite achievement-alert hidden" id="invite-alert">
+      <h3></h3>
+    </div>
+
+    <dl id="debug">
+      <dt>Rendering</dt>
+      <dd id="fps"></dd>
+      <dt>Network</dt>
+      <dd id="net"></dd>
+    </dl>
+
+    <div id="root"></div>
+    <script type="application/vnd.nebula-settings+json">
+      {
+        "DATA_PREFIX": "data",
+        "DEBUG": false
+      }
+    </script>
+    <script>
+      (function () {
+        window.onerror = function (message, source, lineno, colno) {
+          var match = source.match(/chrome-extension:\/\/[a-z]+\/(.*)/);
+          if (match) source = match[1];
+          var error =
+            message + '\n' + 'File: ' + source + '@' + lineno + ',' + colno;
+          // window.location = 'error.html?error=' + encodeURIComponent(error);
+        };
+
+        // Prevent default behavior from changing page on dropped file
+        window.ondrop = window.ondragover = function (e) {
+          e.preventDefault();
+          return false;
+        };
+      })();
+    </script>
+    <script src="lib/pixi.js"></script>
+    <script src="lib/messageformat.js"></script>
+    
+  </body>
+</html>

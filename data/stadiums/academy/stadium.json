@@ -1,0 +1,48 @@
+{
+    "thumbnail": "thumbnail.png",
+    "filter": "filter.png",
+    "restitution": 0.5,
+    "ballFriction": 5,
+    "sprites": [
+        {"texture": "stadium.jpg", "position": [0, 0], "layer": "bottom", "scale": [1.25, 1.25]},
+
+        {"texture": "../common/goal.png", "position": [770, 1338], "frame": [73, 0, 141, 183], "layer": "bottom"},
+        {"texture": "../common/goal.png", "position": [4198, 1336], "frame": [216, 0, 141, 182], "layer": "bottom"},
+
+        {"texture": "../common/goal.png", "position": [901, 1344], "frame": [480, 0, 12, 114], "anchor": [0, 1], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [879, 1515], "frame": [0, 0, 34, 285], "anchor": [0, 1], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [694, 1338], "frame": [359, 0, 119, 138], "anchor": [0, 0.913], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [670, 1509], "frame": [359, 0, 119, 138], "anchor": [0, 0.913], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [4208, 1344], "frame": [494, 0, 11, 113], "anchor": [0, 1], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [4207, 1515], "frame": [36, 0, 35, 284], "anchor": [0, 1], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [4298, 1338], "frame": [0, 287, 123, 131], "anchor": [0, 0.954], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [4322, 1509], "frame": [0, 287, 123, 131], "anchor": [0, 0.954], "layer": "middle"},
+
+        {"texture": "fence.png", "position": [737, 2268], "anchor": [0, 1], "frame": [0, 93, 1493, 91], "layer": "top"},
+        {"texture": "fence.png", "position": [2882, 2268], "anchor": [0, 1], "frame": [0, 0, 1493, 91], "layer": "top"},
+        {"texture": "building.png", "position": [0, 2560], "anchor": [0, 1], "scale": [5, 5], "layer": "top"}
+    ],
+    "walls": [
+        {"name": "left fence", "start": [538.33,898.04], "end": [401.177,1952.9], "height": 200},
+        {"name": "right fence", "start": [4563.4,898], "end": [4699,1952.9], "height": 200},
+        {"name": "bottom fence 1", "start": [740.89,2267.6], "end": [2225.57,2267.61], "height": 40},
+
+        {"name": "bottom fence 2", "start": [2894.43,2267.61], "end": [4374.04,2267.61], "height": 40},
+
+        {"name": "bottom bench 1", "start": [1450.89,2197.67], "end": [1592.05,2197.67], "height": 20},
+        {"name": "bottom bench 2", "start": [1743.29,2197.67], "end": [1884.45,2197.67], "height": 20},
+        {"name": "bottom bench 3", "start": [3230.51,2197.67], "end": [3371.67,2197.67], "height": 20},
+        {"name": "bottom bench 4", "start": [3522.91,2197.67], "end": [3664.07,2197.67], "height": 20},
+
+        {"name": "top fence", "start": [900,610], "end": [4210,610], "height": 40},
+
+        {"name": "top bench 1", "start": [1444,669], "end": [1600,669], "height": 20},
+        {"name": "top bench 2", "start": [1738,669], "end": [1890,669], "height": 20},
+        {"name": "top bench 3", "start": [3223,669], "end": [3379,669], "height": 20},
+        {"name": "top bench 4", "start": [3512,669], "end": [3669,669], "height": 20}
+    ],
+    "crowd": false
+}

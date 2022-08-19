@@ -1,0 +1,1540 @@
+{
+  "languageName": {
+    "message": "English",
+    "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+  },
+  "copyrights": { "message": "Copyright © ISHIKAWA MASASHI. All rights reserved." },
+  "time": { "message": "{MINUTES} min", "description": "Duration in minutes." },
+  "distance": {
+    "message": "{METERS}m",
+    "description": "Distance covered in meters."
+  },
+  "matches": {
+    "message": "{MATCHES, plural, one {# match} other {# matches}}",
+    "description": "Number of matches, may require plural syntax, depending on language"
+  },
+  "ai.level0": {
+    "message": "Beginner",
+    "description": "First difficulty level name"
+  },
+  "ai.level0.instrumental": {
+    "message": "Beginner",
+    "description": "First difficulty level name, instrumental case"
+  },
+  "ai.level1": {
+    "message": "Amateur",
+    "description": "Second difficulty level name"
+  },
+  "ai.level1.instrumental": {
+    "message": "Amateur",
+    "description": "Second difficulty level name, instrumental case"
+  },
+  "ai.level2": {
+    "message": "Professional",
+    "description": "Third difficulty level name"
+  },
+  "ai.level2.instrumental": {
+    "message": "Professional",
+    "description": "Third difficulty level name, instrumental case"
+  },
+  "ai.level3": {
+    "message": "Legend",
+    "description": "Fourth difficulty level name"
+  },
+  "ai.level3.instrumental": {
+    "message": "Legend",
+    "description": "Fourth difficulty level name, instrumental case"
+  },
+  "unlock": {
+    "message": "Win<br><i>{MODE}</i><br>on the <i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> difficulty",
+    "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+  },
+  "unlock.continentalLeague": {
+    "message": "Win<br><i>all continental cups</i><br>on the <i class=\"bronze\">Beginner</i> difficulty"
+  },
+  "legendUnlock": {
+    "message": "Win<br><i>Continental Cups</i> and <i>World Cup</i> on the <i class=\"gold\">Professional</i> difficulty"
+  },
+  "legendUnlocked": {
+    "message": "Congratulations!<br>You have unlocked an additional difficulty level: <i class=\"platinum\">Legend</i>"
+  },
+
+  "hintPrefix": { "message": "Hint:", "description": "" },
+  "hint.0": {
+    "message": "For a ground pass press <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span>, for a lob pass press <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>.",
+    "description": ""
+  },
+  "hint.1": {
+    "message": "To switch between players press <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span>.",
+    "description": ""
+  },
+  "hint.2": {
+    "message": "The longer you press the lob pass <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span> the longer it goes.",
+    "description": ""
+  },
+  "hint.3": {
+    "message": "Retrieve the ball from opponent with a sliding tackle using <span class=\"key auto-wide auto-update\" data-action=\"slide\"></span>.",
+    "description": ""
+  },
+  "hint.4": {
+    "message": "Hold <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> to run faster - works without the ball only.",
+    "description": ""
+  },
+  "hint.5": {
+    "message": "Use <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> to shoot directly, with first touch, precisely or with an air ball.",
+    "description": ""
+  },
+  "hint.6": {
+    "message": "Run on the ball holding the <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> button to shoot the ball with the player's first touch.",
+    "description": ""
+  },
+  "hint.7": {
+    "message": "For an air shoot, run underneath the falling ball while holding <span class=\"key auto-wide auto-update\" data-action=\"header\"></span>.",
+    "description": ""
+  },
+  "hint.8": {
+    "message": "Hold <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> to shoot precisely - aim and curve the ball.",
+    "description": ""
+  },
+  "hint.9": {
+    "message": "To curve the ball using the precise shot hold <span class=\"key auto-wide auto-update\" data-action=\"swerveUp\"></span> or <span class=\"key auto-wide auto-update\" data-action=\"swerveDown\"></span>.",
+    "description": ""
+  },
+  "hint.10": {
+    "message": "Super-move is a bonus given to a team once in a while. Push <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span> to use it.",
+    "description": ""
+  },
+  "hint.11": {
+    "message": "<img src=\"images/powerups/magnet/icon.png\" width=\"32\" height=\"32\"> Magnet Super-move pulls the ball to your player.",
+    "description": ""
+  },
+  "hint.12": {
+    "message": "<img src=\"images/powerups/teleport/icon.png\" width=\"32\" height=\"32\"> Teleport Super-move moves your player (with the ball) to another, pointed place on the pitch.",
+    "description": ""
+  },
+  "hint.13": {
+    "message": "<img src=\"images/powerups/supershot/icon.png\" width=\"32\" height=\"32\"> Super-shot Super-move lets you control the ball, but avoid opponent's players.",
+    "description": ""
+  },
+  "hint.14": {
+    "message": "<img src=\"images/powerups/windmaker/icon.png\" width=\"32\" height=\"32\"> Windmaker Super-move defends you from shots on your goal (only if it hasn't been triggered too late).",
+    "description": ""
+  },
+  "hint.15": {
+    "message": "<img src=\"images/powerups/freeze/icon.png\" width=\"32\" height=\"32\"> Freeze Super-move freezes players (including your team-mates) near you for a certain time.",
+    "description": ""
+  },
+  "hint.16": {
+    "message": "<img src=\"images/powerups/tesla/icon.png\" width=\"32\" height=\"32\"> Tesla-copter Super-move follows the player with the ball, electrocuting others after pressing <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span>.",
+    "description": ""
+  },
+  "hint.17": {
+    "message": "The better you play, the more Super-moves you get during the match.",
+    "description": ""
+  },
+  "hint.18": {
+    "message": "Some of the Super-moves can be used to neutralize opponent's Super-moves.",
+    "description": ""
+  },
+  "hint.19": {
+    "message": "Make a sliding tackle with your goalkeeper by pressing <span class=\"key auto-wide auto-update\" data-action=\"goalkeeperSlide\"></span>.",
+    "description": ""
+  },
+  "hint.20": {
+    "message": "You switch the active player by pressing <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span> and by holding stick or keyboard arrows in a direction of a team-mate to switch to.",
+    "description": ""
+  },
+  "hint.21": {
+    "message": "The goalkeeper is resistant to sliding tackles, but he can't move with the ball.",
+    "description": ""
+  },
+  "hint.22": {
+    "message": "To run faster while having the ball, push the ball forward by pressing <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span> and sprint to it by holding <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span>.",
+    "description": ""
+  },
+  "hint.23": {
+    "message": "Played games give you <i class=\"pink\">Fame</i> Points thanks to which you advance in the rankings.",
+    "description": ""
+  },
+  "hint.24": {
+    "message": "Tournaments can also be played with your friends on the same team.",
+    "description": ""
+  },
+  "hint.25": {
+    "message": "Completing challenge of the tournament match gives you <i class=\"pink\">Fame</i> Points.",
+    "description": ""
+  },
+  "hint.26": { "message": "Practice makes perfect.", "description": "" },
+
+  "table.points": {
+    "message": "P",
+    "description": "Short form of the word 'Points'"
+  },
+  "table.wins": {
+    "message": "W",
+    "description": "Short form of the word 'Wins'"
+  },
+  "table.draws": {
+    "message": "D",
+    "description": "Short form of the word 'Draws'"
+  },
+  "table.loses": {
+    "message": "L",
+    "description": "Short form of the word 'Loses'"
+  },
+  "table.goalsFor": {
+    "message": "F",
+    "description": "Short form of the words 'Goals For'"
+  },
+  "table.goalsAgainst": {
+    "message": "A",
+    "description": "Short form of the words 'Goals Against'"
+  },
+
+  "menu.enabled": { "message": "Enabled", "description": "Button label." },
+  "menu.yes": { "message": "Yes", "description": "" },
+  "menu.no": { "message": "No", "description": "" },
+  "menu.on": { "message": "On", "description": "When something is enabled" },
+  "menu.off": { "message": "Off", "description": "When something is disabled" },
+  "menu.back": {
+    "message": "Back",
+    "description": "Button label for returning to the previous screen"
+  },
+  "menu.next": {
+    "message": "Next",
+    "description": "Button label for going to the next screen"
+  },
+  "menu.reset": {
+    "message": "Reset to defaults",
+    "description": "Button label"
+  },
+  "menu.resetMessage": {
+    "message": "Are you sure you want to reset to defaults?"
+  },
+  "menu.saveMessage": {
+    "message": "Are you sure you want to save these settings?"
+  },
+  "menu.quitMessage": { "message": "Are you sure you want to quit?" },
+  "menu.quit": {
+    "message": "Quit",
+    "description": "Button label for abandoning current game"
+  },
+  "menu.ok": {
+    "message": "OK",
+    "description": "Button label for accepting changes"
+  },
+  "menu.cancel": {
+    "message": "Cancel",
+    "description": "Button label for cancelling changes"
+  },
+  "menu.save": {
+    "message": "Save",
+    "description": "Button label for saving some options."
+  },
+  "menu.selectBall": { "message": "Select Ball" },
+  "menu.selectStadium": { "message": "Select Stadium" },
+  "menu.selectTeam": { "message": "Select Team" },
+  "menu.randomBall": { "message": "Random Ball" },
+  "menu.randomStadium": { "message": "Random Stadium" },
+  "menu.randomTeam": { "message": "Random Team" },
+  "menu.teamStadium": { "message": "Team Stadium" },
+  "menu.comingSoon": { "message": "Coming soon" },
+  "menu.loading": { "message": "Loading" },
+  "menu.pressKey": { "message": "Press any key" },
+  "menu.keys.move": { "message": "Navigate" },
+  "menu.keys.accept": { "message": "Accept" },
+  "menu.keys.back": { "message": "Back" },
+  "menu.keys.selectMatch": { "message": "Select match" },
+
+  "main.title": { "message": "Main menu", "description": "Main menu title" },
+  "main.playOnline": {
+    "message": "Play Online",
+    "description": "Button label."
+  },
+  "main.playOffline": {
+    "message": "Play Offline",
+    "description": "Button label."
+  },
+
+  "play.title": { "message": "Select Competition" },
+  "play.practice": { "message": "Practice" },
+  "play.friendly": { "message": "Friendly Match" },
+  "play.online": { "message": "Online Multiplayer" },
+  "play.oceaniaCup": { "message": "Oceania Cup" },
+  "play.oceaniaCup.accusative": {
+    "message": "Oceania Cup",
+    "description": "Accusative case"
+  },
+  "play.pacificLeague": { "message": "Pacific League" },
+  "play.pacificLeague.accusative": {
+    "message": "Pacific League",
+    "description": "Accusative case"
+  },
+  "play.microstatesCup": { "message": "Microstates Cup" },
+  "play.microstatesCup.accusative": {
+    "message": "Microstates Cup",
+    "description": "Accusative case"
+  },
+  "play.northAmericaCup": { "message": "North American Cup" },
+  "play.northAmericaCup.accusative": {
+    "message": "North American Cup",
+    "description": "Accusative case"
+  },
+  "play.centralAmericanAndCaribbeanLeague": {
+    "message": "Central American and Caribbean League"
+  },
+  "play.centralAmericanAndCaribbeanLeague.accusative": {
+    "message": "Central American and Caribbean League",
+    "description": "Accusative case"
+  },
+  "play.asiaCup": { "message": "Asia Cup" },
+  "play.asiaCup.accusative": {
+    "message": "Asia Cup",
+    "description": "Accusative case"
+  },
+  "play.panArabLeague": { "message": "Pan Arab League" },
+  "play.panArabLeague.accusative": {
+    "message": "Pan Arab League",
+    "description": "Accusative case"
+  },
+  "play.africaCup": { "message": "African Cup" },
+  "play.africaCup.accusative": {
+    "message": "African Cup",
+    "description": "Accusative case"
+  },
+  "play.commonwealthCup": { "message": "Commonwealth Cup" },
+  "play.commonwealthCup.accusative": {
+    "message": "Commonwealth Cup",
+    "description": "Accusative case"
+  },
+  "play.southAmericaCup": { "message": "South American Cup" },
+  "play.southAmericaCup.accusative": {
+    "message": "South American Cup",
+    "description": "Accusative case"
+  },
+  "play.panAmericanLeague": { "message": "Pan American League" },
+  "play.panAmericanLeague.accusative": {
+    "message": "Pan American League",
+    "description": "Accusative case"
+  },
+  "play.europeCup": { "message": "European Cup" },
+  "play.europeCup.accusative": {
+    "message": "European Cup",
+    "description": "Accusative case"
+  },
+  "play.mediterraneanLeague": { "message": "Mediterranean League" },
+  "play.mediterraneanLeague.accusative": {
+    "message": "Mediterranean League",
+    "description": "Accusative case"
+  },
+  "play.worldCup": { "message": "World Cup" },
+  "play.worldCup.accusative": {
+    "message": "World Cup",
+    "description": "Accusative case"
+  },
+  "play.continentalLeague": { "message": "Continental League" },
+  "play.continentalLeague.accusative": {
+    "message": "Continental League",
+    "description": "Accusative case"
+  },
+  "play.worldLeague": { "message": "World League" },
+  "play.worldLeague.accusative": {
+    "message": "World League",
+    "description": "Accusative case"
+  },
+  "play.customTournament": { "message": "Custom Tournament" },
+  "play.customTournament.accusative": {
+    "message": "Custom Tournament",
+    "description": "Accusative case"
+  },
+  "play.indoorCup": { "message": "Indoor Cup" },
+  "play.indoorCup.accusative": {
+    "message": "Indoor Cup",
+    "description": "Accusative case"
+  },
+
+  "practice.title1": {
+    "message": "Defending",
+    "description": "Information about current practice mode."
+  },
+  "practice.title2": {
+    "message": "Attacking",
+    "description": "Information about current practice mode."
+  },
+  "practice.title3": {
+    "message": "Precise shot",
+    "description": "Information about current practice mode."
+  },
+  "practice.aiming": { "message": "Aiming", "description": "" },
+  "practice.swerving": { "message": "Swerving", "description": "" },
+
+  "trophies.title": { "message": "Trophies", "description": "Button label." },
+
+  "leaderboards.title": {
+    "message": "Leaderboards",
+    "description": "Button label."
+  },
+  "leaderboards.global": {
+    "message": "Global",
+    "description": "Button label."
+  },
+  "leaderboards.friends": {
+    "message": "Friends",
+    "description": "Button label."
+  },
+
+  "friendly.title": { "message": "Friendly Match" },
+  "friendly.matchTime": {
+    "message": "Match Time",
+    "description": "Match time widget title."
+  },
+  "friendly.ai": {
+    "message": "AI Skill",
+    "description": "AI skill widget title."
+  },
+  "friendly.draws": {
+    "message": "Draws",
+    "description": "Draws widget title."
+  },
+  "friendly.drawsOn": {
+    "message": "Draw Allowed",
+    "description": "When a draw is allowed in a match."
+  },
+  "friendly.drawsOff": {
+    "message": "Golden Goal",
+    "description": "When a draw is not allowed in a match."
+  },
+  "friendly.startMatch": { "message": "Play", "description": "Button label." },
+
+  "help.title": { "message": "Guide" },
+  "help.content": {
+    "message": "<file src=\"help.html\">",
+    "description": "Reference to an external file, please copy source string"
+  },
+
+  "options.title": {
+    "message": "Options",
+    "description": "Options menu title."
+  },
+  "options.video": { "message": "Video", "description": "Button label." },
+  "options.audio": { "message": "Audio", "description": "Button label." },
+  "options.controls": { "message": "Controls", "description": "Button label." },
+  "options.language": { "message": "Language", "description": "Button label." },
+
+  "video.title": {
+    "message": "Video",
+    "description": "Video options menu title."
+  },
+  "video.fullscreen": { "message": "Fullscreen" },
+  "video.brightness": { "message": "Brightness" },
+  "video.contrast": { "message": "Contrast" },
+  "video.resolution": { "message": "Resolution" },
+  "video.depthOfField": {
+    "message": "Depth of field",
+    "description": "Visual effect."
+  },
+  "video.overlay": {
+    "message": "Color overlay",
+    "description": "Visual effect."
+  },
+  "video.particles": {
+    "message": "Particles",
+    "description": "Visual effect."
+  },
+  "video.dirt": {
+    "message": "Grass wearing down",
+    "description": "Visual effect."
+  },
+  "video.shadows": { "message": "Shadows", "description": "Visual effect." },
+
+  "audio.title": {
+    "message": "Audio",
+    "description": "Audio options menu title."
+  },
+  "audio.audio": { "message": "Audio" },
+  "audio.effectsVolume": { "message": "Effects volume" },
+  "audio.musicVolume": { "message": "Music volume" },
+
+  "gameplay.title": {
+    "message": "Gameplay",
+    "description": "Gameplay options menu title."
+  },
+  "gameplay.replays": {
+    "message": "Replays",
+    "description": "Option to automatically show replays during match after scoring a goal."
+  },
+  "gameplay.celebration": {
+    "message": "Celebration",
+    "description": "Option to automatically show celebration after scoring a goal."
+  },
+  "gameplay.aiIndicators": {
+    "message": "AI Indicators",
+    "description": "Option to show AI indicators (circles beneath players)."
+  },
+  "gameplay.showUsernames": {
+    "message": "Show usernames",
+    "description": "Option to show usernames above players."
+  },
+
+  "controls.title": {
+    "message": "Controls",
+    "description": "Controls menu title."
+  },
+  "controls.keyboard": {
+    "message": "<b class=\"user-icon user-0 connected online\"></b> Keyboard",
+    "description": "Button label."
+  },
+  "controls.gamepad1": {
+    "message": "<b class=\"user-icon user-1 connected online\"></b> Controller 1",
+    "description": "Button label."
+  },
+  "controls.gamepad2": {
+    "message": "<b class=\"user-icon user-2 connected online\"></b> Controller 2",
+    "description": "Button label."
+  },
+  "controls.gamepad3": {
+    "message": "<b class=\"user-icon user-3 connected online\"></b> Controller 3",
+    "description": "Button label."
+  },
+  "controls.gamepad4": {
+    "message": "<b class=\"user-icon user-4 connected online\"></b> Controller 4",
+    "description": "Button label."
+  },
+  "controls.passing": { "message": "Passing", "description": "Button label." },
+  "controls.passingAssistedOnly": {
+    "message": "Assisted only",
+    "description": ""
+  },
+  "controls.passingAssistedPreferred": {
+    "message": "Assisted preferred",
+    "description": ""
+  },
+  "controls.passingManualPreferred": {
+    "message": "Manual preferred",
+    "description": ""
+  },
+  "controls.passingManualOnly": { "message": "Manual only", "description": "" },
+  "controls.change": { "message": "Change", "description": "Button label." },
+  "controls.pressKey": {
+    "message": "Press a key",
+    "description": "Button label."
+  },
+  "controls.duplicated": {
+    "message": "It seems that the same keys are assigned to different actions, you need to correct this before saving."
+  },
+  "controls.reset": {
+    "message": "Due to changes in the game, keyboard and gamepad layouts needed to be reset. If you've customized your controls, you need to do that again, sorry!"
+  },
+  "controls.movementTitle": { "message": "Movement" },
+  "controls.passingTitle": { "message": "Passing" },
+  "controls.shootingTitle": { "message": "Shooting" },
+  "controls.otherTitle": { "message": "Other" },
+  "controls.menuTitle": { "message": "Menu" },
+
+  "actions.up": {
+    "message": "Up",
+    "description": "Name of action for moving in-game character up."
+  },
+  "actions.down": {
+    "message": "Down",
+    "description": "Name of action for moving in-game character down."
+  },
+  "actions.left": {
+    "message": "Left",
+    "description": "Name of action for moving in-game character left."
+  },
+  "actions.right": {
+    "message": "Right",
+    "description": "Name of action for moving in-game character right."
+  },
+  "actions.up2": {
+    "message": "Alt. up",
+    "description": "Name of action for moving in-game character up."
+  },
+  "actions.down2": {
+    "message": "Alt. down",
+    "description": "Name of action for moving in-game character down."
+  },
+  "actions.left2": {
+    "message": "Alt. left",
+    "description": "Name of action for moving in-game character left."
+  },
+  "actions.right2": {
+    "message": "Alt. right",
+    "description": "Name of action for moving in-game character right."
+  },
+  "actions.passModifier": {
+    "message": "Manual/Assisted pass toggle (hold)",
+    "description": "Name of action for changing between pass modes."
+  },
+  "actions.sprint": {
+    "message": "Sprint (hold)",
+    "description": "Name of action for running faster."
+  },
+  "actions.walk": {
+    "message": "Walk (hold)",
+    "description": "Name of action for walking."
+  },
+  "actions.slide": {
+    "message": "Slide tackle",
+    "description": "Name of action for performing slide tackle."
+  },
+  "actions.goalkeeperSlide": {
+    "message": "Goalkeeper slide tackle",
+    "description": "Name of action for performing goalkeeper slide tackle."
+  },
+  "actions.togglePlayer": {
+    "message": "Change player",
+    "description": "Name of action for changing in-game characters."
+  },
+  "actions.toggleTeam": {
+    "message": "Toggle controller",
+    "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+  },
+  "actions.pass": {
+    "message": "Ground pass",
+    "description": "Name of action for passing the ball to another player."
+  },
+  "actions.lob": {
+    "message": "Lob pass (hold)",
+    "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+  },
+  "actions.shoot": {
+    "message": "Shot (hold for precise shot)",
+    "description": "Name of action for shooting at the goal."
+  },
+  "actions.header": {
+    "message": "Air shot (hold under ball)",
+    "description": "Name of action headers and bicycle kicks."
+  },
+  "actions.swerveUp": {
+    "message": "Swerve left (hold)",
+    "description": "Name of action for swerving the ball in one direction."
+  },
+  "actions.swerveDown": {
+    "message": "Swerve right (hold)",
+    "description": "Name of action for swerving the ball in another direction."
+  },
+  "actions.supermove": {
+    "message": "Super-move",
+    "description": "Name of action for activating a super-move (special action in game)."
+  },
+  "actions.pause": {
+    "message": "Pause",
+    "description": "Name of action for pausing the game."
+  },
+  "actions.menuAltLeft": {
+    "message": "Menu alt. left",
+    "description": "Name of action for alternative scrolling."
+  },
+  "actions.menuAltRight": {
+    "message": "Menu alt. right",
+    "description": "Name of action for alternative scrolling."
+  },
+  "actions.menuClearAssigment": {
+    "message": "Clear assigment",
+    "description": "Name of action for clearing key assigments."
+  },
+  "actions.menuBack": {
+    "message": "Menu back",
+    "description": "Name of action for canceling menu choice."
+  },
+  "actions.menuAccept": {
+    "message": "Menu accept",
+    "description": "Name of action for accepting menu choice."
+  },
+
+  "pause.title": { "message": "Pause", "description": "Pause menu title." },
+  "pause.resume": { "message": "Resume", "description": "Button label." },
+  "pause.back": {
+    "message": "Quit",
+    "description": "Button label for abandoning match and returning to menu."
+  },
+  "pause.forfeit": {
+    "message": "Forfeit",
+    "description": "Button label for forfeiting a multiplayer match."
+  },
+  "pause.showChallenge": {
+    "message": "Show challenge",
+    "description": "Button label for showing challenge description."
+  },
+
+  "tournament.difficultyTitle": {
+    "message": "Select difficulty",
+    "description": "Difficulty selection menu title."
+  },
+  "tournament.teamTitle": {
+    "message": "Select team",
+    "description": "Team selection menu title."
+  },
+  "tournament.startGame": {
+    "message": "Start game",
+    "description": "Button label."
+  },
+  "tournament.end": {
+    "message": "End Tournament",
+    "description": "Button label."
+  },
+  "tournament.continue": {
+    "message": "Continue",
+    "description": "Button label."
+  },
+  "tournament.restart": {
+    "message": "Restart",
+    "description": "Button label."
+  },
+  "tournament.playMatch": { "message": "Play", "description": "Button label." },
+  "tournament.groupStage": {
+    "message": "Group stage",
+    "description": "Tournament screen heading."
+  },
+  "tournament.groupName": {
+    "message": "Group {LETTER}",
+    "description": "Tournament screen heading."
+  },
+  "tournament.mainEvent": {
+    "message": "Main Event",
+    "description": "League screen heading."
+  },
+  "tournament.fixture": {
+    "message": "Fixture {NUMBER}",
+    "description": "League screen heading."
+  },
+  "tournament.roundOf16": {
+    "message": "Round of 16",
+    "description": "Tournament screen heading."
+  },
+  "tournament.quarterfinals": {
+    "message": "Quarter-finals",
+    "description": "Tournament screen heading."
+  },
+  "tournament.semifinals": {
+    "message": "Semi-finals",
+    "description": "Tournament screen heading."
+  },
+  "tournament.thirdPlace": {
+    "message": "Third Place",
+    "description": "Tournament screen heading."
+  },
+  "tournament.final": {
+    "message": "Final",
+    "description": "Tournament screen heading."
+  },
+  "tournament.lose": {
+    "message": "You've lost the tournament!<br>Better luck next time.<br>You have gained <i class=\"pink\">{FAME}</i> fame points.",
+    "description": "Tournament lose message."
+  },
+  "tournament.playoff": {
+    "message": "Playoff #{NUMBER}",
+    "description": "Tournament screen heading."
+  },
+  "tournament.standingsButton": {
+    "message": "Standings",
+    "description": "Tournament button label."
+  },
+  "tournament.fixturesButton": {
+    "message": "Fixtures",
+    "description": "Tournament button label."
+  },
+  "tournament.custom.title": {
+    "message": "Custom Tournament",
+    "description": "Custom tournament screen heading."
+  },
+  "tournament.custom.type": {
+    "message": "Type",
+    "description": "Button label."
+  },
+  "tournament.custom.teams": {
+    "message": "Number Of Teams",
+    "description": "Button label."
+  },
+  "tournament.custom.humans": {
+    "message": "Human Teams",
+    "description": "Button label."
+  },
+  "tournament.custom.teams.title": {
+    "message": "Customize Teams",
+    "description": "Screen heading."
+  },
+  "tournament.custom.teams.start": {
+    "message": "Start",
+    "description": "Button label."
+  },
+  "tournament.custom.teams.randomize": {
+    "message": "Randomize Teams",
+    "description": "Button label."
+  },
+  "tournament.custom.league.title": {
+    "message": "League",
+    "description": "Custom tournament league type screen heading."
+  },
+  "tournament.custom.eliminations.title": {
+    "message": "Eliminations",
+    "description": "Custom tournament eliminations type screen heading."
+  },
+  "tournament.custom.eliminationsWithGroups.title": {
+    "message": "Eliminations with groups",
+    "description": "Custom tournament eliminations with group stage type screen heading."
+  },
+  "tournament.tableLegend": {
+    "message": "P = <i>Points</i>   W = <i>Wins</i>   D = <i>Draws</i>   L = <i>Loses</i>   F = <i>Goals For</i>   A = <i>Goals Against</i>",
+    "description": ""
+  },
+
+  "multiplayer.title": {
+    "message": "Online Multiplayer",
+    "description": "Section title"
+  },
+  "multiplayer.lobbyCount": { "message": "Players in lobbies:" },
+  "multiplayer.onlineCount": { "message": "Players online:" },
+  "multiplayer.duel": { "message": "Duel" },
+  "multiplayer.duel.info": { "message": "1 vs 1" },
+  "multiplayer.doubles": { "message": "Doubles" },
+  "multiplayer.doubles.info": { "message": "2 vs 2" },
+  "multiplayer.chaos": { "message": "Chaos" },
+  "multiplayer.chaos.info": { "message": "3 vs 3" },
+  "multiplayer.complete": { "message": "Complete" },
+  "multiplayer.complete.info": { "message": "5 vs 5" },
+  "multiplayer.lobby": { "message": "Lobby", "description": "Section title" },
+  "multiplayer.open": { "message": "Open", "description": "Button label" },
+  "multiplayer.closed": { "message": "Closed", "description": "Button label" },
+  "multiplayer.join": {
+    "message": "Browse Matches",
+    "description": "Button label"
+  },
+  "multiplayer.join.info": {
+    "message": "Find a specific match to join",
+    "description": "Button label"
+  },
+  "multiplayer.search": { "message": "Search", "description": "Button label" },
+  "multiplayer.quickMatch": {
+    "message": "Quick Match",
+    "description": "Button label"
+  },
+  "multiplayer.quickMatch.info": {
+    "message": "Play a quick match against players around the world"
+  },
+  "multiplayer.host": {
+    "message": "Create Party",
+    "description": "Button label"
+  },
+  "multiplayer.host.info": {
+    "message": "Customize a game and invite other players"
+  },
+  "multiplayer.hostDisconnected": {
+    "message": "Connection with the host of the game was lost."
+  },
+  "multiplayer.gameList": {
+    "message": "Available games",
+    "description": "Section title"
+  },
+  "multiplayer.gameList.join": {
+    "message": "Join",
+    "description": "Button label"
+  },
+  "multiplayer.gameList.join.error": {
+    "message": "An error occured, please try a different game.",
+    "description": "Error message"
+  },
+  "multiplayer.gameList.refresh": {
+    "message": "Refresh",
+    "description": "Button label"
+  },
+  "multiplayer.gameList.hostName": {
+    "message": "Host name",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.mode": {
+    "message": "Mode",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.players": {
+    "message": "Players",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.teams": {
+    "message": "Teams",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.stadium": {
+    "message": "Stadium",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.progress": {
+    "message": "Time",
+    "description": "Table header"
+  },
+  "multiplayer.gameList.noLobbies": {
+    "message": "No lobbies found",
+    "description": "Error message"
+  },
+  "multiplayer.settings": {
+    "message": "Settings",
+    "description": "Section title"
+  },
+  "multiplayer.players": {
+    "message": "Players",
+    "description": "Section title"
+  },
+  "multiplayer.invite": { "message": "Invite", "description": "Button label" },
+  "multiplayer.invite.alert.message": {
+    "message": "User {USERNAME} has invited you to play Kopanito",
+    "description": "Alert text"
+  },
+  "multiplayer.invite.confirm.message": {
+    "message": "User {USERNAME} has invited you to play Kopanito.<br>By accepting, you will exit current game and all match progress will be lost.",
+    "description": "Alert text"
+  },
+  "multiplayer.invite.confirm.confirm": {
+    "message": "Join",
+    "description": "Button label"
+  },
+  "multiplayer.invite.confirm.decline": {
+    "message": "Ignore",
+    "description": "Button label"
+  },
+  "multiplayer.coop.title": {
+    "message": "Game mode",
+    "description": "Section title"
+  },
+  "multiplayer.coop": { "message": "Co-op", "description": "Button label" },
+  "multiplayer.versus": { "message": "Versus", "description": "Button label" },
+  "multiplayer.public.title": {
+    "message": "Lobby visibility",
+    "description": "Button label"
+  },
+  "multiplayer.public.friends": {
+    "message": "Friends",
+    "description": "Button label"
+  },
+  "multiplayer.public.public": {
+    "message": "Public",
+    "description": "Button label"
+  },
+  "multiplayer.friendStatus.offline": {
+    "message": "Offline",
+    "description": "Section title"
+  },
+  "multiplayer.friendStatus.online": {
+    "message": "Online",
+    "description": "Section title"
+  },
+  "multiplayer.friendStatus.away": {
+    "message": "Away",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.kickAlert": {
+    "message": "You have been kicked out of the lobby",
+    "description": "Alert message"
+  },
+  "multiplayer.lobby.playerOptions": {
+    "message": "Player slot options",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.playerOptions.kick": {
+    "message": "Kick out",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.playerOptions.close": {
+    "message": "Close slot",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.closedSlotOptions": {
+    "message": "Closed slot options",
+    "description": "Section title"
+  },
+  "multiplayer.lobby.closedSlotOptions.open": {
+    "message": "Open slot",
+    "description": "Button label"
+  },
+  "multiplayer.lobby.openSlotOptions": {
+    "message": "Open slot options",
+    "description": "Section title"
+  },
+  "multiplayer.matchmaking.connecting": {
+    "message": "Connecting to the servers..."
+  },
+  "multiplayer.matchmaking.searchingForGame": {
+    "message": "Searching for an opponent..."
+  },
+  "multiplayer.matchmaking.waitingForGame": {
+    "message": "Waiting for an opponent..."
+  },
+  "multiplayer.matchmaking.foundGame": {
+    "message": "Found a match, joining..."
+  },
+  "multiplayer.matchmaking.assetError": {
+    "message": "You don't have required teams, stadiums or balls to start this game."
+  },
+  "multiplayer.lobbyStatus0": { "message": "Ready" },
+  "multiplayer.lobbyStatus1": { "message": "In game" },
+  "multiplayer.lobbyStatus2": { "message": "In summary" },
+  "multiplayer.slowConnection": { "message": "slow connection" },
+
+  "match.selectTeam.playerPlay": { "message": "{KEY} Join" },
+  "match.selectTeam.playerLeave": { "message": "{KEY} Leave" },
+  "match.selectTeams": { "message": "SELECT TEAMS" },
+  "match.goal": { "message": "GOOOAL!" },
+  "match.goldenGoal": { "message": "GOLDEN GOOOAL!" },
+  "match.throwIn": { "message": "THROW IN!" },
+  "match.cornerKick": { "message": "CORNER KICK!" },
+  "match.goalKick": { "message": "GOAL KICK!" },
+  "match.halfTime": { "message": "HALF TIME!" },
+  "match.replay": { "message": "REPLAY" },
+
+  "summary.title": { "message": "{RED_SCORE} : {BLUE_SCORE}" },
+  "summary.player": { "message": "Player" },
+  "summary.fame": { "message": "Fame" },
+  "summary.goals": { "message": "Goals" },
+  "summary.shots": { "message": "Shots" },
+  "summary.blockedShots": { "message": "Blocked shots" },
+  "summary.slides": { "message": "Slides" },
+  "summary.interceptions": { "message": "Interceptions" },
+  "summary.possession": { "message": "Possession" },
+  "summary.status": { "message": "Status" },
+  "summary.challenge": { "message": "Challenge" },
+  "summary.exit": { "message": "Exit", "description": "Button label." },
+  "summary.continue": { "message": "Continue", "description": "Button label." },
+
+  "challenges.title": { "message": "Match challenge" },
+  "challenges.completed": { "message": "Challenge completed" },
+  "challenges.failed": { "message": "Challenge failed" },
+  "challenges.progress.count": { "message": "{VALUE}/{MIN}" },
+  "challenges.progress.percent": { "message": "{VALUE}/{MIN}%" },
+  "challenges.progress.seconds": { "message": "{VALUE}/{MIN}s" },
+  "challenges.progress.meters": { "message": "{VALUE}/{MIN}m" },
+
+  "challenges.slideAccuracyName": {
+    "message": "Hawkeye",
+    "description": "Match challenge name."
+  },
+  "challenges.slideAccuracy": {
+    "message": "Obtain {MIN_ACCURACY}% slide tackle accuracy"
+  },
+  "challenges.ballPossessionName": {
+    "message": "Glue",
+    "description": "Match challenge name."
+  },
+  "challenges.ballPossession": {
+    "message": "Obtain {MIN_POSSESSION}% ball possession"
+  },
+  "challenges.goalDifferenceName": {
+    "message": "Dominator",
+    "description": "Match challenge name."
+  },
+  "challenges.goalDifference": {
+    "message": "Win by scoring {MIN_DIFFERENCE} goals more than your opponent"
+  },
+  "challenges.interceptionsName": {
+    "message": "Interceptor",
+    "description": "Match challenge name."
+  },
+  "challenges.interceptions": {
+    "message": "Intercept {MIN_INTERCEPTIONS} passes in a match"
+  },
+  "challenges.cleanSheetName": {
+    "message": "Clean Sheet",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanSheet": {
+    "message": "Do not concede a single goal in a match"
+  },
+  "challenges.dribbleTimeName": {
+    "message": "Mazy Dribble",
+    "description": "Match challenge name."
+  },
+  "challenges.dribbleTime": {
+    "message": "Dribble for {MIN_DRIBBLE_TIME} seconds without losing the ball in a match"
+  },
+  "challenges.dribbleDistanceName": {
+    "message": "Mazy Run",
+    "description": "Match challenge name."
+  },
+  "challenges.dribbleDistance": {
+    "message": "Dribble for {MIN_DRIBBLE_DISTANCE} meters without losing the ball in a match"
+  },
+  "challenges.noSlideTackleName": {
+    "message": "Fair Play",
+    "description": "Match challenge name."
+  },
+  "challenges.noSlideTackle": {
+    "message": "Win without using slide tackle (neither field player nor goalkeeper)"
+  },
+  "challenges.noPreciseShotName": {
+    "message": "Sniper Mode Off",
+    "description": "Match challenge name."
+  },
+  "challenges.noPreciseShot": { "message": "Win without using a precise shot" },
+  "challenges.noSupermovesName": {
+    "message": "Power Off",
+    "description": "Match challenge name."
+  },
+  "challenges.noSupermoves": { "message": "Win without using any super-moves" },
+  "challenges.scoringDefenderName": {
+    "message": "The Best Defense Is A Good Offense",
+    "description": "Match challenge name."
+  },
+  "challenges.scoringDefender": {
+    "message": "Score a goal with one of your defenders"
+  },
+  "challenges.everyoneScoresName": {
+    "message": "Team Work",
+    "description": "Match challenge name."
+  },
+  "challenges.everyoneScores": {
+    "message": "Have every one of your field players score a goal in a match"
+  },
+  "challenges.hatTrickName": {
+    "message": "Hat-trick",
+    "description": "Match challenge name."
+  },
+  "challenges.hatTrick": { "message": "Score a hat-trick" },
+  "challenges.golzagolName": {
+    "message": "Eye For An Eye",
+    "description": "Match challenge name."
+  },
+  "challenges.golzagol": {
+    "message": "Score a goal in less than {MIN_TIME} seconds after conceding a goal"
+  },
+  "challenges.fastTripleName": {
+    "message": "Blitzkrieg",
+    "description": "Match challenge name."
+  },
+  "challenges.fastTriple": {
+    "message": "Score 3 goals in less than {MIN_TIME} seconds"
+  },
+  "challenges.consecutiveSlidesName": {
+    "message": "On A Roll",
+    "description": "Match challenge name."
+  },
+  "challenges.consecutiveSlides": {
+    "message": "Perform {MIN_SLIDES} successful slides in a row"
+  },
+  "challenges.slideTrapName": {
+    "message": "Clean Slides",
+    "description": "Match challenge name."
+  },
+  "challenges.slideTrap": {
+    "message": "Perform {MIN_SLIDES} clean slide tackles in a match"
+  },
+  "challenges.doubleSlideHitName": {
+    "message": "Double Hit",
+    "description": "Match challenge name."
+  },
+  "challenges.doubleSlideHit": {
+    "message": "Hit 2 opponents with a single slide tackle"
+  },
+  "challenges.goalkeeperSlideTrapName": {
+    "message": "Goalkeeper Parade",
+    "description": "Match challenge name."
+  },
+  "challenges.goalkeeperSlideTrap": {
+    "message": "Perform {MIN_SLIDES} successfull slide tackles with your goalkeeper in a match"
+  },
+  "challenges.slideInterceptName": {
+    "message": "Slide Intercept",
+    "description": "Match challenge name."
+  },
+  "challenges.slideIntercept": {
+    "message": "Intercept {MIN_INTERCEPTIONS} passes using a slide tackle in a match"
+  },
+  "challenges.trapName": {
+    "message": "Master Trapper",
+    "description": "Match challenge name."
+  },
+  "challenges.trap": {
+    "message": "Trap the ball {MIN_TRAPS} times without using a slide tackle in a match"
+  },
+  "challenges.slideScoreName": {
+    "message": "Slide Score",
+    "description": "Match challenge name."
+  },
+  "challenges.slideScore": {
+    "message": "Score a goal by sliding through goal line"
+  },
+  "challenges.roundingTheKeeperName": {
+    "message": "Rounding The 'Keeper",
+    "description": "Match challenge name."
+  },
+  "challenges.roundingTheKeeper": {
+    "message": "Score a goal by dribbling past the goal line with the ball"
+  },
+  "challenges.maxBallSwerveName": {
+    "message": "Boomerang",
+    "description": "Match challenge name."
+  },
+  "challenges.maxBallSwerve": {
+    "message": "Score {MIN_GOALS} goals by using extremely swerved shots in a match"
+  },
+  "challenges.teleportScoreName": {
+    "message": "Teleport Master",
+    "description": "Match challenge name."
+  },
+  "challenges.teleportScore": {
+    "message": "Score a goal using the teleport super-move"
+  },
+  "challenges.magnetOnSupershotName": {
+    "message": "Super-magnetism",
+    "description": "Match challenge name."
+  },
+  "challenges.magnetOnSupershot": {
+    "message": "Cancel a super-shot using the ball magnet"
+  },
+  "challenges.magnetOnShotName": {
+    "message": "Magnetism",
+    "description": "Match challenge name."
+  },
+  "challenges.magnetOnShot": {
+    "message": "Cancel a shot using the ball magnet"
+  },
+  "challenges.touchWoodworkName": {
+    "message": "Woodwork",
+    "description": "Match challenge name."
+  },
+  "challenges.touchWoodwork": {
+    "message": "Score {MIN_GOALS} goals by hitting the goal posts or crossbar in a match"
+  },
+  "challenges.penaltyAreaScoreName": {
+    "message": "Close Encounter",
+    "description": "Match challenge name."
+  },
+  "challenges.penaltyAreaScore": {
+    "message": "Score {MIN_GOALS} from the opponent's penalty area in a match"
+  },
+  "challenges.pitchAreaScoreName": {
+    "message": "Long Shot",
+    "description": "Match challenge name."
+  },
+  "challenges.pitchAreaScore": {
+    "message": "Score {MIN_GOALS} from outside of the opponent's penalty area in a match"
+  },
+  "challenges.cornerScoreName": {
+    "message": "Corner Score",
+    "description": "Match challenge name."
+  },
+  "challenges.cornerScore": {
+    "message": "Score {MIN_GOALS} from a corner kick in a match"
+  },
+  "challenges.goalkeeperLobName": {
+    "message": "Airstrike",
+    "description": "Match challenge name."
+  },
+  "challenges.goalkeeperLob": {
+    "message": "Score a goal by lobbing the ball over the goalkeeper"
+  },
+  "challenges.supershotHitAndScoreName": {
+    "message": "Combo Supershot",
+    "description": "Match challenge name."
+  },
+  "challenges.supershotHitAndScore": {
+    "message": "Hit 2 opponents with a super-shot and score a goal"
+  },
+  "challenges.teleportKnockDownName": {
+    "message": "Teleport Hit",
+    "description": "Match challenge name."
+  },
+  "challenges.teleportKnockDown": {
+    "message": "Knock-down an opponent using a teleport"
+  },
+  "challenges.cornerDefenseName": {
+    "message": "Cornered",
+    "description": "Match challenge name."
+  },
+  "challenges.cornerDefense": {
+    "message": "Do not concede a goal from a corner kick in a match"
+  },
+  "challenges.untouchableGoalName": {
+    "message": "Untouchable",
+    "description": "Match challenge name."
+  },
+  "challenges.untouchableGoal": {
+    "message": "Score a goal without losing the ball (starting with your goalkeeper or from a kick-off)"
+  },
+  "challenges.windmakerSaveName": {
+    "message": "Wind Of Change",
+    "description": "Match challenge name."
+  },
+  "challenges.windmakerSave": {
+    "message": "Prevent a goal by activating the windmaker at the last moment"
+  },
+  "challenges.reverseShotName": {
+    "message": "Heel Shot",
+    "description": "Match challenge name."
+  },
+  "challenges.reverseShot": {
+    "message": "Score a goal with a precise shot while running in the opposite direction to the opponent's goal"
+  },
+  "challenges.cleanPassesName": {
+    "message": "Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanPasses": {
+    "message": "Make {MIN_PASSES} consecutive passes without losing possession in a match"
+  },
+  "challenges.cleanLobsName": {
+    "message": "High Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanLobs": {
+    "message": "Make {MIN_PASSES} consecutive lobs without losing possession in a match"
+  },
+  "challenges.cleanGroundPassesName": {
+    "message": "Low Tiki-Taka",
+    "description": "Match challenge name."
+  },
+  "challenges.cleanGroundPasses": {
+    "message": "Make {MIN_PASSES} consecutive ground passes without losing possession in a match"
+  },
+  "challenges.supershotFromPenaltyAreaName": {
+    "message": "Artillery",
+    "description": "Match challenge name."
+  },
+  "challenges.supershotFromPenaltyArea": {
+    "message": "Score a goal from a super-shot launched from your own penalty area"
+  },
+  "challenges.slideHitName": {
+    "message": "Bowling",
+    "description": "Match challenge name."
+  },
+  "challenges.slideHit": {
+    "message": "Knock-down {MIN_HITS} opponents in a match"
+  },
+  "challenges.avoidGoalkeeperName": {
+    "message": "Acrobat",
+    "description": "Match challenge name."
+  },
+  "challenges.avoidGoalkeeper": {
+    "message": "Avoid 2 goalkeeper slide tackles in a row"
+  },
+  "challenges.noBallSlideTackleName": {
+    "message": "X-rated",
+    "description": "Match challenge name."
+  },
+  "challenges.noBallSlideTackle": {
+    "message": "Slide tackle {OPPONENTS} opponents without the ball in a match"
+  },
+
+  "achievements.unlockedTitle": { "message": "Achievement unlocked!" },
+  "achievements.guideName": {
+    "message": "Bookworm",
+    "description": "Achievement name."
+  },
+  "achievements.guide": {
+    "message": "Read the entire Guide available in the game"
+  },
+  "achievements.goldenGoalName": {
+    "message": "Golden Goal",
+    "description": "Achievement name."
+  },
+  "achievements.goldenGoal": { "message": "Win a match by a golden goal" },
+  "achievements.friendlyFireName": {
+    "message": "Friendly Fire",
+    "description": "Achievement name."
+  },
+  "achievements.friendlyFire": { "message": "Hit or slide tackle a teammate" },
+  "achievements.localMultiName": {
+    "message": "House Party",
+    "description": "Achievement name."
+  },
+  "achievements.localMulti": {
+    "message": "Play a match with 3 or more friends"
+  },
+  "achievements.localMultiCupName": {
+    "message": "Team Kopanito",
+    "description": "Achievement name."
+  },
+  "achievements.localMultiCup": {
+    "message": "Play a tournament match with a friend"
+  },
+  "achievements.slideTackleName": {
+    "message": "Bully",
+    "description": "Achievement name."
+  },
+  "achievements.slideTackle": {
+    "message": "Hit {MIN_HITS} opponents with a slide tackle"
+  },
+  "achievements.firstSecondsGoalName": {
+    "message": "Kick And Rush",
+    "description": "Achievement name."
+  },
+  "achievements.firstSecondsGoal": {
+    "message": "Score a goal in the first seconds of a match"
+  },
+  "achievements.lastSecondsGoalName": {
+    "message": "Last Seconds Goal",
+    "description": "Achievement name."
+  },
+  "achievements.lastSecondsGoal": {
+    "message": "Score a goal in the last seconds of a match"
+  },
+  "achievements.cleanEventName": {
+    "message": "Perfect Defense",
+    "description": "Achievement name."
+  },
+  "achievements.cleanEvent": {
+    "message": "Don't concede a single goal in a cup or league"
+  },
+  "achievements.famousName": {
+    "message": "Famous",
+    "description": "Achievement name."
+  },
+  "achievements.famous": {
+    "message": "Obtain <i class=\"pink\">{MIN_FAME}</i> fame"
+  },
+  "achievements.allTeamsName": {
+    "message": "Collector",
+    "description": "Achievement name."
+  },
+  "achievements.allTeams": { "message": "Unlock all teams" },
+  "achievements.silverLeagueName": {
+    "message": "Silver League",
+    "description": "Achievement name."
+  },
+  "achievements.silverLeague": {
+    "message": "Reach the <i class=\"silver\">Silver League</i> / Gain <i class=\"pink\">{FAME}</i> fame"
+  },
+  "achievements.goldLeagueName": {
+    "message": "Gold League",
+    "description": "Achievement name."
+  },
+  "achievements.goldLeague": {
+    "message": "Reach the <i class=\"gold\">Gold League</i> / Gain <i class=\"pink\">{FAME}</i> fame"
+  },
+  "achievements.platinumLeagueName": {
+    "message": "Platinum League",
+    "description": "Achievement name."
+  },
+  "achievements.platinumLeague": {
+    "message": "Reach the <i class=\"platinum\">Platinum League</i> / Gain <i class=\"pink\">{FAME}</i> fame"
+  },
+  "achievements.thiefName": {
+    "message": "Thief",
+    "description": "Achievement name."
+  },
+  "achievements.thief": { "message": "Steal the ball {MIN_STEALS} times" },
+  "achievements.magnetName": {
+    "message": "Super-magnet",
+    "description": "Achievement name."
+  },
+  "achievements.magnet": {
+    "message": "Steal the ball {MIN_STEALS} times using the ball magnet"
+  },
+  "achievements.freezerName": {
+    "message": "Ice sculpting",
+    "description": "Achievement name."
+  },
+  "achievements.freezer": { "message": "Freeze 3 players at once" },
+  "achievements.supershotName": {
+    "message": "Super-shot",
+    "description": "Achievement name."
+  },
+  "achievements.supershot": {
+    "message": "Score {MIN_GOALS, plural, one {# goal} other {# goals}} with a super-shot"
+  },
+  "achievements.supermovesMasterName": {
+    "message": "Trickster",
+    "description": "Achievement name."
+  },
+  "achievements.supermovesMaster": {
+    "message": "Use 4 different super-moves in a match"
+  },
+  "achievements.topScorerName": {
+    "message": "Top Scorer",
+    "description": "Achievement name."
+  },
+  "achievements.topScorer": {
+    "message": "Score {MIN_GOALS, plural, one {# goal} other {# goals}}"
+  },
+  "achievements.completeEventName": { "message": "{EVENT_NAME}" },
+  "achievements.completeEvent": { "message": "Win {EVENT_NAME_ACCUSATIVE}" },
+  "achievements.completeMainEventsName": {
+    "message": "Globetrotter",
+    "description": "Achievement name."
+  },
+  "achievements.completeMainEvents": {
+    "message": "Complete all main events (continental + world cup) on any difficulty level"
+  },
+  "achievements.completeOptionalEventsName": {
+    "message": "Traveller",
+    "description": "Achievement name."
+  },
+  "achievements.completeOptionalEvents": {
+    "message": "Complete all optional events (minor cups and leagues) on any difficulty level"
+  },
+  "achievements.legendMasteredName": {
+    "message": "Legend",
+    "description": "Achievement name."
+  },
+  "achievements.legendMastered": {
+    "message": "Complete all events on the Legend difficulty level"
+  },
+  "achievements.legendMasteredSuccess": {
+    "message": "Congratulations!<br>You have completed all available competitions on the highest difficulty level!"
+  },
+
+  "leagues.platinum": { "message": "Platinum League" },
+  "leagues.platinum.genitive": {
+    "message": "Platinum League",
+    "description": "League name in genitive case"
+  },
+  "leagues.gold": { "message": "Gold League" },
+  "leagues.gold.genitive": {
+    "message": "Gold League",
+    "description": "League name in genitive case"
+  },
+  "leagues.silver": { "message": "Silver League" },
+  "leagues.silver.genitive": {
+    "message": "Silver League",
+    "description": "League name in genitive case"
+  },
+  "leagues.bronze": { "message": "Bronze League" },
+  "leagues.bronze.genitive": {
+    "message": "Bronze League",
+    "description": "League name in genitive case"
+  },
+  "leagues.beginner": { "message": "Qualifiers" },
+  "leagues.beginner.genitive": {
+    "message": "Qualifiers",
+    "description": "League name in genitive case"
+  },
+  "leagues.fameNeeded": { "message": "Fame required:" },
+  "leagues.userLimit": { "message": "Player limit:" },
+  "leagues.promotion": {
+    "message": "Congratulations!<br>You have been promoted to the <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>!"
+  },
+  "leagues.relegation": {
+    "message": "Sorry!<br>You have been relegated to the <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>."
+  },
+  "leagues.intro": {
+    "message": "<p>You've got <i class=\"pink\">{FAME}</i> fame points!</p><p>Win friendly matches, tournaments and complete challenges to earn more points. Higher AI difficulty gives more points.</p><p>You need <i class=\"pink\">{MIN_FAME}</i> fame points to advance to the <i class=\"bronze no-wrap\">Bronze League</i>.</p>"
+  },
+
+  "leagues.table.league": {
+    "message": "L",
+    "description": "Initial from the word `League` used in the leaderboard tables."
+  },
+  "leagues.table.name": { "message": "Player" },
+  "leagues.table.fame": { "message": "Fame" },
+
+  "replay.show": { "message": "Show replay", "description": "Button label." },
+  "replay.generateGif": {
+    "message": "Generate GIF",
+    "description": "Button label."
+  },
+
+  "gif.description": {
+    "message": "GIF generation in progress. This may take a few minutes."
+  },
+  "gif.successMessage": {
+    "message": "GIF generation completed.<br>It can be found in the `Replays` game folder: <i class=\"yellow\">{PATH}</i>"
+  },
+  "gif.showFolder": {
+    "message": "Show in folder",
+    "description": "Button label."
+  },
+
+  "users.name": {
+    "message": "Player {id}",
+    "description": "Generic username shown in-game"
+  }
+}

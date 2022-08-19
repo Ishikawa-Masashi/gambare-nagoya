@@ -1,0 +1,2034 @@
+{
+    "tournament.groupName": {
+        "message": "小组 {LETTER}",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague.accusative": {
+        "message": "泛美联赛",
+        "description": "Accusative case"
+    },
+    "play.practice": {
+        "message": "训练",
+        "description": ""
+    },
+    "achievements.guideName": {
+        "message": "书虫",
+        "description": "Achievement name."
+    },
+    "summary.title": {
+        "message": "{RED_SCORE} : {BLUE_SCORE}",
+        "description": ""
+    },
+    "hint.23": {
+        "message": "藉由参加比赛得到 <i class=\"pink\">名誉</i> 分，依据你在排名中取得的进步。",
+        "description": ""
+    },
+    "multiplayer.versus": {
+        "message": "对",
+        "description": "Button label"
+    },
+    "leagues.bronze.genitive": {
+        "message": "青铜联赛",
+        "description": "League name in genitive case"
+    },
+    "challenges.completed": {
+        "message": "挑战完成",
+        "description": ""
+    },
+    "play.oceaniaCup": {
+        "message": "大洋洲杯",
+        "description": ""
+    },
+    "audio.effectsVolume": {
+        "message": "效应的音量",
+        "description": ""
+    },
+    "menu.ok": {
+        "message": "确定",
+        "description": "Button label for accepting changes"
+    },
+    "practice.title1": {
+        "message": "防守",
+        "description": "Information about current practice mode."
+    },
+    "hint.26": {
+        "message": "熟能生巧。",
+        "description": ""
+    },
+    "achievements.slideTackleName": {
+        "message": "最猛霸凌",
+        "description": "Achievement name."
+    },
+    "tournament.custom.title": {
+        "message": "自定锦标赛",
+        "description": "Custom tournament screen heading."
+    },
+    "play.panArabLeague": {
+        "message": "泛阿拉伯国家联赛",
+        "description": ""
+    },
+    "challenges.teleportScore": {
+        "message": "用传送超级动作进球",
+        "description": ""
+    },
+    "video.dirt": {
+        "message": "草地的磨损",
+        "description": "Visual effect."
+    },
+    "leaderboards.friends": {
+        "message": "朋友",
+        "description": "Button label."
+    },
+    "hint.21": {
+        "message": "铲球队守门员并没有用，但守门员无法带球移动。",
+        "description": ""
+    },
+    "play.indoorCup": {
+        "message": "室内杯",
+        "description": ""
+    },
+    "table.goalsAgainst": {
+        "message": "进球",
+        "description": "Short form of the words 'Goals Against'"
+    },
+    "multiplayer.friendStatus.offline": {
+        "message": "离线",
+        "description": "Section title"
+    },
+    "tournament.custom.eliminationsWithGroups.title": {
+        "message": "团体淘汰赛",
+        "description": "Custom tournament eliminations with group stage type screen heading."
+    },
+    "challenges.magnetOnSupershotName": {
+        "message": "超强磁力",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerDefense": {
+        "message": "别让你的对手从角球得分",
+        "description": ""
+    },
+    "multiplayer.coop": {
+        "message": "合作",
+        "description": "Button label"
+    },
+    "leaderboards.title": {
+        "message": "排行榜",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlidesName": {
+        "message": "你交好运了",
+        "description": "Match challenge name."
+    },
+    "hint.16": {
+        "message": "<img src=\"images/powerups/tesla/icon.png\" width=\"32\" height=\"32\"> 特斯拉直升机特技会跟随拥有球的球员，并当你按下<span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span> 后电击附近球员。",
+        "description": ""
+    },
+    "challenges.golzagolName": {
+        "message": "以眼还眼",
+        "description": "Match challenge name."
+    },
+    "hint.9": {
+        "message": "长按 <span class=\"key auto-wide auto-update\" data-action=\"swerveUp\"></span> 或 <span class=\"key auto-wide auto-update\" data-action=\"swerveDown\"></span>以使用准确射门来制造曲线球。",
+        "description": ""
+    },
+    "achievements.goldLeagueName": {
+        "message": "黄金联赛",
+        "description": "Achievement name."
+    },
+    "play.friendly": {
+        "message": "友谊比赛",
+        "description": ""
+    },
+    "hint.2": {
+        "message": "你按下高调传球键 <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span> 越长，球传的越远。",
+        "description": ""
+    },
+    "video.depthOfField": {
+        "message": "场地深度",
+        "description": "Visual effect."
+    },
+    "leagues.table.name": {
+        "message": "玩家",
+        "description": ""
+    },
+    "challenges.pitchAreaScoreName": {
+        "message": "远射",
+        "description": "Match challenge name."
+    },
+    "match.selectTeam.playerLeave": {
+        "message": "{KEY} 离开",
+        "description": ""
+    },
+    "multiplayer.gameList.players": {
+        "message": "玩家",
+        "description": "Table header"
+    },
+    "summary.status": {
+        "message": "游戏情况",
+        "description": ""
+    },
+    "video.particles": {
+        "message": "微粒",
+        "description": "Visual effect."
+    },
+    "achievements.firstSecondsGoalName": {
+        "message": "炫速之踢",
+        "description": "Achievement name."
+    },
+    "challenges.dribbleTimeName": {
+        "message": "疯狂带球员",
+        "description": "Match challenge name."
+    },
+    "audio.musicVolume": {
+        "message": "音乐的音量",
+        "description": ""
+    },
+    "play.southAmericaCup": {
+        "message": "南美洲杯",
+        "description": ""
+    },
+    "achievements.unlockedTitle": {
+        "message": "已解锁的成就 ！",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.close": {
+        "message": "关闭空位",
+        "description": "Button label"
+    },
+    "actions.walk": {
+        "message": "走路(长按)",
+        "description": "Name of action for walking."
+    },
+    "play.pacificLeague.accusative": {
+        "message": "太平洋联赛",
+        "description": "Accusative case"
+    },
+    "challenges.slideHitName": {
+        "message": "保龄球",
+        "description": "Match challenge name."
+    },
+    "challenges.penaltyAreaScore": {
+        "message": "在对手的禁区内得 {MIN_GOALS} 分",
+        "description": ""
+    },
+    "actions.sprint": {
+        "message": "加速(长按)",
+        "description": "Name of action for running faster."
+    },
+    "tournament.custom.teams.title": {
+        "message": "定制队伍",
+        "description": "Screen heading."
+    },
+    "hint.4": {
+        "message": "长按 <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> 来加速 - 只有在不持球的状态下适用",
+        "description": ""
+    },
+    "gameplay.title": {
+        "message": "游戏设定",
+        "description": "Gameplay options menu title."
+    },
+    "challenges.noSupermoves": {
+        "message": "在比赛中不用任何超级动作但却获胜",
+        "description": ""
+    },
+    "play.indoorCup.accusative": {
+        "message": "室内杯",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobbyStatus2": {
+        "message": "总结",
+        "description": ""
+    },
+    "multiplayer.quickMatch.info": {
+        "message": "和世界各地的玩家玩一场即时对战",
+        "description": ""
+    },
+    "achievements.topScorerName": {
+        "message": "最佳得分员",
+        "description": "Achievement name."
+    },
+    "challenges.reverseShot": {
+        "message": "往自己的球门的方向跑动时用精准射球的策略得分",
+        "description": ""
+    },
+    "play.northAmericaCup.accusative": {
+        "message": "北美洲杯",
+        "description": "Accusative case"
+    },
+    "tournament.end": {
+        "message": "结束比赛",
+        "description": "Button label."
+    },
+    "legendUnlocked": {
+        "message": "恭喜！<br>你刚打开了附加的下一级: <i class=\"platinum\">传说级</i>",
+        "description": ""
+    },
+    "play.microstatesCup.accusative": {
+        "message": "微型国家杯",
+        "description": "Accusative case"
+    },
+    "multiplayer.players": {
+        "message": "玩家",
+        "description": "Section title"
+    },
+    "video.brightness": {
+        "message": "亮度",
+        "description": ""
+    },
+    "menu.saveMessage": {
+        "message": "你确定要保存这些设置吗？",
+        "description": ""
+    },
+    "help.title": {
+        "message": "指南",
+        "description": ""
+    },
+    "leagues.table.fame": {
+        "message": "成名度",
+        "description": ""
+    },
+    "challenges.noPreciseShot": {
+        "message": "比赛中不用精准射球的功能但却获胜",
+        "description": ""
+    },
+    "actions.passModifier": {
+        "message": "手动/辅助传球切换(长按)",
+        "description": "Name of action for changing between pass modes."
+    },
+    "controls.gamepad2": {
+        "message": "<b class=\"user-icon user-2 connected online\"></b> 遥控器 2",
+        "description": "Button label."
+    },
+    "multiplayer.friendStatus.online": {
+        "message": "在线",
+        "description": "Section title"
+    },
+    "actions.togglePlayer": {
+        "message": "更换玩家",
+        "description": "Name of action for changing in-game characters."
+    },
+    "menu.enabled": {
+        "message": "启用",
+        "description": "Button label."
+    },
+    "achievements.friendlyFire": {
+        "message": "铲球或者碰撞你的球员",
+        "description": ""
+    },
+    "practice.title3": {
+        "message": "准确射门",
+        "description": "Information about current practice mode."
+    },
+    "challenges.slideIntercept": {
+        "message": "在一个比赛中用铲球方法抢截{MIN_INTERCEPTIONS} 次球",
+        "description": ""
+    },
+    "multiplayer.join.info": {
+        "message": "寻找加入一场特定的比赛",
+        "description": "Button label"
+    },
+    "friendly.drawsOn": {
+        "message": "允許平局",
+        "description": "When a draw is allowed in a match."
+    },
+    "challenges.teleportKnockDownName": {
+        "message": "传送命中",
+        "description": "Match challenge name."
+    },
+    "achievements.freezer": {
+        "message": "一次冻结3位球员",
+        "description": ""
+    },
+    "controls.passingAssistedOnly": {
+        "message": "仅使用辅助",
+        "description": ""
+    },
+    "menu.selectTeam": {
+        "message": "选择球队",
+        "description": ""
+    },
+    "multiplayer.settings": {
+        "message": "设定",
+        "description": "Section title"
+    },
+    "unlock": {
+        "message": "赢<br><i>{MODE}</i><br>在\n<i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> 级难度",
+        "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+    },
+    "challenges.hatTrickName": {
+        "message": "帽子戏法",
+        "description": "Match challenge name."
+    },
+    "summary.shots": {
+        "message": "射门",
+        "description": ""
+    },
+    "achievements.supermovesMasterName": {
+        "message": "骗徒",
+        "description": "Achievement name."
+    },
+    "actions.down2": {
+        "message": "Alt键+向下键",
+        "description": "Name of action for moving in-game character down."
+    },
+    "practice.aiming": {
+        "message": "瞄准",
+        "description": ""
+    },
+    "distance": {
+        "message": "{METERS}公尺",
+        "description": "Distance covered in meters."
+    },
+    "challenges.teleportKnockDown": {
+        "message": "用传送的功能击倒你的对手",
+        "description": ""
+    },
+    "play.commonwealthCup.accusative": {
+        "message": "英联邦杯",
+        "description": "Accusative case"
+    },
+    "controls.keyboard": {
+        "message": "<b class=\"user-icon user-0 connected online\"></b> 键盘",
+        "description": "Button label."
+    },
+    "controls.passingAssistedPreferred": {
+        "message": "偏好辅助",
+        "description": ""
+    },
+    "challenges.cleanGroundPassesName": {
+        "message": "低Tiki-Taka动作",
+        "description": "Match challenge name."
+    },
+    "achievements.guide": {
+        "message": "读完游戏中的所有指南",
+        "description": ""
+    },
+    "leaderboards.global": {
+        "message": "全球性的",
+        "description": "Button label."
+    },
+    "hintPrefix": {
+        "message": "提示：",
+        "description": ""
+    },
+    "multiplayer.hostDisconnected": {
+        "message": "与游戏主办的连线中断。",
+        "description": ""
+    },
+    "hint.5": {
+        "message": "使用 <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> 来直接射门，使用第一触击踢球、精确踢球或空中踢球。",
+        "description": ""
+    },
+    "challenges.everyoneScores": {
+        "message": "全队队友在一场比赛中都有进球",
+        "description": ""
+    },
+    "menu.off": {
+        "message": "关",
+        "description": "When something is disabled"
+    },
+    "play.asiaCup": {
+        "message": "亚洲杯",
+        "description": ""
+    },
+    "actions.header": {
+        "message": "空中射门(在球下方长按)",
+        "description": "Name of action headers and bicycle kicks."
+    },
+    "menu.quitMessage": {
+        "message": "确定离开?",
+        "description": ""
+    },
+    "challenges.hatTrick": {
+        "message": "帽子戏法得分",
+        "description": ""
+    },
+    "multiplayer.invite": {
+        "message": "好友邀请",
+        "description": "Button label"
+    },
+    "achievements.goldLeague": {
+        "message": "达到 <i class=\"gold\">黄金联赛</i> / 获得 <i class=\"pink\">{FAME}</i> 名誉",
+        "description": ""
+    },
+    "play.africaCup": {
+        "message": "非洲杯",
+        "description": ""
+    },
+    "challenges.progress.count": {
+        "message": "{VALUE}/{MIN}",
+        "description": ""
+    },
+    "leagues.gold": {
+        "message": "黄金联赛",
+        "description": ""
+    },
+    "match.replay": {
+        "message": "重播",
+        "description": ""
+    },
+    "leagues.table.league": {
+        "message": "联赛",
+        "description": "Initial from the word `League` used in the leaderboard tables."
+    },
+    "multiplayer.lobbyStatus1": {
+        "message": "游戏中",
+        "description": ""
+    },
+    "challenges.untouchableGoalName": {
+        "message": "惹不起战士",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerScoreName": {
+        "message": "角球得分",
+        "description": "Match challenge name."
+    },
+    "leagues.promotion": {
+        "message": "恭喜你！<br>你被提升了到 <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>级模式!",
+        "description": ""
+    },
+    "tournament.fixturesButton": {
+        "message": "赛事",
+        "description": "Tournament button label."
+    },
+    "challenges.everyoneScoresName": {
+        "message": "团队合作",
+        "description": "Match challenge name."
+    },
+    "tournament.custom.type": {
+        "message": "种类",
+        "description": "Button label."
+    },
+    "play.centralAmericanAndCaribbeanLeague": {
+        "message": "中美洲和加勒比联赛",
+        "description": ""
+    },
+    "challenges.progress.seconds": {
+        "message": "{VALUE}/{MIN}s",
+        "description": ""
+    },
+    "tournament.playoff": {
+        "message": "最后决赛 #{NUMBER}",
+        "description": "Tournament screen heading."
+    },
+    "play.europeCup.accusative": {
+        "message": "欧洲杯",
+        "description": "Accusative case"
+    },
+    "actions.lob": {
+        "message": "高吊传球 (长按)",
+        "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+    },
+    "unlock.continentalLeague": {
+        "message": "赢得<br><i>所有洲际杯</i><br>在 <i class=\"bronze\">初级</i> 难度",
+        "description": ""
+    },
+    "challenges.cleanSheetName": {
+        "message": "单场比赛没有失球",
+        "description": "Match challenge name."
+    },
+    "actions.pass": {
+        "message": "地面传球",
+        "description": "Name of action for passing the ball to another player."
+    },
+    "controls.gamepad1": {
+        "message": "<b class=\"user-icon user-1 connected online\"></b> 遥控器 1",
+        "description": "Button label."
+    },
+    "multiplayer.host": {
+        "message": "创建比赛",
+        "description": "Button label"
+    },
+    "multiplayer.duel.info": {
+        "message": "1 对 1",
+        "description": ""
+    },
+    "menu.keys.move": {
+        "message": "导航",
+        "description": ""
+    },
+    "challenges.noBallSlideTackle": {
+        "message": "在没有球的情况下向对手 {OPPONENTS} 铲球",
+        "description": ""
+    },
+    "multiplayer.gameList.progress": {
+        "message": "时间",
+        "description": "Table header"
+    },
+    "leagues.gold.genitive": {
+        "message": "黄金联赛",
+        "description": "League name in genitive case"
+    },
+    "leagues.silver": {
+        "message": "白银联赛",
+        "description": ""
+    },
+    "challenges.title": {
+        "message": "比赛中的挑战",
+        "description": ""
+    },
+    "multiplayer.gameList.teams": {
+        "message": "队伍",
+        "description": "Table header"
+    },
+    "multiplayer.gameList.join": {
+        "message": "加入",
+        "description": "Button label"
+    },
+    "challenges.roundingTheKeeperName": {
+        "message": "前线进攻王",
+        "description": "Match challenge name."
+    },
+    "hint.25": {
+        "message": "完成锦标赛的挑战将会给你 <i class=\"pink\">名誉</i> 得分。",
+        "description": ""
+    },
+    "menu.keys.back": {
+        "message": "返回",
+        "description": ""
+    },
+    "challenges.supershotFromPenaltyAreaName": {
+        "message": "火炮",
+        "description": "Match challenge name."
+    },
+    "controls.change": {
+        "message": "更换",
+        "description": "Button label."
+    },
+    "challenges.fastTripleName": {
+        "message": "闪电战",
+        "description": "Match challenge name."
+    },
+    "play.title": {
+        "message": "选择比赛",
+        "description": ""
+    },
+    "challenges.doubleSlideHitName": {
+        "message": "双击",
+        "description": "Match challenge name."
+    },
+    "multiplayer.join": {
+        "message": "选择比赛",
+        "description": "Button label"
+    },
+    "replay.show": {
+        "message": "显示重播",
+        "description": "Button label."
+    },
+    "tournament.tableLegend": {
+        "message": "积分 = <i>得分</i>   胜场 = <i>赢局</i>   和场 = <i>平局</i>   输场 = <i>输局</i>   进球 = <i>进球数</i>   失球 = <i>失球数</i>",
+        "description": ""
+    },
+    "play.online": {
+        "message": "在线多个玩家",
+        "description": ""
+    },
+    "play.northAmericaCup": {
+        "message": "北美洲杯",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.kick": {
+        "message": "赶出",
+        "description": "Button label"
+    },
+    "challenges.slideTrap": {
+        "message": "一连 {MIN_SLIDES} 次干净地铲球",
+        "description": ""
+    },
+    "tournament.final": {
+        "message": "终场",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalkeeperSlideTrapName": {
+        "message": "最佳守门员",
+        "description": "Match challenge name."
+    },
+    "challenges.noSupermovesName": {
+        "message": "关闭",
+        "description": "Match challenge name."
+    },
+    "match.goal": {
+        "message": "进球了！",
+        "description": ""
+    },
+    "actions.left": {
+        "message": "左",
+        "description": "Name of action for moving in-game character left."
+    },
+    "tournament.custom.teams.randomize": {
+        "message": "随机选队",
+        "description": "Button label."
+    },
+    "achievements.thief": {
+        "message": "断球 {MIN_STEALS} 次",
+        "description": ""
+    },
+    "ai.level3": {
+        "message": "传奇难度",
+        "description": "Fourth difficulty level name"
+    },
+    "options.title": {
+        "message": "选项",
+        "description": "Options menu title."
+    },
+    "leagues.platinum.genitive": {
+        "message": "白金联赛",
+        "description": "League name in genitive case"
+    },
+    "pause.showChallenge": {
+        "message": "显示挑战",
+        "description": "Button label for showing challenge description."
+    },
+    "multiplayer.quickMatch": {
+        "message": "即时对战",
+        "description": "Button label"
+    },
+    "hint.8": {
+        "message": "长按 <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> 来完成准确射门－瞄准并使用曲线球。",
+        "description": ""
+    },
+    "multiplayer.matchmaking.assetError": {
+        "message": "你没有这场游戏所需要的队伍、场地或球类。",
+        "description": ""
+    },
+    "play.mediterraneanLeague": {
+        "message": "地中海联赛",
+        "description": ""
+    },
+    "challenges.cleanPasses": {
+        "message": "在没有失球的情况下连续传球 {MIN_PASSES} 次",
+        "description": ""
+    },
+    "challenges.slideAccuracy": {
+        "message": "获得{MIN_ACCURACY}% 铲球的准确度",
+        "description": ""
+    },
+    "actions.right2": {
+        "message": "Alt键+右键",
+        "description": "Name of action for moving in-game character right."
+    },
+    "ai.level0.instrumental": {
+        "message": "初级",
+        "description": "First difficulty level name, instrumental case"
+    },
+    "tournament.semifinals": {
+        "message": "半决赛",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague": {
+        "message": "泛美联赛",
+        "description": ""
+    },
+    "gameplay.celebration": {
+        "message": "欢呼",
+        "description": "Option to automatically show celebration after scoring a goal."
+    },
+    "challenges.slideTrapName": {
+        "message": "干净铲球",
+        "description": "Match challenge name."
+    },
+    "multiplayer.lobby.closedSlotOptions": {
+        "message": "关闭空位选项",
+        "description": "Section title"
+    },
+    "achievements.thiefName": {
+        "message": "最强小偷",
+        "description": "Achievement name."
+    },
+    "achievements.allTeams": {
+        "message": "解锁全部队伍",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.confirm": {
+        "message": "加入",
+        "description": "Button label"
+    },
+    "pause.forfeit": {
+        "message": "弃权",
+        "description": "Button label for forfeiting a multiplayer match."
+    },
+    "multiplayer.closed": {
+        "message": "关闭",
+        "description": "Button label"
+    },
+    "hint.20": {
+        "message": "按下 <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span> 来切换球员。并且往队友的方向上按住摇杆或键盘箭头以切换到他身上。",
+        "description": ""
+    },
+    "summary.blockedShots": {
+        "message": "挡球",
+        "description": ""
+    },
+    "multiplayer.public.friends": {
+        "message": "朋友",
+        "description": "Button label"
+    },
+    "multiplayer.onlineCount": {
+        "message": "在线玩家：",
+        "description": ""
+    },
+    "table.loses": {
+        "message": "负场",
+        "description": "Short form of the word 'Loses'"
+    },
+    "video.shadows": {
+        "message": "阴影",
+        "description": "Visual effect."
+    },
+    "hint.7": {
+        "message": "在跑向下落的球的同时间长按 <span class=\"key auto-wide auto-update\" data-action=\"header\"></span>以制造高空射门。",
+        "description": ""
+    },
+    "challenges.ballPossessionName": {
+        "message": "疯狂胶水",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanSheet": {
+        "message": "比赛中一分也没有失去",
+        "description": ""
+    },
+    "challenges.magnetOnShotName": {
+        "message": "磁力",
+        "description": "Match challenge name."
+    },
+    "play.panArabLeague.accusative": {
+        "message": "泛阿拉伯国家杯",
+        "description": "Accusative case"
+    },
+    "achievements.silverLeagueName": {
+        "message": "白银联赛",
+        "description": "Achievement name."
+    },
+    "friendly.ai": {
+        "message": "AI 技术",
+        "description": "AI skill widget title."
+    },
+    "controls.reset": {
+        "message": "由于游戏设定的改变，键盘和游戏控制器需要重置。如果你已经自定了您的控件，则需要再次进行设定，抱歉！",
+        "description": ""
+    },
+    "multiplayer.chaos": {
+        "message": "混战",
+        "description": ""
+    },
+    "summary.exit": {
+        "message": "离开",
+        "description": "Button label."
+    },
+    "hint.19": {
+        "message": "按下 <span class=\"key auto-wide auto-update\" data-action=\"goalkeeperSlide\"></span>以使用守门员来铲球。",
+        "description": ""
+    },
+    "multiplayer.coop.title": {
+        "message": "游戏模式",
+        "description": "Section title"
+    },
+    "time": {
+        "message": "{MINUTES}分钟",
+        "description": "Duration in minutes."
+    },
+    "multiplayer.matchmaking.waitingForGame": {
+        "message": "等待对手…",
+        "description": ""
+    },
+    "menu.loading": {
+        "message": "载入中",
+        "description": ""
+    },
+    "challenges.goalkeeperSlideTrap": {
+        "message": "在一个比赛中用守门员完成 {MIN_SLIDES} 个成功的铲球动作 ",
+        "description": ""
+    },
+    "leagues.bronze": {
+        "message": "青铜联赛",
+        "description": ""
+    },
+    "menu.pressKey": {
+        "message": "按下任何键",
+        "description": ""
+    },
+    "tournament.custom.teams": {
+        "message": "球队数量",
+        "description": "Button label."
+    },
+    "challenges.dribbleDistanceName": {
+        "message": "疯狂跑者",
+        "description": "Match challenge name."
+    },
+    "actions.up": {
+        "message": "上",
+        "description": "Name of action for moving in-game character up."
+    },
+    "menu.selectStadium": {
+        "message": "选择体育馆",
+        "description": ""
+    },
+    "hint.15": {
+        "message": "<img src=\"images/powerups/freeze/icon.png\" width=\"32\" height=\"32\"> \"冻结\"将会使周遭球员(包括你的队员)固定不动一段时间。",
+        "description": ""
+    },
+    "copyrights": {
+        "message": "版权，© MERIXSTUDIO公司。保留所有权利。",
+        "description": ""
+    },
+    "main.playOffline": {
+        "message": "离线游玩",
+        "description": "Button label."
+    },
+    "video.contrast": {
+        "message": "对比度",
+        "description": ""
+    },
+    "match.selectTeams": {
+        "message": "选择队伍",
+        "description": ""
+    },
+    "main.playOnline": {
+        "message": "在线游玩",
+        "description": "Button label."
+    },
+    "actions.down": {
+        "message": "下",
+        "description": "Name of action for moving in-game character down."
+    },
+    "challenges.dribbleDistance": {
+        "message": "比赛中连续 {MIN_DRIBBLE_DISTANCE} 米不断地带球",
+        "description": ""
+    },
+    "summary.goals": {
+        "message": "得分",
+        "description": ""
+    },
+    "challenges.interceptionsName": {
+        "message": "抢球王",
+        "description": "Match challenge name."
+    },
+    "actions.slide": {
+        "message": "铲球 ",
+        "description": "Name of action for performing slide tackle."
+    },
+    "achievements.topScorer": {
+        "message": "得 {MIN_GOALS, plural, other {# 分}}",
+        "description": ""
+    },
+    "challenges.noBallSlideTackleName": {
+        "message": "限制级",
+        "description": "Match challenge name."
+    },
+    "challenges.slideAccuracyName": {
+        "message": "鹰眼",
+        "description": "Match challenge name."
+    },
+    "controls.passing": {
+        "message": "传球",
+        "description": "Button label."
+    },
+    "challenges.goalkeeperLobName": {
+        "message": "空袭",
+        "description": "Match challenge name."
+    },
+    "menu.save": {
+        "message": "保存",
+        "description": "Button label for saving some options."
+    },
+    "actions.menuClearAssigment": {
+        "message": "完成任务",
+        "description": "Name of action for clearing key assigments."
+    },
+    "actions.menuBack": {
+        "message": "回菜单",
+        "description": "Name of action for canceling menu choice."
+    },
+    "tournament.difficultyTitle": {
+        "message": "选择难度等级",
+        "description": "Difficulty selection menu title."
+    },
+    "achievements.localMultiCupName": {
+        "message": "Kopanito团队",
+        "description": "Achievement name."
+    },
+    "gameplay.showUsernames": {
+        "message": "显示用户名",
+        "description": "Option to show usernames above players."
+    },
+    "menu.randomBall": {
+        "message": "随机球款",
+        "description": ""
+    },
+    "play.commonwealthCup": {
+        "message": "英联邦杯",
+        "description": ""
+    },
+    "challenges.touchWoodwork": {
+        "message": "藉由打到球门柱或横梁进球而得 {MIN_GOALS} 分",
+        "description": ""
+    },
+    "multiplayer.doubles": {
+        "message": "双打赛",
+        "description": ""
+    },
+    "achievements.magnetName": {
+        "message": "超强磁力",
+        "description": "Achievement name."
+    },
+    "menu.keys.accept": {
+        "message": "同意",
+        "description": ""
+    },
+    "actions.right": {
+        "message": "右",
+        "description": "Name of action for moving in-game character right."
+    },
+    "challenges.avoidGoalkeeperName": {
+        "message": "杂技",
+        "description": "Match challenge name."
+    },
+    "actions.toggleTeam": {
+        "message": "切换控制器",
+        "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+    },
+    "achievements.platinumLeagueName": {
+        "message": "白金联赛",
+        "description": "Achievement name."
+    },
+    "summary.interceptions": {
+        "message": "抢截球",
+        "description": ""
+    },
+    "hint.22": {
+        "message": "若想在带球时加快移动速度，按下 <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span> 以将球向前踢并且按下<span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span>来冲刺。",
+        "description": ""
+    },
+    "achievements.goldenGoal": {
+        "message": "在加时赛中率先进球而赢得比赛",
+        "description": ""
+    },
+    "play.continentalLeague": {
+        "message": "洲际联赛",
+        "description": ""
+    },
+    "summary.fame": {
+        "message": "名誉",
+        "description": ""
+    },
+    "match.selectTeam.playerPlay": {
+        "message": "{KEY} 加入",
+        "description": ""
+    },
+    "menu.next": {
+        "message": "下一步",
+        "description": "Button label for going to the next screen"
+    },
+    "summary.continue": {
+        "message": "继续",
+        "description": "Button label."
+    },
+    "menu.quit": {
+        "message": "离开",
+        "description": "Button label for abandoning current game"
+    },
+    "hint.3": {
+        "message": "按下 <span class=\"key auto-wide auto-update\" data-action=\"slide\"></span>以使用铲球夺回对方手中的球。",
+        "description": ""
+    },
+    "audio.audio": {
+        "message": "声音",
+        "description": ""
+    },
+    "multiplayer.matchmaking.foundGame": {
+        "message": "找到一场比赛，加入中…",
+        "description": ""
+    },
+    "achievements.goldenGoalName": {
+        "message": "黄金进球",
+        "description": "Achievement name."
+    },
+    "challenges.supershotHitAndScore": {
+        "message": "用超级射门的功能撞倒两个对手的球员然后进球。",
+        "description": ""
+    },
+    "practice.title2": {
+        "message": "进攻",
+        "description": "Information about current practice mode."
+    },
+    "achievements.legendMastered": {
+        "message": "完成所有的传奇级上的活动",
+        "description": ""
+    },
+    "achievements.localMulti": {
+        "message": "跟三个或者更多朋友一玩",
+        "description": ""
+    },
+    "actions.swerveUp": {
+        "message": "向左转(长按)",
+        "description": "Name of action for swerving the ball in one direction."
+    },
+    "menu.comingSoon": {
+        "message": "即将推出",
+        "description": ""
+    },
+    "achievements.slideTackle": {
+        "message": "使用铲球击中 {MIN_HITS} 对手",
+        "description": ""
+    },
+    "play.customTournament.accusative": {
+        "message": "自定锦标赛",
+        "description": "Accusative case"
+    },
+    "play.southAmericaCup.accusative": {
+        "message": "南美洲杯",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobby.playerOptions": {
+        "message": "玩家空位选项",
+        "description": "Section title"
+    },
+    "controls.otherTitle": {
+        "message": "其他",
+        "description": ""
+    },
+    "challenges.interceptions": {
+        "message": "在比赛中抢{MIN_INTERCEPTIONS} 次球",
+        "description": ""
+    },
+    "achievements.supermovesMaster": {
+        "message": "在一个比赛中使用四种不同的超级动作",
+        "description": ""
+    },
+    "challenges.magnetOnShot": {
+        "message": "用磁铁阻止射球",
+        "description": ""
+    },
+    "multiplayer.chaos.info": {
+        "message": "3 对 3",
+        "description": ""
+    },
+    "play.oceaniaCup.accusative": {
+        "message": "大洋洲杯",
+        "description": "Accusative case"
+    },
+    "actions.up2": {
+        "message": "Alt键+向上键",
+        "description": "Name of action for moving in-game character up."
+    },
+    "gif.showFolder": {
+        "message": "在资料夹中显示",
+        "description": "Button label."
+    },
+    "tournament.fixture": {
+        "message": "对抗 {NUMBER}",
+        "description": "League screen heading."
+    },
+    "controls.movementTitle": {
+        "message": "动作",
+        "description": ""
+    },
+    "achievements.localMultiName": {
+        "message": "轰趴",
+        "description": "Achievement name."
+    },
+    "achievements.cleanEventName": {
+        "message": "完美防守",
+        "description": "Achievement name."
+    },
+    "achievements.completeMainEvents": {
+        "message": "完成所有主要赛事 (洲际+世界杯) 的困难等级",
+        "description": ""
+    },
+    "multiplayer.duel": {
+        "message": "单打赛",
+        "description": ""
+    },
+    "play.centralAmericanAndCaribbeanLeague.accusative": {
+        "message": "中美洲和加勒比联赛",
+        "description": "Accusative case"
+    },
+    "achievements.cleanEvent": {
+        "message": "在比赛中没有失分",
+        "description": ""
+    },
+    "tournament.lose": {
+        "message": "你输掉比赛了!<br>下次运气会更好。<br>你已经获得 <i class=\"pink\">{FAME}</i> 名誉得分。",
+        "description": "Tournament lose message."
+    },
+    "menu.randomTeam": {
+        "message": "随机球队",
+        "description": ""
+    },
+    "tournament.mainEvent": {
+        "message": "主要赛事",
+        "description": "League screen heading."
+    },
+    "challenges.teleportScoreName": {
+        "message": "传送动作的专家",
+        "description": "Match challenge name."
+    },
+    "challenges.goalkeeperLob": {
+        "message": "把球挑过门将的头顶而进球。",
+        "description": ""
+    },
+    "table.draws": {
+        "message": "和场",
+        "description": "Short form of the word 'Draws'"
+    },
+    "menu.yes": {
+        "message": "是",
+        "description": ""
+    },
+    "friendly.drawsOff": {
+        "message": "黄金进球",
+        "description": "When a draw is not allowed in a match."
+    },
+    "actions.swerveDown": {
+        "message": "向右转(长按)",
+        "description": "Name of action for swerving the ball in another direction."
+    },
+    "pause.title": {
+        "message": "暂停",
+        "description": "Pause menu title."
+    },
+    "options.language": {
+        "message": "语言",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.closedSlotOptions.open": {
+        "message": "开启空位",
+        "description": "Button label"
+    },
+    "challenges.dribbleTime": {
+        "message": "比赛中连续 {MIN_DRIBBLE_TIME} 秒钟一直带球 ",
+        "description": ""
+    },
+    "multiplayer.gameList.stadium": {
+        "message": "场馆",
+        "description": "Table header"
+    },
+    "multiplayer.gameList": {
+        "message": "可加入的比赛",
+        "description": "Section title"
+    },
+    "challenges.slideScoreName": {
+        "message": "滑行得分王",
+        "description": "Match challenge name."
+    },
+    "ai.level1.instrumental": {
+        "message": "业余",
+        "description": "Second difficulty level name, instrumental case"
+    },
+    "tournament.startGame": {
+        "message": "开始游戏",
+        "description": "Button label."
+    },
+    "menu.selectBall": {
+        "message": "选择球款",
+        "description": ""
+    },
+    "challenges.ballPossession": {
+        "message": "获得 {MIN_POSSESSION}%控球度 ",
+        "description": ""
+    },
+    "challenges.progress.meters": {
+        "message": "{VALUE}/{MIN}m",
+        "description": ""
+    },
+    "ai.level1": {
+        "message": "业余难度",
+        "description": "Second difficulty level name"
+    },
+    "leagues.intro": {
+        "message": "<p>你已获得 <i class=\"pink\">{FAME}</i> 名誉得分！</p><p> 赢得友谊赛、各项锦标赛以及完成挑战来获得更多积分。越高的难度将会为你累积越多得分。</p><p>你需要 <i class=\"pink\">{MIN_FAME}</i> 名誉积分以前进到<i class=\"bronze no-wrap\">青铜联赛</i>.</p>",
+        "description": ""
+    },
+    "challenges.cleanLobs": {
+        "message": "连续 {MIN_PASSES} 次高吊传球并且没有失去球权",
+        "description": ""
+    },
+    "multiplayer.gameList.hostName": {
+        "message": "主办名称",
+        "description": "Table header"
+    },
+    "multiplayer.lobbyStatus0": {
+        "message": "准备好了",
+        "description": ""
+    },
+    "multiplayer.complete": {
+        "message": "完全赛",
+        "description": ""
+    },
+    "achievements.allTeamsName": {
+        "message": "最佳收集员",
+        "description": "Achievement name."
+    },
+    "actions.goalkeeperSlide": {
+        "message": "守门员铲球",
+        "description": "Name of action for performing goalkeeper slide tackle."
+    },
+    "actions.shoot": {
+        "message": "射门(长按以精确射门)",
+        "description": "Name of action for shooting at the goal."
+    },
+    "leagues.silver.genitive": {
+        "message": "白银联赛",
+        "description": "League name in genitive case"
+    },
+    "hint.10": {
+        "message": "超级动作是一段时间内给予队伍的额外奖励。按下 <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span> 来使用它。",
+        "description": ""
+    },
+    "multiplayer.slowConnection": {
+        "message": "连线缓慢",
+        "description": ""
+    },
+    "hint.18": {
+        "message": "有些超级动作可以用来抵消对手的超级动作。",
+        "description": ""
+    },
+    "achievements.lastSecondsGoalName": {
+        "message": "最终秒进球",
+        "description": "Achievement name."
+    },
+    "multiplayer.gameList.join.error": {
+        "message": "发生错误，请试试看其他场比赛。",
+        "description": "Error message"
+    },
+    "challenges.fastTriple": {
+        "message": "在{MIN_TIME} 秒钟之内3次击中门柱得分",
+        "description": ""
+    },
+    "challenges.slideInterceptName": {
+        "message": "铲球拦截王",
+        "description": "Match challenge name."
+    },
+    "match.goldenGoal": {
+        "message": "黄金进球!!",
+        "description": ""
+    },
+    "actions.menuAltLeft": {
+        "message": "选单 alt键+左键",
+        "description": "Name of action for alternative scrolling."
+    },
+    "table.wins": {
+        "message": "胜场",
+        "description": "Short form of the word 'Wins'"
+    },
+    "play.africaCup.accusative": {
+        "message": "非洲杯",
+        "description": "Accusative case"
+    },
+    "achievements.friendlyFireName": {
+        "message": "友情之火",
+        "description": "Achievement name."
+    },
+    "controls.title": {
+        "message": "按键",
+        "description": "Controls menu title."
+    },
+    "challenges.progress.percent": {
+        "message": "{VALUE}/{MIN}%",
+        "description": ""
+    },
+    "achievements.famousName": {
+        "message": "有名的",
+        "description": "Achievement name."
+    },
+    "match.cornerKick": {
+        "message": "角球！",
+        "description": ""
+    },
+    "challenges.penaltyAreaScoreName": {
+        "message": "近距离接触",
+        "description": "Match challenge name."
+    },
+    "multiplayer.gameList.refresh": {
+        "message": "刷新",
+        "description": "Button label"
+    },
+    "challenges.slideScore": {
+        "message": "滑行过球门线得分",
+        "description": ""
+    },
+    "actions.pause": {
+        "message": "暂停",
+        "description": "Name of action for pausing the game."
+    },
+    "audio.title": {
+        "message": "声音",
+        "description": "Audio options menu title."
+    },
+    "menu.no": {
+        "message": "否",
+        "description": ""
+    },
+    "friendly.startMatch": {
+        "message": "开始游戏",
+        "description": "Button label."
+    },
+    "controls.duplicated": {
+        "message": "看来同个按键被设定两个以上不同的动作，保存前要先修正這个错误。",
+        "description": ""
+    },
+    "legendUnlock": {
+        "message": "赢得<br><i>洲际杯</i> 和 <i>世界杯</i> 在 <i class=\"gold\">职业级</i> 难度",
+        "description": ""
+    },
+    "play.continentalLeague.accusative": {
+        "message": "洲际联赛",
+        "description": "Accusative case"
+    },
+    "actions.supermove": {
+        "message": "超级动作",
+        "description": "Name of action for activating a super-move (special action in game)."
+    },
+    "video.resolution": {
+        "message": "分辨率",
+        "description": ""
+    },
+    "challenges.pitchAreaScore": {
+        "message": "在对手的禁区外得 {MIN_GOALS} 分",
+        "description": ""
+    },
+    "friendly.title": {
+        "message": "友谊比赛",
+        "description": ""
+    },
+    "match.halfTime": {
+        "message": "中场休息！",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.message": {
+        "message": "玩家 {USERNAME} 已邀请你玩 Kopanito。<br> 如果接受邀请，你将退出当前游戏，所有游戏进度将丢失。",
+        "description": "Alert text"
+    },
+    "summary.slides": {
+        "message": "铲球",
+        "description": ""
+    },
+    "challenges.slideHit": {
+        "message": "在一个比赛中撞摔  {MIN_HITS} 个对手的球员",
+        "description": ""
+    },
+    "gif.successMessage": {
+        "message": "GIF图檔制造完成。<br>你能在\"重播\"的资料夹中找到： <i class=\"yellow\">{PATH}</i>",
+        "description": ""
+    },
+    "challenges.goalDifferenceName": {
+        "message": "统治者",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanPassesName": {
+        "message": "Tiki-Taka动作",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefender": {
+        "message": "使用你的防守员得分",
+        "description": ""
+    },
+    "multiplayer.public.title": {
+        "message": "能见大厅",
+        "description": "Button label"
+    },
+    "friendly.matchTime": {
+        "message": "比赛时间",
+        "description": "Match time widget title."
+    },
+    "challenges.failed": {
+        "message": "挑战失败",
+        "description": ""
+    },
+    "leagues.userLimit": {
+        "message": "玩家限制：",
+        "description": ""
+    },
+    "challenges.noSlideTackleName": {
+        "message": "公平竞争",
+        "description": "Match challenge name."
+    },
+    "menu.reset": {
+        "message": "恢复原始设定",
+        "description": "Button label"
+    },
+    "tournament.custom.league.title": {
+        "message": "联赛",
+        "description": "Custom tournament league type screen heading."
+    },
+    "challenges.supershotFromPenaltyArea": {
+        "message": "从你自己的罚球区发射一个超级射门得分",
+        "description": ""
+    },
+    "challenges.magnetOnSupershot": {
+        "message": "用磁铁阻止超级射门",
+        "description": ""
+    },
+    "hint.12": {
+        "message": "<img src=\"images/powerups/teleport/icon.png\" width=\"32\" height=\"32\"> 瞬间移动将你的玩家（带球）移动向球场上你所点击另一个玩家的地方。",
+        "description": ""
+    },
+    "play.microstatesCup": {
+        "message": "微型国家杯",
+        "description": ""
+    },
+    "challenges.cornerDefenseName": {
+        "message": "逼入困境",
+        "description": "Match challenge name."
+    },
+    "leagues.beginner": {
+        "message": "资格赛",
+        "description": ""
+    },
+    "gif.description": {
+        "message": "正在产生GIF图檔。这可能需要几分钟。",
+        "description": ""
+    },
+    "achievements.supershotName": {
+        "message": "超级射门",
+        "description": "Achievement name."
+    },
+    "challenges.maxBallSwerveName": {
+        "message": "回旋镖",
+        "description": "Match challenge name."
+    },
+    "pause.resume": {
+        "message": "继续",
+        "description": "Button label."
+    },
+    "challenges.cleanLobsName": {
+        "message": "高Tiki-taka动作",
+        "description": "Match challenge name."
+    },
+    "controls.gamepad3": {
+        "message": "<b class=\"user-icon user-3 connected online\"></b> 遥控器 3",
+        "description": "Button label."
+    },
+    "multiplayer.open": {
+        "message": "开启",
+        "description": "Button label"
+    },
+    "multiplayer.complete.info": {
+        "message": "5 对 5",
+        "description": ""
+    },
+    "tournament.thirdPlace": {
+        "message": "季军",
+        "description": "Tournament screen heading."
+    },
+    "challenges.windmakerSaveName": {
+        "message": "变迁之风",
+        "description": "Match challenge name."
+    },
+    "challenges.trap": {
+        "message": "在比赛中未使用铲球而拦下 {MIN_TRAPS} 次球",
+        "description": ""
+    },
+    "replay.generateGif": {
+        "message": "制作GIF图檔",
+        "description": "Button label."
+    },
+    "multiplayer.doubles.info": {
+        "message": "2 对 2",
+        "description": ""
+    },
+    "controls.passingTitle": {
+        "message": "传球",
+        "description": ""
+    },
+    "gameplay.replays": {
+        "message": "重播",
+        "description": "Option to automatically show replays during match after scoring a goal."
+    },
+    "tournament.continue": {
+        "message": "继续",
+        "description": "Button label."
+    },
+    "options.audio": {
+        "message": "声音",
+        "description": "Button label."
+    },
+    "achievements.completeMainEventsName": {
+        "message": "环球旅行者",
+        "description": "Achievement name."
+    },
+    "play.europeCup": {
+        "message": "欧洲杯",
+        "description": ""
+    },
+    "summary.challenge": {
+        "message": "挑战",
+        "description": ""
+    },
+    "achievements.magnet": {
+        "message": "使用磁铁断球 {MIN_STEALS} 次",
+        "description": ""
+    },
+    "challenges.trapName": {
+        "message": "控球大师",
+        "description": "Match challenge name."
+    },
+    "multiplayer.public.public": {
+        "message": "公开",
+        "description": "Button label"
+    },
+    "tournament.quarterfinals": {
+        "message": " 四强赛",
+        "description": "Tournament screen heading."
+    },
+    "leagues.fameNeeded": {
+        "message": "所需成名度的水平",
+        "description": ""
+    },
+    "tournament.playMatch": {
+        "message": "开始游戏",
+        "description": "Button label."
+    },
+    "challenges.noSlideTackle": {
+        "message": "在比赛中完全不用铲球的功能但却获胜(球员或守门员都未使用铲球)",
+        "description": ""
+    },
+    "controls.gamepad4": {
+        "message": "<b class=\"user-icon user-4 connected online\"></b> 遥控器 4",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.kickAlert": {
+        "message": "你已被踢出大厅",
+        "description": "Alert message"
+    },
+    "multiplayer.matchmaking.searchingForGame": {
+        "message": "正在搜寻对手…",
+        "description": ""
+    },
+    "multiplayer.friendStatus.away": {
+        "message": "离开",
+        "description": "Section title"
+    },
+    "practice.swerving": {
+        "message": "弧线球",
+        "description": ""
+    },
+    "tournament.custom.eliminations.title": {
+        "message": "淘汰赛",
+        "description": "Custom tournament eliminations type screen heading."
+    },
+    "menu.on": {
+        "message": "开",
+        "description": "When something is enabled"
+    },
+    "multiplayer.invite.alert.message": {
+        "message": "玩家 {USERNAME} 邀请你玩Kopanito",
+        "description": "Alert text"
+    },
+    "multiplayer.invite.confirm.decline": {
+        "message": "忽略",
+        "description": "Button label"
+    },
+    "multiplayer.lobby": {
+        "message": "大厅",
+        "description": "Section title"
+    },
+    "challenges.cornerScore": {
+        "message": "从角球踢球至少 {MIN_GOALS} 次进球",
+        "description": ""
+    },
+    "controls.passingManualOnly": {
+        "message": "仅使用手动",
+        "description": ""
+    },
+    "leagues.platinum": {
+        "message": "白金联赛",
+        "description": ""
+    },
+    "controls.passingManualPreferred": {
+        "message": "偏好手动",
+        "description": ""
+    },
+    "controls.menuTitle": {
+        "message": "选单",
+        "description": ""
+    },
+    "hint.17": {
+        "message": "你玩的越好，得到的超级动作就会越多。",
+        "description": ""
+    },
+    "challenges.windmakerSave": {
+        "message": "在最后一刻用风扇防止你对手进球",
+        "description": ""
+    },
+    "match.goalKick": {
+        "message": "球门球！",
+        "description": ""
+    },
+    "tournament.teamTitle": {
+        "message": "选择团队",
+        "description": "Team selection menu title."
+    },
+    "help.content": {
+        "message": "<file src=\"help.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "achievements.platinumLeague": {
+        "message": "达到 <i class=\"platinum\">白金联赛</i> / 获得 <i class=\"pink\">{FAME}</i> 名誉",
+        "description": ""
+    },
+    "friendly.draws": {
+        "message": "平局",
+        "description": "Draws widget title."
+    },
+    "hint.14": {
+        "message": "<img src=\"images/powerups/windmaker/icon.png\" width=\"32\" height=\"32\"> 风扇特效帮助防守在你得分区的射门（只有在当它没有被触发太晚的情况下）。",
+        "description": ""
+    },
+    "challenges.touchWoodworkName": {
+        "message": "强力木工",
+        "description": "Match challenge name."
+    },
+    "achievements.completeOptionalEvents": {
+        "message": "完成所有任何难度的可选赛事(小型杯和联赛)",
+        "description": ""
+    },
+    "tournament.restart": {
+        "message": "重新开始",
+        "description": "Button label."
+    },
+    "controls.pressKey": {
+        "message": "点击按钮",
+        "description": "Button label."
+    },
+    "gameplay.aiIndicators": {
+        "message": "电脑指示",
+        "description": "Option to show AI indicators (circles beneath players)."
+    },
+    "multiplayer.lobbyCount": {
+        "message": "大厅中的玩家：",
+        "description": ""
+    },
+    "tournament.standingsButton": {
+        "message": "积分榜",
+        "description": "Tournament button label."
+    },
+    "menu.cancel": {
+        "message": "取消",
+        "description": "Button label for cancelling changes"
+    },
+    "achievements.silverLeague": {
+        "message": "达到 <i class=\"silver\">白银联赛</i> / 获得 <i class=\"pink\">{FAME}</i> 名誉",
+        "description": ""
+    },
+    "tournament.custom.humans": {
+        "message": "人类队伍",
+        "description": "Button label."
+    },
+    "challenges.golzagol": {
+        "message": "你的对手进球了之后你也在 {MIN_TIME} 秒钟内得分",
+        "description": ""
+    },
+    "achievements.completeEventName": {
+        "message": "{EVENT_NAME}",
+        "description": ""
+    },
+    "play.mediterraneanLeague.accusative": {
+        "message": "地中海联赛",
+        "description": "Accusative case"
+    },
+    "languageName": {
+        "message": "英文",
+        "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+    },
+    "challenges.doubleSlideHit": {
+        "message": "用一个铲球的动作撞倒两个球员",
+        "description": ""
+    },
+    "achievements.completeEvent": {
+        "message": "赢得 {EVENT_NAME_ACCUSATIVE}",
+        "description": ""
+    },
+    "ai.level0": {
+        "message": "初级",
+        "description": "First difficulty level name"
+    },
+    "achievements.lastSecondsGoal": {
+        "message": "在比赛最后几秒进球",
+        "description": ""
+    },
+    "match.throwIn": {
+        "message": "掷界外球！",
+        "description": ""
+    },
+    "options.video": {
+        "message": "视频",
+        "description": "Button label."
+    },
+    "multiplayer.search": {
+        "message": "搜寻",
+        "description": "Button label"
+    },
+    "play.asiaCup.accusative": {
+        "message": "亚洲杯",
+        "description": "Accusative case"
+    },
+    "achievements.freezerName": {
+        "message": "冰雕",
+        "description": "Achievement name."
+    },
+    "hint.0": {
+        "message": "地面传球按 <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span>，高吊船球按 <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>。",
+        "description": ""
+    },
+    "options.controls": {
+        "message": "游戏设置",
+        "description": "Button label."
+    },
+    "table.goalsFor": {
+        "message": "失球",
+        "description": "Short form of the words 'Goals For'"
+    },
+    "play.worldCup.accusative": {
+        "message": "世界杯",
+        "description": "Accusative case"
+    },
+    "play.pacificLeague": {
+        "message": "太平洋联赛",
+        "description": ""
+    },
+    "multiplayer.lobby.openSlotOptions": {
+        "message": "开启空位选项",
+        "description": "Section title"
+    },
+    "challenges.supershotHitAndScoreName": {
+        "message": "连续超级射门",
+        "description": "Match challenge name."
+    },
+    "achievements.localMultiCup": {
+        "message": "跟朋友一起玩",
+        "description": ""
+    },
+    "challenges.noPreciseShotName": {
+        "message": "狙击手模式关闭",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefenderName": {
+        "message": "最好的防御即是攻击",
+        "description": "Match challenge name."
+    },
+    "ai.level2": {
+        "message": "职业级",
+        "description": "Third difficulty level name"
+    },
+    "ai.level2.instrumental": {
+        "message": "职业级",
+        "description": "Third difficulty level name, instrumental case"
+    },
+    "actions.menuAccept": {
+        "message": "菜单确认",
+        "description": "Name of action for accepting menu choice."
+    },
+    "trophies.title": {
+        "message": "奖杯",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlides": {
+        "message": "一连 {MIN_SLIDES} 次成功地完成铲球的动作",
+        "description": ""
+    },
+    "main.title": {
+        "message": "主菜单",
+        "description": "Main menu title"
+    },
+    "challenges.maxBallSwerve": {
+        "message": "使用终极弧线射门得 {MIN_GOALS} 分",
+        "description": ""
+    },
+    "tournament.custom.teams.start": {
+        "message": "开始",
+        "description": "Button label."
+    },
+    "tournament.groupStage": {
+        "message": "小组赛",
+        "description": "Tournament screen heading."
+    },
+    "video.title": {
+        "message": "视频",
+        "description": "Video options menu title."
+    },
+    "hint.1": {
+        "message": "按下 <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span>以更换球员。",
+        "description": ""
+    },
+    "multiplayer.gameList.mode": {
+        "message": "模式",
+        "description": "Table header"
+    },
+    "menu.back": {
+        "message": "上一步",
+        "description": "Button label for returning to the previous screen"
+    },
+    "achievements.firstSecondsGoal": {
+        "message": "在比赛开始前几秒进球",
+        "description": ""
+    },
+    "achievements.famous": {
+        "message": "获得 <i class=\"pink\">{MIN_FAME}</i> 名誉",
+        "description": ""
+    },
+    "matches": {
+        "message": "{MATCHES, plural, one {# 比赛} other {# 比赛}}",
+        "description": "Number of matches, may require plural syntax, depending on language"
+    },
+    "video.overlay": {
+        "message": "颜色覆盖",
+        "description": "Visual effect."
+    },
+    "hint.11": {
+        "message": "<img src=\"images/powerups/magnet/icon.png\" width=\"32\" height=\"32\"> 磁力动作将会把球吸向你的队员。",
+        "description": ""
+    },
+    "achievements.supershot": {
+        "message": "使用超级射门得 {MIN_GOALS, plural, other {# 分}}",
+        "description": ""
+    },
+    "play.worldLeague": {
+        "message": "世界联赛",
+        "description": ""
+    },
+    "video.fullscreen": {
+        "message": "全屏",
+        "description": ""
+    },
+    "challenges.untouchableGoal": {
+        "message": "在没有失球的情况下得分(从你的守门员或開球的时后拿到球)",
+        "description": ""
+    },
+    "pause.back": {
+        "message": "退出 ",
+        "description": "Button label for abandoning match and returning to menu."
+    },
+    "menu.keys.selectMatch": {
+        "message": "选择比赛",
+        "description": ""
+    },
+    "hint.6": {
+        "message": "跑向球时长按 <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> 键来用玩家的第一触击踢球。",
+        "description": ""
+    },
+    "menu.resetMessage": {
+        "message": "你确定要重置为原始设定吗？",
+        "description": ""
+    },
+    "leagues.relegation": {
+        "message": "对不起！<br>你刚被转到 <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>。",
+        "description": ""
+    },
+    "table.points": {
+        "message": "积分",
+        "description": "Short form of the word 'Points'"
+    },
+    "menu.randomStadium": {
+        "message": "随机体育馆",
+        "description": ""
+    },
+    "play.customTournament": {
+        "message": "自定锦标赛",
+        "description": ""
+    },
+    "controls.shootingTitle": {
+        "message": "射门",
+        "description": ""
+    },
+    "users.name": {
+        "message": "玩家 {id}",
+        "description": "Generic username shown in-game"
+    },
+    "multiplayer.gameList.noLobbies": {
+        "message": "找不到大厅",
+        "description": "Error message"
+    },
+    "hint.24": {
+        "message": "你也可以和你同一队的朋友一起玩比赛。",
+        "description": ""
+    },
+    "summary.possession": {
+        "message": "控球率",
+        "description": ""
+    },
+    "actions.menuAltRight": {
+        "message": "选单 alt键+右键",
+        "description": "Name of action for alternative scrolling."
+    },
+    "leagues.beginner.genitive": {
+        "message": "资格赛",
+        "description": "League name in genitive case"
+    },
+    "menu.teamStadium": {
+        "message": "球队体育场",
+        "description": ""
+    },
+    "hint.13": {
+        "message": "<img src=\"images/powerups/supershot/icon.png\" width=\"32\" height=\"32\"> 超级射门让你控制球，并且能避开对手的球员。",
+        "description": ""
+    },
+    "challenges.cleanGroundPasses": {
+        "message": "连续 {MIN_PASSES} 次地面传球并且没有失去球权",
+        "description": ""
+    },
+    "achievements.completeOptionalEventsName": {
+        "message": "旅行家",
+        "description": "Achievement name."
+    },
+    "actions.left2": {
+        "message": "Alt键+左键",
+        "description": "Name of action for moving in-game character left."
+    },
+    "multiplayer.title": {
+        "message": "在线多个玩家",
+        "description": "Section title"
+    },
+    "challenges.roundingTheKeeper": {
+        "message": " 带球盘过守门员而进球",
+        "description": ""
+    },
+    "play.worldLeague.accusative": {
+        "message": "世界联赛",
+        "description": "Accusative case"
+    },
+    "challenges.avoidGoalkeeper": {
+        "message": "连续防止2名守门员铲球",
+        "description": ""
+    },
+    "multiplayer.host.info": {
+        "message": "定制一场比赛并邀请其他玩家",
+        "description": ""
+    },
+    "multiplayer.matchmaking.connecting": {
+        "message": "連接到伺服器…",
+        "description": ""
+    },
+    "challenges.reverseShotName": {
+        "message": "脚后跟射球",
+        "description": "Match challenge name."
+    },
+    "ai.level3.instrumental": {
+        "message": "传奇",
+        "description": "Fourth difficulty level name, instrumental case"
+    },
+    "achievements.legendMasteredSuccess": {
+        "message": "恭喜!<br>你已经完成所有最高难度等级的比赛!",
+        "description": ""
+    },
+    "play.worldCup": {
+        "message": "世界杯",
+        "description": ""
+    },
+    "summary.player": {
+        "message": "玩家",
+        "description": ""
+    },
+    "tournament.roundOf16": {
+        "message": "八强赛",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalDifference": {
+        "message": "比对手多赢 {MIN_DIFFERENCE} 分而赢得比赛",
+        "description": ""
+    },
+    "achievements.legendMasteredName": {
+        "message": "传奇",
+        "description": "Achievement name."
+    }
+}

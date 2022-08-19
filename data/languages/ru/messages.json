@@ -1,0 +1,2034 @@
+{
+    "tournament.groupName": {
+        "message": "Группа {LETTER}",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague.accusative": {
+        "message": "Американская Лига ",
+        "description": "Accusative case"
+    },
+    "play.practice": {
+        "message": "Тренировка",
+        "description": ""
+    },
+    "achievements.guideName": {
+        "message": "Библиофил",
+        "description": "Achievement name."
+    },
+    "summary.title": {
+        "message": "{RED_SCORE} : {BLUE_SCORE}",
+        "description": ""
+    },
+    "hint.23": {
+        "message": "Сыгранные игры дают вам <i class=\"pink\">Fame</i> очки, благодаря которым вы продвигаетесь в рейтинге.",
+        "description": ""
+    },
+    "multiplayer.versus": {
+        "message": "Конкуренция",
+        "description": "Button label"
+    },
+    "leagues.bronze.genitive": {
+        "message": "Бронзовая Лига",
+        "description": "League name in genitive case"
+    },
+    "challenges.completed": {
+        "message": "Соревнование закончено",
+        "description": ""
+    },
+    "play.oceaniaCup": {
+        "message": "Кубок Океании",
+        "description": ""
+    },
+    "audio.effectsVolume": {
+        "message": "Звуковой эффект",
+        "description": ""
+    },
+    "menu.ok": {
+        "message": "Принять",
+        "description": "Button label for accepting changes"
+    },
+    "practice.title1": {
+        "message": "Защита",
+        "description": "Information about current practice mode."
+    },
+    "hint.26": {
+        "message": "Навык мастера ставит.",
+        "description": ""
+    },
+    "achievements.slideTackleName": {
+        "message": "Хулиган",
+        "description": "Achievement name."
+    },
+    "tournament.custom.title": {
+        "message": "Обычный турнир",
+        "description": "Custom tournament screen heading."
+    },
+    "play.panArabLeague": {
+        "message": "Лига Арабских Стран",
+        "description": ""
+    },
+    "challenges.teleportScore": {
+        "message": "Забейте гол включая супер движение - телепорт",
+        "description": ""
+    },
+    "video.dirt": {
+        "message": "Износ газона",
+        "description": "Visual effect."
+    },
+    "leaderboards.friends": {
+        "message": "Друзья",
+        "description": "Button label."
+    },
+    "hint.21": {
+        "message": "Вратарь устойчив к подкатам, но он не может двигаться с мячом.",
+        "description": ""
+    },
+    "play.indoorCup": {
+        "message": "Кубок в крытом манеже",
+        "description": ""
+    },
+    "table.goalsAgainst": {
+        "message": "A",
+        "description": "Short form of the words 'Goals Against'"
+    },
+    "multiplayer.friendStatus.offline": {
+        "message": "Режим оффлайн",
+        "description": "Section title"
+    },
+    "tournament.custom.eliminationsWithGroups.title": {
+        "message": "Отборочные игры в группах",
+        "description": "Custom tournament eliminations with group stage type screen heading."
+    },
+    "challenges.magnetOnSupershotName": {
+        "message": "Супер-магнетизм",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerDefense": {
+        "message": "Не пропустите гол после подачи с углового в течение одного матча",
+        "description": ""
+    },
+    "multiplayer.coop": {
+        "message": "Сотрудничество",
+        "description": "Button label"
+    },
+    "leaderboards.title": {
+        "message": "Таблица лидеров",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlidesName": {
+        "message": "В ударе",
+        "description": "Match challenge name."
+    },
+    "hint.16": {
+        "message": "<img src=\"images/powerups/tesla/icon.png\" width=\"32\" height=\"32\"> Тесла-коптер - это супер движение, которое следует за игроком с мячом и поражает электротоком игроков противника при нажатии на <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span>.",
+        "description": ""
+    },
+    "challenges.golzagolName": {
+        "message": "Глаз за глаз",
+        "description": "Match challenge name."
+    },
+    "hint.9": {
+        "message": "Крученный точный удар - придержите <span class=\"key auto-wide auto-update\" data-action=\"swerveUp\"></span> или <span class=\"key auto-wide auto-update\" data-action=\"swerveDown\"></span>.",
+        "description": ""
+    },
+    "achievements.goldLeagueName": {
+        "message": "Золотая Лига",
+        "description": "Achievement name."
+    },
+    "play.friendly": {
+        "message": "Товарищеский матч",
+        "description": ""
+    },
+    "hint.2": {
+        "message": "Чем дольше придержите кнопку для удара по высоте <span class=\"key auto-wide auto-update\" data-action=\"lob\"></span> тем дольше летит мяч.",
+        "description": ""
+    },
+    "video.depthOfField": {
+        "message": "Уровень резкости",
+        "description": "Visual effect."
+    },
+    "leagues.table.name": {
+        "message": "Игрок",
+        "description": ""
+    },
+    "challenges.pitchAreaScoreName": {
+        "message": "Дальний удар",
+        "description": "Match challenge name."
+    },
+    "match.selectTeam.playerLeave": {
+        "message": "{KEY} Выйти",
+        "description": ""
+    },
+    "multiplayer.gameList.players": {
+        "message": "Игроки",
+        "description": "Table header"
+    },
+    "summary.status": {
+        "message": "Статус",
+        "description": ""
+    },
+    "video.particles": {
+        "message": "Частицы",
+        "description": "Visual effect."
+    },
+    "achievements.firstSecondsGoalName": {
+        "message": "Ударь и беги",
+        "description": "Achievement name."
+    },
+    "challenges.dribbleTimeName": {
+        "message": "Безумный дриблёр",
+        "description": "Match challenge name."
+    },
+    "audio.musicVolume": {
+        "message": "Громкость музыки",
+        "description": ""
+    },
+    "play.southAmericaCup": {
+        "message": "Кубок Южной Америки",
+        "description": ""
+    },
+    "achievements.unlockedTitle": {
+        "message": "Достижение разблокировано!",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.close": {
+        "message": "Закрыть слот",
+        "description": "Button label"
+    },
+    "actions.walk": {
+        "message": "Ходьба (придержать)",
+        "description": "Name of action for walking."
+    },
+    "play.pacificLeague.accusative": {
+        "message": "Тихоокеанская Лига",
+        "description": "Accusative case"
+    },
+    "challenges.slideHitName": {
+        "message": "Боулинг",
+        "description": "Match challenge name."
+    },
+    "challenges.penaltyAreaScore": {
+        "message": "Забейте {MIN_GOALS} голов из штрафной площади противника в течение одного матча",
+        "description": ""
+    },
+    "actions.sprint": {
+        "message": "Спринт (придержать)",
+        "description": "Name of action for running faster."
+    },
+    "tournament.custom.teams.title": {
+        "message": "Выбор команды",
+        "description": "Screen heading."
+    },
+    "hint.4": {
+        "message": "Придержите<span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span> чтобы увеличить скорость игрока - только без мяча.",
+        "description": ""
+    },
+    "gameplay.title": {
+        "message": "Игровой процесс",
+        "description": "Gameplay options menu title."
+    },
+    "challenges.noSupermoves": {
+        "message": "Победить без использования супер-движений",
+        "description": ""
+    },
+    "play.indoorCup.accusative": {
+        "message": "Кубок в крытом манеже",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobbyStatus2": {
+        "message": "В итоге",
+        "description": ""
+    },
+    "multiplayer.quickMatch.info": {
+        "message": "Разыграть быстрый матч с игроками по всему миру",
+        "description": ""
+    },
+    "achievements.topScorerName": {
+        "message": "Лучший бомбардир",
+        "description": "Achievement name."
+    },
+    "challenges.reverseShot": {
+        "message": "Забейте гол точным ударом, двигаясь в противоположном направлении к воротам соперника",
+        "description": ""
+    },
+    "play.northAmericaCup.accusative": {
+        "message": "Кубок Северной Америки",
+        "description": "Accusative case"
+    },
+    "tournament.end": {
+        "message": "Закончить турнир",
+        "description": "Button label."
+    },
+    "legendUnlocked": {
+        "message": "Поздравляем!<br>Вы разблокировали дополнительный уровень сложности: <i class=\"platinum\">Легенда</i>",
+        "description": ""
+    },
+    "play.microstatesCup.accusative": {
+        "message": "Кубок стран-карликов",
+        "description": "Accusative case"
+    },
+    "multiplayer.players": {
+        "message": "Игроки",
+        "description": "Section title"
+    },
+    "video.brightness": {
+        "message": "Яркость",
+        "description": ""
+    },
+    "menu.saveMessage": {
+        "message": "Вы уверены, что хотите сохранить настройки?",
+        "description": ""
+    },
+    "help.title": {
+        "message": "Руководство игры",
+        "description": ""
+    },
+    "leagues.table.fame": {
+        "message": "Репутация",
+        "description": ""
+    },
+    "challenges.noPreciseShot": {
+        "message": "Победить без использования точного удара",
+        "description": ""
+    },
+    "actions.passModifier": {
+        "message": "Ручной / вспомогательный переключатель (придержать)",
+        "description": "Name of action for changing between pass modes."
+    },
+    "controls.gamepad2": {
+        "message": "<b class=\"user-icon user-2 connected online\"></b> Контроллер 2",
+        "description": "Button label."
+    },
+    "multiplayer.friendStatus.online": {
+        "message": "Режим онлайн",
+        "description": "Section title"
+    },
+    "actions.togglePlayer": {
+        "message": "Заменить игрока",
+        "description": "Name of action for changing in-game characters."
+    },
+    "menu.enabled": {
+        "message": "Включено",
+        "description": "Button label."
+    },
+    "achievements.friendlyFire": {
+        "message": "Снесите или сделайте подкат игроку своей команды",
+        "description": ""
+    },
+    "practice.title3": {
+        "message": "Точный удар",
+        "description": "Information about current practice mode."
+    },
+    "challenges.slideIntercept": {
+        "message": "Сделайте {MIN_INTERCEPTIONS} перехватов при использовании подкатов в течение одного матча",
+        "description": ""
+    },
+    "multiplayer.join.info": {
+        "message": "Найти подходящий матч для присоединения",
+        "description": "Button label"
+    },
+    "friendly.drawsOn": {
+        "message": "Жеребьёвка ",
+        "description": "When a draw is allowed in a match."
+    },
+    "challenges.teleportKnockDownName": {
+        "message": "Удар телепортом",
+        "description": "Match challenge name."
+    },
+    "achievements.freezer": {
+        "message": "Заморозить одновременно 3 игрока ",
+        "description": ""
+    },
+    "controls.passingAssistedOnly": {
+        "message": "Только поддержка",
+        "description": ""
+    },
+    "menu.selectTeam": {
+        "message": "Выбрать команду",
+        "description": ""
+    },
+    "multiplayer.settings": {
+        "message": "Настройки",
+        "description": "Section title"
+    },
+    "unlock": {
+        "message": "Выиграй<br><i>{MODE}</i><br>на <i class=\"{AI_LEVEL, select, 0{bronze} 1{silver} 2{gold} 3{platinum} other{}}\">{AI_LEVEL_NAME}</i> уровне сложности",
+        "description": "Example without variables: 'Win (Asia Cup) on the (Beginner) difficulty'"
+    },
+    "challenges.hatTrickName": {
+        "message": "Хет-трик",
+        "description": "Match challenge name."
+    },
+    "summary.shots": {
+        "message": "Удары",
+        "description": ""
+    },
+    "achievements.supermovesMasterName": {
+        "message": "Ловкач",
+        "description": "Achievement name."
+    },
+    "actions.down2": {
+        "message": "Alt. вниз",
+        "description": "Name of action for moving in-game character down."
+    },
+    "practice.aiming": {
+        "message": "Прицеливание",
+        "description": ""
+    },
+    "distance": {
+        "message": "{METERS}м",
+        "description": "Distance covered in meters."
+    },
+    "challenges.teleportKnockDown": {
+        "message": "Нокаутируйте соперника при использовании телепортации",
+        "description": ""
+    },
+    "play.commonwealthCup.accusative": {
+        "message": "Кубок Содружества",
+        "description": "Accusative case"
+    },
+    "controls.keyboard": {
+        "message": "<b class=\"user-icon user-0 connected online\"></b> Клавитура",
+        "description": "Button label."
+    },
+    "controls.passingAssistedPreferred": {
+        "message": "Помощник",
+        "description": ""
+    },
+    "challenges.cleanGroundPassesName": {
+        "message": "Низкий Тики-Така",
+        "description": "Match challenge name."
+    },
+    "achievements.guide": {
+        "message": "Прочтите весь гид, доступный в игре",
+        "description": ""
+    },
+    "leaderboards.global": {
+        "message": "Глобальный",
+        "description": "Button label."
+    },
+    "hintPrefix": {
+        "message": "Подсказка:",
+        "description": ""
+    },
+    "multiplayer.hostDisconnected": {
+        "message": "Соединение с хостом игры было потеряно.",
+        "description": ""
+    },
+    "hint.5": {
+        "message": "Используйте <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> для прямого удара, без остановки мяча, точный по воздуху.",
+        "description": ""
+    },
+    "challenges.everyoneScores": {
+        "message": "Забейте гол противнику каждым своим полевым игроком в течение одного матча",
+        "description": ""
+    },
+    "menu.off": {
+        "message": "Выкл.",
+        "description": "When something is disabled"
+    },
+    "play.asiaCup": {
+        "message": "Кубок Азии",
+        "description": ""
+    },
+    "actions.header": {
+        "message": "Удар по воздуху (придержать под мячом)",
+        "description": "Name of action headers and bicycle kicks."
+    },
+    "menu.quitMessage": {
+        "message": "Вы уверены, что хотите выйти?",
+        "description": ""
+    },
+    "challenges.hatTrick": {
+        "message": "Оформить хет-трик",
+        "description": ""
+    },
+    "multiplayer.invite": {
+        "message": "Пригласить",
+        "description": "Button label"
+    },
+    "achievements.goldLeague": {
+        "message": "Дойди до <i class=\"gold\">Золотой Лиги</i> / получи <i class=\"pink\">{FAME}</i> очков репутации",
+        "description": ""
+    },
+    "play.africaCup": {
+        "message": "Кубок Африки",
+        "description": ""
+    },
+    "challenges.progress.count": {
+        "message": "{VALUE}/{MIN}",
+        "description": ""
+    },
+    "leagues.gold": {
+        "message": "Золотая Лига",
+        "description": ""
+    },
+    "match.replay": {
+        "message": "ПОВТОРЫ",
+        "description": ""
+    },
+    "leagues.table.league": {
+        "message": "L",
+        "description": "Initial from the word `League` used in the leaderboard tables."
+    },
+    "multiplayer.lobbyStatus1": {
+        "message": "В игре",
+        "description": ""
+    },
+    "challenges.untouchableGoalName": {
+        "message": "Неприкасаемый",
+        "description": "Match challenge name."
+    },
+    "challenges.cornerScoreName": {
+        "message": "Гол с углового удара",
+        "description": "Match challenge name."
+    },
+    "leagues.promotion": {
+        "message": "Поздравляем!<br>Вы повышены в  <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>!",
+        "description": ""
+    },
+    "tournament.fixturesButton": {
+        "message": "Игры",
+        "description": "Tournament button label."
+    },
+    "challenges.everyoneScoresName": {
+        "message": "Командная игра",
+        "description": "Match challenge name."
+    },
+    "tournament.custom.type": {
+        "message": "Вид",
+        "description": "Button label."
+    },
+    "play.centralAmericanAndCaribbeanLeague": {
+        "message": "Центральноамериканская и Карибская Лига ",
+        "description": ""
+    },
+    "challenges.progress.seconds": {
+        "message": "{VALUE}/{MIN}c",
+        "description": ""
+    },
+    "tournament.playoff": {
+        "message": "Плей-офф #{NUMBER}",
+        "description": "Tournament screen heading."
+    },
+    "play.europeCup.accusative": {
+        "message": "Европейский кубок",
+        "description": "Accusative case"
+    },
+    "actions.lob": {
+        "message": "Навесная передача (придержать)",
+        "description": "Name of action for passing the ball to another player by kicking in the ball in the air."
+    },
+    "unlock.continentalLeague": {
+        "message": "Выиграй<br><i>все Континентальные Кубки</i><br>на <i class=\"bronze\">Beginner</i> уровне сложности",
+        "description": ""
+    },
+    "challenges.cleanSheetName": {
+        "message": "Безупречная защита",
+        "description": "Match challenge name."
+    },
+    "actions.pass": {
+        "message": "Передача низом",
+        "description": "Name of action for passing the ball to another player."
+    },
+    "controls.gamepad1": {
+        "message": "<b class=\"user-icon user-1 connected online\"></b> Контроллер 1",
+        "description": "Button label."
+    },
+    "multiplayer.host": {
+        "message": "Создать игру",
+        "description": "Button label"
+    },
+    "multiplayer.duel.info": {
+        "message": "1 на 1",
+        "description": ""
+    },
+    "menu.keys.move": {
+        "message": "Управление",
+        "description": ""
+    },
+    "challenges.noBallSlideTackle": {
+        "message": "Снести подкатом {OPPONENTS} игроков противника без мяча в течение матча",
+        "description": ""
+    },
+    "multiplayer.gameList.progress": {
+        "message": "Время",
+        "description": "Table header"
+    },
+    "leagues.gold.genitive": {
+        "message": "Золотая Лига",
+        "description": "League name in genitive case"
+    },
+    "leagues.silver": {
+        "message": "Серебрянная Лига",
+        "description": ""
+    },
+    "challenges.title": {
+        "message": "Задача матча",
+        "description": ""
+    },
+    "multiplayer.gameList.teams": {
+        "message": "Команды ",
+        "description": "Table header"
+    },
+    "multiplayer.gameList.join": {
+        "message": "Присоединиться",
+        "description": "Button label"
+    },
+    "challenges.roundingTheKeeperName": {
+        "message": "Обвод вратаря",
+        "description": "Match challenge name."
+    },
+    "hint.25": {
+        "message": "Преодолевая вызов турнирных матчей Вы получаете <i class=\"pink\">Fame</i> очки.",
+        "description": ""
+    },
+    "menu.keys.back": {
+        "message": "Назад",
+        "description": ""
+    },
+    "challenges.supershotFromPenaltyAreaName": {
+        "message": "Артилерия",
+        "description": "Match challenge name."
+    },
+    "controls.change": {
+        "message": "Изменить",
+        "description": "Button label."
+    },
+    "challenges.fastTripleName": {
+        "message": "Молниеносная атака",
+        "description": "Match challenge name."
+    },
+    "play.title": {
+        "message": "Выбрать турнир",
+        "description": ""
+    },
+    "challenges.doubleSlideHitName": {
+        "message": "Двойной удар",
+        "description": "Match challenge name."
+    },
+    "multiplayer.join": {
+        "message": "Поиск матчей",
+        "description": "Button label"
+    },
+    "replay.show": {
+        "message": "Показать повтор",
+        "description": "Button label."
+    },
+    "tournament.tableLegend": {
+        "message": "О = <i>Очки</i>   П = <i>Победы</i>   Н = <i>Ничьи</i>   П = <i>Поражения</i>   ЗГ = <i>Забитые Голы</i>   ПГ = <i>Пропущенные Голы</i>",
+        "description": ""
+    },
+    "play.online": {
+        "message": "Мултиплейер онлайн",
+        "description": ""
+    },
+    "play.northAmericaCup": {
+        "message": "Кубок Северной Америки",
+        "description": ""
+    },
+    "multiplayer.lobby.playerOptions.kick": {
+        "message": "Выгнать",
+        "description": "Button label"
+    },
+    "challenges.slideTrap": {
+        "message": "Исполнить {MIN_SLIDES} удачных подкатов в течение одного матча",
+        "description": ""
+    },
+    "tournament.final": {
+        "message": "Финал",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalkeeperSlideTrapName": {
+        "message": "Бенефис вратаря",
+        "description": "Match challenge name."
+    },
+    "challenges.noSupermovesName": {
+        "message": "Выключить",
+        "description": "Match challenge name."
+    },
+    "match.goal": {
+        "message": "ГОООЛ!",
+        "description": ""
+    },
+    "actions.left": {
+        "message": "Влево",
+        "description": "Name of action for moving in-game character left."
+    },
+    "tournament.custom.teams.randomize": {
+        "message": "Выбор команды",
+        "description": "Button label."
+    },
+    "achievements.thief": {
+        "message": "Перехватите мяч {MIN_STEALS} раз",
+        "description": ""
+    },
+    "ai.level3": {
+        "message": "Легенда",
+        "description": "Fourth difficulty level name"
+    },
+    "options.title": {
+        "message": "Настройки",
+        "description": "Options menu title."
+    },
+    "leagues.platinum.genitive": {
+        "message": "Платиновая Лига",
+        "description": "League name in genitive case"
+    },
+    "pause.showChallenge": {
+        "message": "Показать вызов",
+        "description": "Button label for showing challenge description."
+    },
+    "multiplayer.quickMatch": {
+        "message": "Выход из игры",
+        "description": "Button label"
+    },
+    "hint.8": {
+        "message": "Придержите клавишу <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> для точного удара- при помощи стрелок установите прицел и подкручивайте мяч.",
+        "description": ""
+    },
+    "multiplayer.matchmaking.assetError": {
+        "message": "У вас нет необходимых команд, стадионов или мячей, чтобы начать эту игру.",
+        "description": ""
+    },
+    "play.mediterraneanLeague": {
+        "message": "Средиземноморская Лига",
+        "description": ""
+    },
+    "challenges.cleanPasses": {
+        "message": "Сделайте {MIN_PASSES} точных передач без потери мяча в течение одного матча",
+        "description": ""
+    },
+    "challenges.slideAccuracy": {
+        "message": "Установите {MIN_ACCURACY}% точности подкатов",
+        "description": ""
+    },
+    "actions.right2": {
+        "message": "Alt. направо",
+        "description": "Name of action for moving in-game character right."
+    },
+    "ai.level0.instrumental": {
+        "message": "Начинающем",
+        "description": "First difficulty level name, instrumental case"
+    },
+    "tournament.semifinals": {
+        "message": "Полуфиналы",
+        "description": "Tournament screen heading."
+    },
+    "play.panAmericanLeague": {
+        "message": "Американская Лига ",
+        "description": ""
+    },
+    "gameplay.celebration": {
+        "message": "Празднование гола",
+        "description": "Option to automatically show celebration after scoring a goal."
+    },
+    "challenges.slideTrapName": {
+        "message": "Чистые подкаты",
+        "description": "Match challenge name."
+    },
+    "multiplayer.lobby.closedSlotOptions": {
+        "message": "Варианты закрытых слотов",
+        "description": "Section title"
+    },
+    "achievements.thiefName": {
+        "message": "Вор",
+        "description": "Achievement name."
+    },
+    "achievements.allTeams": {
+        "message": "Разблокировать все команды",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.confirm": {
+        "message": "Присоединиться",
+        "description": "Button label"
+    },
+    "pause.forfeit": {
+        "message": "Неудача",
+        "description": "Button label for forfeiting a multiplayer match."
+    },
+    "multiplayer.closed": {
+        "message": "Закрыто",
+        "description": "Button label"
+    },
+    "hint.20": {
+        "message": "Чтобы переключить активного игрока, нажмите на клавишу <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span> удерживая при этом стрелки клавиатуры в  направлении игрока, на кторого хотите перключить.",
+        "description": ""
+    },
+    "summary.blockedShots": {
+        "message": "Блокированные удары",
+        "description": ""
+    },
+    "multiplayer.public.friends": {
+        "message": "Друзья",
+        "description": "Button label"
+    },
+    "multiplayer.onlineCount": {
+        "message": "Игроки онлайн:",
+        "description": ""
+    },
+    "table.loses": {
+        "message": "L",
+        "description": "Short form of the word 'Loses'"
+    },
+    "video.shadows": {
+        "message": "Тени",
+        "description": "Visual effect."
+    },
+    "hint.7": {
+        "message": "Чтобы ударить мяч с лёта, вбегите под пдающий мяч и придержите <span class=\"key auto-wide auto-update\" data-action=\"header\"></span>.",
+        "description": ""
+    },
+    "challenges.ballPossessionName": {
+        "message": "Липучка",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanSheet": {
+        "message": "Не пропустите ни одного гола в течение одного матча",
+        "description": ""
+    },
+    "challenges.magnetOnShotName": {
+        "message": "Магнетизм",
+        "description": "Match challenge name."
+    },
+    "play.panArabLeague.accusative": {
+        "message": "Лига Арабских Стран",
+        "description": "Accusative case"
+    },
+    "achievements.silverLeagueName": {
+        "message": "Серебрянная Лига",
+        "description": "Achievement name."
+    },
+    "friendly.ai": {
+        "message": "Уровень SI",
+        "description": "AI skill widget title."
+    },
+    "controls.reset": {
+        "message": "Из-за изменений в игре необходимо было сбросить раскладки клавиатуры и геймпада. Если вы настроили свои элементы управления, вам нужно сделать это заново, извините!",
+        "description": ""
+    },
+    "multiplayer.chaos": {
+        "message": "Хаос",
+        "description": ""
+    },
+    "summary.exit": {
+        "message": "Выход",
+        "description": "Button label."
+    },
+    "hint.19": {
+        "message": "Сделать вратарский подкат нажав клавишу <span class=\"key auto-wide auto-update\" data-action=\"goalkeeperSlide\"></span>.",
+        "description": ""
+    },
+    "multiplayer.coop.title": {
+        "message": "Режим игры",
+        "description": "Section title"
+    },
+    "time": {
+        "message": "{MINUTES} мин",
+        "description": "Duration in minutes."
+    },
+    "multiplayer.matchmaking.waitingForGame": {
+        "message": "Ожидание противника ...",
+        "description": ""
+    },
+    "menu.loading": {
+        "message": "Загрузка",
+        "description": ""
+    },
+    "challenges.goalkeeperSlideTrap": {
+        "message": "Выполнить {MIN_SLIDES} успешных подкатов своим вратарём в течение одного матча",
+        "description": ""
+    },
+    "leagues.bronze": {
+        "message": "Бронзовая Лига",
+        "description": ""
+    },
+    "menu.pressKey": {
+        "message": "Нажать любую кнопку",
+        "description": ""
+    },
+    "tournament.custom.teams": {
+        "message": "Количество команд",
+        "description": "Button label."
+    },
+    "challenges.dribbleDistanceName": {
+        "message": "Безумный бегун",
+        "description": "Match challenge name."
+    },
+    "actions.up": {
+        "message": "Вверх",
+        "description": "Name of action for moving in-game character up."
+    },
+    "menu.selectStadium": {
+        "message": "Выбрать стадион",
+        "description": ""
+    },
+    "hint.15": {
+        "message": "<img src=\"images/powerups/freeze/icon.png\" width=\"32\" height=\"32\"> Замораживание - это супер-движение, которое замораживает игроков (включая игроков своей команды) рядом с вами в течение определенного времени.",
+        "description": ""
+    },
+    "copyrights": {
+        "message": "Авторские права принадлежат © MERIXSTUDIO. Все права защищены.",
+        "description": ""
+    },
+    "main.playOffline": {
+        "message": "Играть в оффлайне",
+        "description": "Button label."
+    },
+    "video.contrast": {
+        "message": "Контраст",
+        "description": ""
+    },
+    "match.selectTeams": {
+        "message": "ВЫБРАТЬ КОМАНДЫ",
+        "description": ""
+    },
+    "main.playOnline": {
+        "message": "Играть online",
+        "description": "Button label."
+    },
+    "actions.down": {
+        "message": "Вниз",
+        "description": "Name of action for moving in-game character down."
+    },
+    "challenges.dribbleDistance": {
+        "message": "Исполнить дриблинг {MIN_DRIBBLE_TIME} секунд без потери мяча в течение одного матча",
+        "description": ""
+    },
+    "summary.goals": {
+        "message": "Голы",
+        "description": ""
+    },
+    "challenges.interceptionsName": {
+        "message": "Перехватчик",
+        "description": "Match challenge name."
+    },
+    "actions.slide": {
+        "message": "Подкат",
+        "description": "Name of action for performing slide tackle."
+    },
+    "achievements.topScorer": {
+        "message": "Забейте {MIN_GOALS, plural, one {# гол} other {# голов}}",
+        "description": ""
+    },
+    "challenges.noBallSlideTackleName": {
+        "message": "Рентген",
+        "description": "Match challenge name."
+    },
+    "challenges.slideAccuracyName": {
+        "message": "Соколиный глаз",
+        "description": "Match challenge name."
+    },
+    "controls.passing": {
+        "message": "Передача",
+        "description": "Button label."
+    },
+    "challenges.goalkeeperLobName": {
+        "message": "Атака с воздуха",
+        "description": "Match challenge name."
+    },
+    "menu.save": {
+        "message": "Сохранить",
+        "description": "Button label for saving some options."
+    },
+    "actions.menuClearAssigment": {
+        "message": "Очистить назначение",
+        "description": "Name of action for clearing key assigments."
+    },
+    "actions.menuBack": {
+        "message": "Назад",
+        "description": "Name of action for canceling menu choice."
+    },
+    "tournament.difficultyTitle": {
+        "message": "Выбор уровня сложности",
+        "description": "Difficulty selection menu title."
+    },
+    "achievements.localMultiCupName": {
+        "message": "Команда Копанито",
+        "description": "Achievement name."
+    },
+    "gameplay.showUsernames": {
+        "message": "имен пользователей",
+        "description": "Option to show usernames above players."
+    },
+    "menu.randomBall": {
+        "message": "Выбор мяча",
+        "description": ""
+    },
+    "play.commonwealthCup": {
+        "message": "Кубок Содружества",
+        "description": ""
+    },
+    "challenges.touchWoodwork": {
+        "message": "Забейте {MIN_GOALS} голов после удара в штангу или перекладину в течение одного матча",
+        "description": ""
+    },
+    "multiplayer.doubles": {
+        "message": "Пары",
+        "description": ""
+    },
+    "achievements.magnetName": {
+        "message": "Сепер-магнит",
+        "description": "Achievement name."
+    },
+    "menu.keys.accept": {
+        "message": "Согласиться",
+        "description": ""
+    },
+    "actions.right": {
+        "message": "Вправо",
+        "description": "Name of action for moving in-game character right."
+    },
+    "challenges.avoidGoalkeeperName": {
+        "message": "Акробат",
+        "description": "Match challenge name."
+    },
+    "actions.toggleTeam": {
+        "message": "Переключить контроллер",
+        "description": "Name of action for enabling or disabling a controller (keyboard, gamepad)."
+    },
+    "achievements.platinumLeagueName": {
+        "message": "Платиновая Лига",
+        "description": "Achievement name."
+    },
+    "summary.interceptions": {
+        "message": "Отборы",
+        "description": ""
+    },
+    "hint.22": {
+        "message": "Чтобы бежать быстрее с мячом, продвиньте мяч вперед, нажав клавишу<span class=\"key auto-wide auto-update\" data-action=\"pass\"></span> и включите спринт нажав <span class=\"key auto-wide auto-update\" data-action=\"sprint\"></span>.",
+        "description": ""
+    },
+    "achievements.goldenGoal": {
+        "message": "Победить в матче, забивая золотой мяч",
+        "description": ""
+    },
+    "play.continentalLeague": {
+        "message": "Континентальная Лига",
+        "description": ""
+    },
+    "summary.fame": {
+        "message": "Репутация",
+        "description": ""
+    },
+    "match.selectTeam.playerPlay": {
+        "message": "{KEY} Присоединиться",
+        "description": ""
+    },
+    "menu.next": {
+        "message": "Далее",
+        "description": "Button label for going to the next screen"
+    },
+    "summary.continue": {
+        "message": "Продолжить",
+        "description": "Button label."
+    },
+    "menu.quit": {
+        "message": "Выход",
+        "description": "Button label for abandoning current game"
+    },
+    "hint.3": {
+        "message": "отбор мяча у противника при  помощи подката нажимая  <span class=\"key auto-wide auto-update\" data-action=\"slide\"></span>.",
+        "description": ""
+    },
+    "audio.audio": {
+        "message": "Звук",
+        "description": ""
+    },
+    "multiplayer.matchmaking.foundGame": {
+        "message": "Матч найден, присоединение ...",
+        "description": ""
+    },
+    "achievements.goldenGoalName": {
+        "message": "Золотой гол",
+        "description": "Achievement name."
+    },
+    "challenges.supershotHitAndScore": {
+        "message": "Попадите в 2-х противников супер-ударом и забейте гол",
+        "description": ""
+    },
+    "practice.title2": {
+        "message": "Атака",
+        "description": "Information about current practice mode."
+    },
+    "achievements.legendMastered": {
+        "message": "Принимайте участие во всех соревнованиях на Легендарном уровне сложности",
+        "description": ""
+    },
+    "achievements.localMulti": {
+        "message": "Разыграйте матч с 3-мя или более игроками",
+        "description": ""
+    },
+    "actions.swerveUp": {
+        "message": "Сдвиг влево (придержать)",
+        "description": "Name of action for swerving the ball in one direction."
+    },
+    "menu.comingSoon": {
+        "message": "Скоро",
+        "description": ""
+    },
+    "achievements.slideTackle": {
+        "message": "Снесите с ног {MIN_HITS} соперников, используя одиночный подкат ",
+        "description": ""
+    },
+    "play.customTournament.accusative": {
+        "message": "Обычный турнир",
+        "description": "Accusative case"
+    },
+    "play.southAmericaCup.accusative": {
+        "message": "Кубок Южной Америки",
+        "description": "Accusative case"
+    },
+    "multiplayer.lobby.playerOptions": {
+        "message": "Опции игрового слота",
+        "description": "Section title"
+    },
+    "controls.otherTitle": {
+        "message": "Другое",
+        "description": ""
+    },
+    "challenges.interceptions": {
+        "message": "Исполнить {MIN_INTERCEPTIONS} перхватов в течение одного матча",
+        "description": ""
+    },
+    "achievements.supermovesMaster": {
+        "message": "Используйте во время матча все 4 супер-движения ",
+        "description": ""
+    },
+    "challenges.magnetOnShot": {
+        "message": "Заблокируйте удар соперника используя магнит",
+        "description": ""
+    },
+    "multiplayer.chaos.info": {
+        "message": "3 на 3",
+        "description": ""
+    },
+    "play.oceaniaCup.accusative": {
+        "message": "Кубок Океании",
+        "description": "Accusative case"
+    },
+    "actions.up2": {
+        "message": "Alt. вверх",
+        "description": "Name of action for moving in-game character up."
+    },
+    "gif.showFolder": {
+        "message": "Показать в папке",
+        "description": "Button label."
+    },
+    "tournament.fixture": {
+        "message": "Ряд {NUMBER}",
+        "description": "League screen heading."
+    },
+    "controls.movementTitle": {
+        "message": "Движение",
+        "description": ""
+    },
+    "achievements.localMultiName": {
+        "message": "Домашняя вечеринка",
+        "description": "Achievement name."
+    },
+    "achievements.cleanEventName": {
+        "message": "Идеальная защита",
+        "description": "Achievement name."
+    },
+    "achievements.completeMainEvents": {
+        "message": "Принимайте участие во всех главных соревнованиях (континентальный + мировой кубок) на любом уровне сложности",
+        "description": ""
+    },
+    "multiplayer.duel": {
+        "message": "Дуэль",
+        "description": ""
+    },
+    "play.centralAmericanAndCaribbeanLeague.accusative": {
+        "message": "Центральноамериканская и Карибская Лига",
+        "description": "Accusative case"
+    },
+    "achievements.cleanEvent": {
+        "message": "Не пропустите гол в лиге или кубке",
+        "description": ""
+    },
+    "tournament.lose": {
+        "message": "Вы проиграли турнир!<br>удачи в следующий раз.<br>Вы получили <i class=\"pink\">{FAME}</i> очков репутации.",
+        "description": "Tournament lose message."
+    },
+    "menu.randomTeam": {
+        "message": "Выбор команды",
+        "description": ""
+    },
+    "tournament.mainEvent": {
+        "message": "Главное событие",
+        "description": "League screen heading."
+    },
+    "challenges.teleportScoreName": {
+        "message": "Телепорт Мастер",
+        "description": "Match challenge name."
+    },
+    "challenges.goalkeeperLob": {
+        "message": "Забейте гол пребросив мяч через вратаря",
+        "description": ""
+    },
+    "table.draws": {
+        "message": "D",
+        "description": "Short form of the word 'Draws'"
+    },
+    "menu.yes": {
+        "message": "Да",
+        "description": ""
+    },
+    "friendly.drawsOff": {
+        "message": "Золотой гол",
+        "description": "When a draw is not allowed in a match."
+    },
+    "actions.swerveDown": {
+        "message": "Сдвиг вправо (придержать)",
+        "description": "Name of action for swerving the ball in another direction."
+    },
+    "pause.title": {
+        "message": "Пауза",
+        "description": "Pause menu title."
+    },
+    "options.language": {
+        "message": "Язык",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.closedSlotOptions.open": {
+        "message": "Открыть слот",
+        "description": "Button label"
+    },
+    "challenges.dribbleTime": {
+        "message": "Исполнить дриблинг {MIN_DRIBBLE_TIME} секунд без потери мяча в течение одного матча",
+        "description": ""
+    },
+    "multiplayer.gameList.stadium": {
+        "message": "Стадион",
+        "description": "Table header"
+    },
+    "multiplayer.gameList": {
+        "message": "Доступные игры",
+        "description": "Section title"
+    },
+    "challenges.slideScoreName": {
+        "message": "Гол подкатом",
+        "description": "Match challenge name."
+    },
+    "ai.level1.instrumental": {
+        "message": "Любительском",
+        "description": "Second difficulty level name, instrumental case"
+    },
+    "tournament.startGame": {
+        "message": "Начать игру",
+        "description": "Button label."
+    },
+    "menu.selectBall": {
+        "message": "Выбрать мяч",
+        "description": ""
+    },
+    "challenges.ballPossession": {
+        "message": "Установите {MIN_POSSESSION}% владения мячом",
+        "description": ""
+    },
+    "challenges.progress.meters": {
+        "message": "{VALUE}/{MIN}м",
+        "description": ""
+    },
+    "ai.level1": {
+        "message": "Любитель",
+        "description": "Second difficulty level name"
+    },
+    "leagues.intro": {
+        "message": "<p>Вы получили <i class=\"pink\">{FAME}</i> очков рупутации!</p><p>Чтобы заработать больше очков, выйграйте товарищеские игры, турниры. На высшем уровне SI получите большее количество очков.</p><p>Вам необходимо заработать<i class=\"pink\">{MIN_FAME}</i> очков чтобы дойти до уровня <i class=\"bronze no-wrap\">Бронзовой Лиги</i>.</p>",
+        "description": ""
+    },
+    "challenges.cleanLobs": {
+        "message": "Сделайте {MIN_PASSES} точных передач по воздуху без потери влядения мячом в течение одного матча",
+        "description": ""
+    },
+    "multiplayer.gameList.hostName": {
+        "message": "Имя хоста",
+        "description": "Table header"
+    },
+    "multiplayer.lobbyStatus0": {
+        "message": "Готов",
+        "description": ""
+    },
+    "multiplayer.complete": {
+        "message": "Полный",
+        "description": ""
+    },
+    "achievements.allTeamsName": {
+        "message": "Коллекционер",
+        "description": "Achievement name."
+    },
+    "actions.goalkeeperSlide": {
+        "message": "Вратарский подкат",
+        "description": "Name of action for performing goalkeeper slide tackle."
+    },
+    "actions.shoot": {
+        "message": "Удар (придержать для точности удара)",
+        "description": "Name of action for shooting at the goal."
+    },
+    "leagues.silver.genitive": {
+        "message": "Серебрянная Лига",
+        "description": "League name in genitive case"
+    },
+    "hint.10": {
+        "message": "Супер-удар - это бонус, который предоставляется команде время от времени. Нажмите <span class=\"key auto-wide auto-update\" data-action=\"powerup\"></span>чтобы использовать этот бонус.",
+        "description": ""
+    },
+    "multiplayer.slowConnection": {
+        "message": "медленное соединение",
+        "description": ""
+    },
+    "hint.18": {
+        "message": "Некоторые из Super-движений могут использоваться для нейтрализации Супер-движений противника.",
+        "description": ""
+    },
+    "achievements.lastSecondsGoalName": {
+        "message": "Гол на последних секундах",
+        "description": "Achievement name."
+    },
+    "multiplayer.gameList.join.error": {
+        "message": "Произошла ошибка, попробуйте другую игру.",
+        "description": "Error message"
+    },
+    "challenges.fastTriple": {
+        "message": "Забейте 3 гола за менее, чем {MIN_TIME} секунд",
+        "description": ""
+    },
+    "challenges.slideInterceptName": {
+        "message": "Отборы мача подкатами",
+        "description": "Match challenge name."
+    },
+    "match.goldenGoal": {
+        "message": "ЗОЛОТОЙ ГОООЛ!",
+        "description": ""
+    },
+    "actions.menuAltLeft": {
+        "message": "Меню alt. налево",
+        "description": "Name of action for alternative scrolling."
+    },
+    "table.wins": {
+        "message": "W",
+        "description": "Short form of the word 'Wins'"
+    },
+    "play.africaCup.accusative": {
+        "message": "Кубок Африки",
+        "description": "Accusative case"
+    },
+    "achievements.friendlyFireName": {
+        "message": "Дружеский огонь",
+        "description": "Achievement name."
+    },
+    "controls.title": {
+        "message": "Контроль",
+        "description": "Controls menu title."
+    },
+    "challenges.progress.percent": {
+        "message": "{VALUE}/{MIN}%",
+        "description": ""
+    },
+    "achievements.famousName": {
+        "message": "Известный",
+        "description": "Achievement name."
+    },
+    "match.cornerKick": {
+        "message": "УГЛОВОЙ УДАР!",
+        "description": ""
+    },
+    "challenges.penaltyAreaScoreName": {
+        "message": "Близкий контакт",
+        "description": "Match challenge name."
+    },
+    "multiplayer.gameList.refresh": {
+        "message": "Обновить",
+        "description": "Button label"
+    },
+    "challenges.slideScore": {
+        "message": "Забейте гол при помощи подката на линии ворот",
+        "description": ""
+    },
+    "actions.pause": {
+        "message": "Пауза",
+        "description": "Name of action for pausing the game."
+    },
+    "audio.title": {
+        "message": "Звук",
+        "description": "Audio options menu title."
+    },
+    "menu.no": {
+        "message": "Нет",
+        "description": ""
+    },
+    "friendly.startMatch": {
+        "message": "Игра",
+        "description": "Button label."
+    },
+    "controls.duplicated": {
+        "message": "Некоторые кнопки уже заняты другими действиями. Исправьте перед сохранением.",
+        "description": ""
+    },
+    "legendUnlock": {
+        "message": "Выиграй<br><i>Континентальный Кубок</i> и <i>кубок Мира</i> на<i class=\"gold\">Professional</i> уровне сложности",
+        "description": ""
+    },
+    "play.continentalLeague.accusative": {
+        "message": "Континентальная Лига",
+        "description": "Accusative case"
+    },
+    "actions.supermove": {
+        "message": "Супер-движение",
+        "description": "Name of action for activating a super-move (special action in game)."
+    },
+    "video.resolution": {
+        "message": "Расширение",
+        "description": ""
+    },
+    "challenges.pitchAreaScore": {
+        "message": "Забейте  {MIN_GOALS} голов из-за пределов штрафной площади противника в течение одного матча",
+        "description": ""
+    },
+    "friendly.title": {
+        "message": "Товарищеский матч",
+        "description": ""
+    },
+    "match.halfTime": {
+        "message": "ПЕРЕРЫВ!",
+        "description": ""
+    },
+    "multiplayer.invite.confirm.message": {
+        "message": "Пользователь {USERNAME}пригласил вас сыграть в Копанито.<br>Приняв приглашение, вы выйдете из текущей игры и данные игры будут потеряны.",
+        "description": "Alert text"
+    },
+    "summary.slides": {
+        "message": "Подкаты",
+        "description": ""
+    },
+    "challenges.slideHit": {
+        "message": "Нокаутируйте {MIN_HITS}  соперников в течение матча",
+        "description": ""
+    },
+    "gif.successMessage": {
+        "message": "Создание GIF завершено .<br>можно найти в папке `Повторы`: <i class=\"yellow\">{PATH}</i>",
+        "description": ""
+    },
+    "challenges.goalDifferenceName": {
+        "message": "доминатор",
+        "description": "Match challenge name."
+    },
+    "challenges.cleanPassesName": {
+        "message": "Тики-Така",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefender": {
+        "message": "Забейте гол защитником",
+        "description": ""
+    },
+    "multiplayer.public.title": {
+        "message": "Доступность лобби",
+        "description": "Button label"
+    },
+    "friendly.matchTime": {
+        "message": "Время матча",
+        "description": "Match time widget title."
+    },
+    "challenges.failed": {
+        "message": "Задача не удалась",
+        "description": ""
+    },
+    "leagues.userLimit": {
+        "message": "Лимит на игроков",
+        "description": ""
+    },
+    "challenges.noSlideTackleName": {
+        "message": "Честная игра",
+        "description": "Match challenge name."
+    },
+    "menu.reset": {
+        "message": "Сбросить настройки",
+        "description": "Button label"
+    },
+    "tournament.custom.league.title": {
+        "message": "Лига",
+        "description": "Custom tournament league type screen heading."
+    },
+    "challenges.supershotFromPenaltyArea": {
+        "message": "Забейте гол после супер-удара со своей штрафной площади",
+        "description": ""
+    },
+    "challenges.magnetOnSupershot": {
+        "message": "Заблокируйте супер-удар противника при помощи магнита",
+        "description": ""
+    },
+    "hint.12": {
+        "message": "<img src=\"images/powerups/teleport/icon.png\" width=\"32\" height=\"32\"> телепорт - это супер-движение, которое передвигает игрока (без мяча) в любое указанное место на поле.",
+        "description": ""
+    },
+    "play.microstatesCup": {
+        "message": "Кубок стран-карликов",
+        "description": ""
+    },
+    "challenges.cornerDefenseName": {
+        "message": "Не пропусить с углового",
+        "description": "Match challenge name."
+    },
+    "leagues.beginner": {
+        "message": "Отборочные",
+        "description": ""
+    },
+    "gif.description": {
+        "message": "Продолжается генерация GIF. Это может занять несколько минут.",
+        "description": ""
+    },
+    "achievements.supershotName": {
+        "message": "Супер-удар",
+        "description": "Achievement name."
+    },
+    "challenges.maxBallSwerveName": {
+        "message": "Бумеранг",
+        "description": "Match challenge name."
+    },
+    "pause.resume": {
+        "message": "Продолжить",
+        "description": "Button label."
+    },
+    "challenges.cleanLobsName": {
+        "message": "Высокий Тики-Така",
+        "description": "Match challenge name."
+    },
+    "controls.gamepad3": {
+        "message": "<b class=\"user-icon user-3 connected online\"></b> Контроллер 3",
+        "description": "Button label."
+    },
+    "multiplayer.open": {
+        "message": "Открыто",
+        "description": "Button label"
+    },
+    "multiplayer.complete.info": {
+        "message": "5 на 5",
+        "description": ""
+    },
+    "tournament.thirdPlace": {
+        "message": "Игра за 3 место",
+        "description": "Tournament screen heading."
+    },
+    "challenges.windmakerSaveName": {
+        "message": "Ветер перемен",
+        "description": "Match challenge name."
+    },
+    "challenges.trap": {
+        "message": "Перехватить мяч {MIN_TRAPS} раз используя подкаты в течение одного матча",
+        "description": ""
+    },
+    "replay.generateGif": {
+        "message": "Создать GIF",
+        "description": "Button label."
+    },
+    "multiplayer.doubles.info": {
+        "message": "2 на 2",
+        "description": ""
+    },
+    "controls.passingTitle": {
+        "message": "Передача",
+        "description": ""
+    },
+    "gameplay.replays": {
+        "message": "Повторы",
+        "description": "Option to automatically show replays during match after scoring a goal."
+    },
+    "tournament.continue": {
+        "message": "Продолжить",
+        "description": "Button label."
+    },
+    "options.audio": {
+        "message": "Аудио",
+        "description": "Button label."
+    },
+    "achievements.completeMainEventsName": {
+        "message": "Globetrotter",
+        "description": "Achievement name."
+    },
+    "play.europeCup": {
+        "message": "Европейский кубок",
+        "description": ""
+    },
+    "summary.challenge": {
+        "message": "Вызов",
+        "description": ""
+    },
+    "achievements.magnet": {
+        "message": "Перехватить мяч {MIN_TRAPS} раз используя магнит",
+        "description": ""
+    },
+    "challenges.trapName": {
+        "message": "Ловец",
+        "description": "Match challenge name."
+    },
+    "multiplayer.public.public": {
+        "message": "Общественность",
+        "description": "Button label"
+    },
+    "tournament.quarterfinals": {
+        "message": "Четвертьфиналы",
+        "description": "Tournament screen heading."
+    },
+    "leagues.fameNeeded": {
+        "message": "Требования репутации:",
+        "description": ""
+    },
+    "tournament.playMatch": {
+        "message": "Начать игру",
+        "description": "Button label."
+    },
+    "challenges.noSlideTackle": {
+        "message": "Победить без использования подкатов (касается полевого игрока и вратаря)",
+        "description": ""
+    },
+    "controls.gamepad4": {
+        "message": "<b class=\"user-icon user-4 connected online\"></b> Контроллер 4",
+        "description": "Button label."
+    },
+    "multiplayer.lobby.kickAlert": {
+        "message": "Вас выгнали из лобби",
+        "description": "Alert message"
+    },
+    "multiplayer.matchmaking.searchingForGame": {
+        "message": "Поиск противника ...",
+        "description": ""
+    },
+    "multiplayer.friendStatus.away": {
+        "message": "Временный перерыв",
+        "description": "Section title"
+    },
+    "practice.swerving": {
+        "message": "Крученый удар",
+        "description": ""
+    },
+    "tournament.custom.eliminations.title": {
+        "message": "Отборочные игры",
+        "description": "Custom tournament eliminations type screen heading."
+    },
+    "menu.on": {
+        "message": "Вкл.",
+        "description": "When something is enabled"
+    },
+    "multiplayer.invite.alert.message": {
+        "message": "Пользователь {USERNAME} пригласил Вас сыграть в Копанито",
+        "description": "Alert text"
+    },
+    "multiplayer.invite.confirm.decline": {
+        "message": "Отказаться",
+        "description": "Button label"
+    },
+    "multiplayer.lobby": {
+        "message": "Лобби",
+        "description": "Section title"
+    },
+    "challenges.cornerScore": {
+        "message": "Забейте  {MIN_GOALS} голов  с углового удара в течение одного матча",
+        "description": ""
+    },
+    "controls.passingManualOnly": {
+        "message": "Только ручное управление",
+        "description": ""
+    },
+    "leagues.platinum": {
+        "message": "Платиновая Лига",
+        "description": ""
+    },
+    "controls.passingManualPreferred": {
+        "message": "Предпочтительно ручное управление",
+        "description": ""
+    },
+    "controls.menuTitle": {
+        "message": "Меню",
+        "description": ""
+    },
+    "hint.17": {
+        "message": "Чем лучше Вы играете, тем больше супер-ударов  Вы получите в течении игры.",
+        "description": ""
+    },
+    "challenges.windmakerSave": {
+        "message": "Предотвратите гол, активируя в последний момент вентилятор",
+        "description": ""
+    },
+    "match.goalKick": {
+        "message": "УДАР ОТ ВОРОТ!",
+        "description": ""
+    },
+    "tournament.teamTitle": {
+        "message": "Выбор команды",
+        "description": "Team selection menu title."
+    },
+    "help.content": {
+        "message": "<file src=\"help.html\">",
+        "description": "Reference to an external file, please copy source string"
+    },
+    "achievements.platinumLeague": {
+        "message": "Дойди до <i class=\"platinum\">Платиновой Лиги</i> / получи <i class=\"pink\">{FAME}</i> очков репутации",
+        "description": ""
+    },
+    "friendly.draws": {
+        "message": "Ничьи",
+        "description": "Draws widget title."
+    },
+    "hint.14": {
+        "message": "<img src=\"images/powerups/windmaker/icon.png\" width=\"32\" height=\"32\"> Вентилятор- это супер-движение, которое поможет избежать попядяни мяча в свои ворота (только тогда, когда он включен заранее).",
+        "description": ""
+    },
+    "challenges.touchWoodworkName": {
+        "message": "Перекладина",
+        "description": "Match challenge name."
+    },
+    "achievements.completeOptionalEvents": {
+        "message": "Принимайте участие во всех соревнованиях (низших лиг и кубковых соревнованиях) на любом уровне сложности",
+        "description": ""
+    },
+    "tournament.restart": {
+        "message": "Начать заново",
+        "description": "Button label."
+    },
+    "controls.pressKey": {
+        "message": "Нажми клавишу",
+        "description": "Button label."
+    },
+    "gameplay.aiIndicators": {
+        "message": "Индикаторы SI",
+        "description": "Option to show AI indicators (circles beneath players)."
+    },
+    "multiplayer.lobbyCount": {
+        "message": "Игроки в лобби:",
+        "description": ""
+    },
+    "tournament.standingsButton": {
+        "message": "Турнирная таблица",
+        "description": "Tournament button label."
+    },
+    "menu.cancel": {
+        "message": "Отмена",
+        "description": "Button label for cancelling changes"
+    },
+    "achievements.silverLeague": {
+        "message": "Дойди до <i class=\"silver\">Серебрянной Лиги</i> / получи <i class=\"pink\">{FAME}</i> очков репутации",
+        "description": ""
+    },
+    "tournament.custom.humans": {
+        "message": "Команды игрока",
+        "description": "Button label."
+    },
+    "challenges.golzagol": {
+        "message": "Забейте гол за менее чем {MIN_TIME} секунд после пропущеного гола",
+        "description": ""
+    },
+    "achievements.completeEventName": {
+        "message": "{EVENT_NAME}",
+        "description": ""
+    },
+    "play.mediterraneanLeague.accusative": {
+        "message": "Средиземноморская Лига",
+        "description": "Accusative case"
+    },
+    "languageName": {
+        "message": "Русский",
+        "description": "Name of the current language written in this language, e.g. 'Polski', 'Deutsch'"
+    },
+    "challenges.doubleSlideHit": {
+        "message": "Снесите 2-х противников одним подкатом",
+        "description": ""
+    },
+    "achievements.completeEvent": {
+        "message": "Выиграть {EVENT_NAME_ACCUSATIVE}",
+        "description": ""
+    },
+    "ai.level0": {
+        "message": "Начинающий",
+        "description": "First difficulty level name"
+    },
+    "achievements.lastSecondsGoal": {
+        "message": "Забейте гол на последних секундах игры",
+        "description": ""
+    },
+    "match.throwIn": {
+        "message": "Аут",
+        "description": ""
+    },
+    "options.video": {
+        "message": "Видео",
+        "description": "Button label."
+    },
+    "multiplayer.search": {
+        "message": "Поиск",
+        "description": "Button label"
+    },
+    "play.asiaCup.accusative": {
+        "message": "Кубок Азии",
+        "description": "Accusative case"
+    },
+    "achievements.freezerName": {
+        "message": "Ледяная скульптура",
+        "description": "Achievement name."
+    },
+    "hint.0": {
+        "message": "Для удара по низу нажмите <span class=\"key auto-wide auto-update\" data-action=\"pass\"></span>, для удара по воздуху нажмите<span class=\"key auto-wide auto-update\" data-action=\"lob\"></span>.",
+        "description": ""
+    },
+    "options.controls": {
+        "message": "Контроль",
+        "description": "Button label."
+    },
+    "table.goalsFor": {
+        "message": "F",
+        "description": "Short form of the words 'Goals For'"
+    },
+    "play.worldCup.accusative": {
+        "message": "Кубок Мира",
+        "description": "Accusative case"
+    },
+    "play.pacificLeague": {
+        "message": "Тихоокеанская Лига",
+        "description": ""
+    },
+    "multiplayer.lobby.openSlotOptions": {
+        "message": "Варианты открытых слотов",
+        "description": "Section title"
+    },
+    "challenges.supershotHitAndScoreName": {
+        "message": "Комбинированный супер-удар",
+        "description": "Match challenge name."
+    },
+    "achievements.localMultiCup": {
+        "message": "Разыграйте турнир со своим другом",
+        "description": ""
+    },
+    "challenges.noPreciseShotName": {
+        "message": "Режим выключения снайпера",
+        "description": "Match challenge name."
+    },
+    "challenges.scoringDefenderName": {
+        "message": "Лучшая защита - атака",
+        "description": "Match challenge name."
+    },
+    "ai.level2": {
+        "message": "Профессионал",
+        "description": "Third difficulty level name"
+    },
+    "ai.level2.instrumental": {
+        "message": "Профессиональном",
+        "description": "Third difficulty level name, instrumental case"
+    },
+    "actions.menuAccept": {
+        "message": "Выбрать",
+        "description": "Name of action for accepting menu choice."
+    },
+    "trophies.title": {
+        "message": "Трофеи",
+        "description": "Button label."
+    },
+    "challenges.consecutiveSlides": {
+        "message": "Исполнить {MIN_SLIDES} удачных подкатов подряд",
+        "description": ""
+    },
+    "main.title": {
+        "message": "Главное меню",
+        "description": "Main menu title"
+    },
+    "challenges.maxBallSwerve": {
+        "message": "Забейте {MIN_GOALS} голов при использовании экстремально закрученных ударов в течение одного матча",
+        "description": ""
+    },
+    "tournament.custom.teams.start": {
+        "message": "Старт",
+        "description": "Button label."
+    },
+    "tournament.groupStage": {
+        "message": "Групповой этап",
+        "description": "Tournament screen heading."
+    },
+    "video.title": {
+        "message": "Видео",
+        "description": "Video options menu title."
+    },
+    "hint.1": {
+        "message": "Чтобы переключить тгрока нажмите <span class=\"key auto-wide auto-update\" data-action=\"togglePlayer\"></span>.",
+        "description": ""
+    },
+    "multiplayer.gameList.mode": {
+        "message": "Режим",
+        "description": "Table header"
+    },
+    "menu.back": {
+        "message": "Назад",
+        "description": "Button label for returning to the previous screen"
+    },
+    "achievements.firstSecondsGoal": {
+        "message": "Забейте гол на первых минутах матча",
+        "description": ""
+    },
+    "achievements.famous": {
+        "message": "Получи <i class=\"pink\">{MIN_FAME}</i> очков репутации",
+        "description": ""
+    },
+    "matches": {
+        "message": "{MATCHES, plural, one {# матч} few {# матчи} many {# матчей} other {# матчей}}",
+        "description": "Number of matches, may require plural syntax, depending on language"
+    },
+    "video.overlay": {
+        "message": "Цвет",
+        "description": "Visual effect."
+    },
+    "hint.11": {
+        "message": "<img src=\"images/powerups/magnet/icon.png\" width=\"32\" height=\"32\"> Магнит - супер-движение, которое притягивает мяч к твоему игроку.",
+        "description": ""
+    },
+    "achievements.supershot": {
+        "message": "Забейте{MIN_GOALS, plural, one {# гол} other {# голов}} при помощи супер-удара",
+        "description": ""
+    },
+    "play.worldLeague": {
+        "message": "Мировая Лига",
+        "description": ""
+    },
+    "video.fullscreen": {
+        "message": "Полноэкранный",
+        "description": ""
+    },
+    "challenges.untouchableGoal": {
+        "message": "Забейте гол без потери влядения мячом (начиная вратарским ударом со штрафной площади или после развода в центре поля)",
+        "description": ""
+    },
+    "pause.back": {
+        "message": "Выход",
+        "description": "Button label for abandoning match and returning to menu."
+    },
+    "menu.keys.selectMatch": {
+        "message": "Выбор игры",
+        "description": ""
+    },
+    "hint.6": {
+        "message": "Бег с мячом придерживая <span class=\"key auto-wide auto-update\" data-action=\"shoot\"></span> для удара без остановки мяча.",
+        "description": ""
+    },
+    "menu.resetMessage": {
+        "message": "Вы уверены, что хотите сбросить настройки?",
+        "description": ""
+    },
+    "leagues.relegation": {
+        "message": "Извините!<br>Вы понижены в <i class=\"{LEAGUE}\">{LEAGUE_NAME}</i>.",
+        "description": ""
+    },
+    "table.points": {
+        "message": "P",
+        "description": "Short form of the word 'Points'"
+    },
+    "menu.randomStadium": {
+        "message": "Выбор стадиона",
+        "description": ""
+    },
+    "play.customTournament": {
+        "message": "Обычный турнир",
+        "description": ""
+    },
+    "controls.shootingTitle": {
+        "message": "Удар",
+        "description": ""
+    },
+    "users.name": {
+        "message": "Игрок {id}",
+        "description": "Generic username shown in-game"
+    },
+    "multiplayer.gameList.noLobbies": {
+        "message": "Нет лобби (игр)",
+        "description": "Error message"
+    },
+    "hint.24": {
+        "message": "Турниры также можно играть с друзьями в одной команде.",
+        "description": ""
+    },
+    "summary.possession": {
+        "message": "Владение мячом",
+        "description": ""
+    },
+    "actions.menuAltRight": {
+        "message": "Меню alt. направо",
+        "description": "Name of action for alternative scrolling."
+    },
+    "leagues.beginner.genitive": {
+        "message": "Отборочные",
+        "description": "League name in genitive case"
+    },
+    "menu.teamStadium": {
+        "message": "Командный стадион",
+        "description": ""
+    },
+    "hint.13": {
+        "message": "<img src=\"images/powerups/supershot/icon.png\" width=\"32\" height=\"32\"> Супер-удар -  это супер-движение, которое позволяет контролировать мяч, но помните, чтобы избегать при этом игроков соперника.",
+        "description": ""
+    },
+    "challenges.cleanGroundPasses": {
+        "message": "Сделайте {MIN_PASSES} передач низом без потери влядения мячом в течение одного матча",
+        "description": ""
+    },
+    "achievements.completeOptionalEventsName": {
+        "message": "Путешественник",
+        "description": "Achievement name."
+    },
+    "actions.left2": {
+        "message": "Alt. налево",
+        "description": "Name of action for moving in-game character left."
+    },
+    "multiplayer.title": {
+        "message": "Мултиплейер онлайн",
+        "description": "Section title"
+    },
+    "challenges.roundingTheKeeper": {
+        "message": "Забейте гол используя дриблинг на линии ворот",
+        "description": ""
+    },
+    "play.worldLeague.accusative": {
+        "message": "Мировая Лига",
+        "description": "Accusative case"
+    },
+    "challenges.avoidGoalkeeper": {
+        "message": "Избегайте от 2-х подкатов вратаря подряд",
+        "description": ""
+    },
+    "multiplayer.host.info": {
+        "message": "Настройте игру и пригласите других игроков",
+        "description": ""
+    },
+    "multiplayer.matchmaking.connecting": {
+        "message": "Подключение к серверам ...",
+        "description": ""
+    },
+    "challenges.reverseShotName": {
+        "message": "Удар пяткой",
+        "description": "Match challenge name."
+    },
+    "ai.level3.instrumental": {
+        "message": "Легендарном",
+        "description": "Fourth difficulty level name, instrumental case"
+    },
+    "achievements.legendMasteredSuccess": {
+        "message": "Поздравляем!<br>Вы завершили все возможные соревнования на самом высоком уровне сложности!",
+        "description": ""
+    },
+    "play.worldCup": {
+        "message": "Кубок Мира",
+        "description": ""
+    },
+    "summary.player": {
+        "message": "Игрок",
+        "description": ""
+    },
+    "tournament.roundOf16": {
+        "message": "1 / 8 финала",
+        "description": "Tournament screen heading."
+    },
+    "challenges.goalDifference": {
+        "message": "Выиграть матч забивая на {MIN_DIFFERENCE} больше голов чем твой противник",
+        "description": ""
+    },
+    "achievements.legendMasteredName": {
+        "message": "Легенда",
+        "description": "Achievement name."
+    }
+}

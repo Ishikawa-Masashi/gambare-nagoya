@@ -1,0 +1,199 @@
+{
+    "frames": {
+        "powerups/tesla/rotor_part_02.png": {
+            "frame": {
+                "x": 156,
+                "h": 90,
+                "y": 0,
+                "w": 154
+            }
+        },
+        "powerups/tesla/coil_frame_05.png": {
+            "frame": {
+                "x": 258,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/progress_07.png": {
+            "frame": {
+                "x": 0,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/progress_01.png": {
+            "frame": {
+                "x": 156,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/body.png": {
+            "frame": {
+                "x": 312,
+                "h": 87,
+                "y": 0,
+                "w": 66
+            }
+        },
+        "powerups/tesla/progress_05.png": {
+            "frame": {
+                "x": 52,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/coil_glow.png": {
+            "frame": {
+                "x": 380,
+                "h": 50,
+                "y": 0,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil_frame_06.png": {
+            "frame": {
+                "x": 224,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/progress_06.png": {
+            "frame": {
+                "x": 26,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/progress_04.png": {
+            "frame": {
+                "x": 78,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/coil_frame_09.png": {
+            "frame": {
+                "x": 448,
+                "h": 50,
+                "y": 0,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil_frame_08.png": {
+            "frame": {
+                "x": 156,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil_frame_02.png": {
+            "frame": {
+                "x": 360,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/rotor.png": {
+            "frame": {
+                "x": 0,
+                "h": 154,
+                "y": 0,
+                "w": 154
+            }
+        },
+        "powerups/tesla/coil_frame_03.png": {
+            "frame": {
+                "x": 326,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil_frame_04.png": {
+            "frame": {
+                "x": 292,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/rotor_part_01.png": {
+            "frame": {
+                "x": 482,
+                "h": 46,
+                "y": 0,
+                "w": 14
+            }
+        },
+        "powerups/tesla/coil_frame_01.png": {
+            "frame": {
+                "x": 394,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/progress_02.png": {
+            "frame": {
+                "x": 130,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/coil_frame_10.png": {
+            "frame": {
+                "x": 414,
+                "h": 50,
+                "y": 0,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil.png": {
+            "frame": {
+                "x": 428,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/coil_frame_07.png": {
+            "frame": {
+                "x": 190,
+                "h": 50,
+                "y": 92,
+                "w": 32
+            }
+        },
+        "powerups/tesla/progress_03.png": {
+            "frame": {
+                "x": 104,
+                "h": 37,
+                "y": 156,
+                "w": 24
+            }
+        },
+        "powerups/tesla/progress_08.png": {
+            "frame": {
+                "x": 462,
+                "h": 37,
+                "y": 92,
+                "w": 24
+            }
+        }
+    },
+    "meta": {
+        "image": "tesla.png"
+    }
+}

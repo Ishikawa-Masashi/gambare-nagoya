@@ -1,0 +1,295 @@
+{
+    "frames": {
+        "interface/match/flag_overlay.png": {
+            "frame": {
+                "x": 902,
+                "h": 34,
+                "y": 130,
+                "w": 66
+            }
+        },
+        "interface/match/clock.png": {
+            "frame": {
+                "x": 650,
+                "h": 52,
+                "y": 130,
+                "w": 52
+            }
+        },
+        "interface/match/avatar_background2.png": {
+            "frame": {
+                "x": 82,
+                "h": 76,
+                "y": 130,
+                "w": 82
+            }
+        },
+        "interface/match/3.png": {
+            "frame": {
+                "x": 996,
+                "h": 14,
+                "y": 86,
+                "w": 8
+            }
+        },
+        "interface/match/flag_mask.png": {
+            "frame": {
+                "x": 398,
+                "h": 33,
+                "y": 212,
+                "w": 64
+            }
+        },
+        "interface/match/icon_star.png": {
+            "frame": {
+                "x": 996,
+                "h": 19,
+                "y": 0,
+                "w": 18
+            }
+        },
+        "interface/match/8.png": {
+            "frame": {
+                "x": 1006,
+                "h": 14,
+                "y": 38,
+                "w": 8
+            }
+        },
+        "interface/match/avatar_background.png": {
+            "frame": {
+                "x": 166,
+                "h": 66,
+                "y": 130,
+                "w": 72
+            }
+        },
+        "interface/match/avatar_mask.png": {
+            "frame": {
+                "x": 130,
+                "h": 123,
+                "y": 0,
+                "w": 128
+            }
+        },
+        "interface/match/icon_hat.png": {
+            "frame": {
+                "x": 980,
+                "h": 13,
+                "y": 130,
+                "w": 16
+            }
+        },
+        "interface/match/achievement_medal_slot.png": {
+            "frame": {
+                "x": 0,
+                "h": 80,
+                "y": 130,
+                "w": 80
+            }
+        },
+        "interface/match/powerup_placeholder.png": {
+            "frame": {
+                "x": 756,
+                "h": 48,
+                "y": 130,
+                "w": 48
+            }
+        },
+        "interface/match/7.png": {
+            "frame": {
+                "x": 996,
+                "h": 14,
+                "y": 54,
+                "w": 8
+            }
+        },
+        "interface/match/powerup_bar_background.png": {
+            "frame": {
+                "x": 464,
+                "h": 15,
+                "y": 212,
+                "w": 184
+            }
+        },
+        "interface/match/avatar_bar.png": {
+            "frame": {
+                "x": 313,
+                "h": 10,
+                "y": 186,
+                "w": 71
+            }
+        },
+        "interface/match/colon.png": {
+            "frame": {
+                "x": 1012,
+                "h": 14,
+                "y": 21,
+                "w": 8
+            }
+        },
+        "interface/match/powerup_overlay.png": {
+            "frame": {
+                "x": 704,
+                "h": 50,
+                "y": 130,
+                "w": 50
+            }
+        },
+        "interface/match/icon_crown.png": {
+            "frame": {
+                "x": 996,
+                "h": 15,
+                "y": 21,
+                "w": 14
+            }
+        },
+        "interface/match/powerup_bar_overlay_left.png": {
+            "frame": {
+                "x": 448,
+                "h": 16,
+                "y": 106,
+                "w": 186
+            }
+        },
+        "interface/match/powerup_bar_fill.png": {
+            "frame": {
+                "x": 822,
+                "h": 15,
+                "y": 106,
+                "w": 184
+            }
+        },
+        "interface/match/1.png": {
+            "frame": {
+                "x": 1008,
+                "h": 14,
+                "y": 106,
+                "w": 8
+            }
+        },
+        "interface/match/powerup_mask.png": {
+            "frame": {
+                "x": 806,
+                "h": 48,
+                "y": 130,
+                "w": 48
+            }
+        },
+        "interface/match/score_frame.png": {
+            "frame": {
+                "x": 240,
+                "h": 54,
+                "y": 130,
+                "w": 408
+            }
+        },
+        "interface/match/2.png": {
+            "frame": {
+                "x": 1006,
+                "h": 14,
+                "y": 86,
+                "w": 8
+            }
+        },
+        "interface/match/powerup_bar_mask.png": {
+            "frame": {
+                "x": 636,
+                "h": 15,
+                "y": 106,
+                "w": 184
+            }
+        },
+        "interface/match/powerup_bar_overlay_right.png": {
+            "frame": {
+                "x": 260,
+                "h": 16,
+                "y": 106,
+                "w": 186
+            }
+        },
+        "interface/match/6.png": {
+            "frame": {
+                "x": 1006,
+                "h": 14,
+                "y": 54,
+                "w": 8
+            }
+        },
+        "interface/match/achievement_background.png": {
+            "frame": {
+                "x": 260,
+                "h": 104,
+                "y": 0,
+                "w": 734
+            }
+        },
+        "interface/match/0.png": {
+            "frame": {
+                "x": 970,
+                "h": 14,
+                "y": 130,
+                "w": 8
+            }
+        },
+        "interface/match/skull.png": {
+            "frame": {
+                "x": 856,
+                "h": 43,
+                "y": 130,
+                "w": 44
+            }
+        },
+        "interface/match/powerup_glow.png": {
+            "frame": {
+                "x": 0,
+                "h": 128,
+                "y": 0,
+                "w": 128
+            }
+        },
+        "interface/match/9.png": {
+            "frame": {
+                "x": 996,
+                "h": 14,
+                "y": 38,
+                "w": 8
+            }
+        },
+        "interface/match/4.png": {
+            "frame": {
+                "x": 1006,
+                "h": 14,
+                "y": 70,
+                "w": 8
+            }
+        },
+        "interface/match/5.png": {
+            "frame": {
+                "x": 996,
+                "h": 14,
+                "y": 70,
+                "w": 8
+            }
+        },
+        "interface/match/challenge_frame.png": {
+            "frame": {
+                "x": 0,
+                "h": 39,
+                "y": 212,
+                "w": 396
+            }
+        },
+        "interface/match/avatar_overlay.png": {
+            "frame": {
+                "x": 240,
+                "h": 10,
+                "y": 186,
+                "w": 71
+            }
+        }
+    },
+    "meta": {
+        "image": "match.png"
+    }
+}

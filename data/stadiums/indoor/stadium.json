@@ -1,0 +1,104 @@
+{
+    "thumbnail": "thumbnail.jpg",
+    "filter": "filter.png",
+    "closed": true,
+    "restitution": 0.666666,
+    "ballFriction": 4,
+    "sprites": [
+        {"texture": "stadium.jpg", "position": [0, 0], "layer": "base", "scale": [1.25, 1.25]},
+
+        {"texture": "../common/goal.png", "position": [770, 1338], "frame": [73, 0, 141, 183], "layer": "bottom"},
+        {"texture": "../common/goal.png", "position": [4198, 1336], "frame": [216, 0, 141, 182], "layer": "bottom"},
+
+        {"texture": "../common/goal.png", "position": [901, 1344], "frame": [480, 0, 12, 114], "anchor": [0, 1], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [879, 1515], "frame": [0, 0, 34, 285], "anchor": [0, 1], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [694, 1338], "frame": [359, 0, 119, 138], "anchor": [0, 0.913], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [670, 1509], "frame": [359, 0, 119, 138], "anchor": [0, 0.913], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [4208, 1344], "frame": [494, 0, 11, 113], "anchor": [0, 1], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [4207, 1515], "frame": [36, 0, 35, 284], "anchor": [0, 1], "layer": "middle"},
+
+        {"texture": "../common/goal.png", "position": [4298, 1338], "frame": [0, 287, 123, 131], "anchor": [0, 0.954], "layer": "middle"},
+        {"texture": "../common/goal.png", "position": [4322, 1509], "frame": [0, 287, 123, 131], "anchor": [0, 0.954], "layer": "middle"},
+
+        {"texture": "wall_bottom_left.png", "position": [837, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom_right.png", "position": [4282, 2089], "anchor": [1, 1], "scale": [1, 1], "layer": "top"},
+
+        {"texture": "wall_left.png", "position": [883, 1510], "anchor": [0.625, 0.6251526251526252], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_right.png", "position": [4238, 1510], "anchor": [0.4027777777777778, 0.6323353293413174], "scale": [1, 1], "layer": "middle"},
+
+        {"texture": "wall_top_left.png", "position": [910, 461], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top_right.png", "position": [3684, 461], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+
+        {"texture": "wall_top.png", "position": [1438, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [1759, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [2080, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [2401, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [2722, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [3043, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+        {"texture": "wall_top.png", "position": [3364, 462], "anchor": [0, 0], "scale": [1, 1], "layer": "middle"},
+
+        {"texture": "wall_bottom.png", "position": [1277, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [1598, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [1919, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [2240, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [2561, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [2882, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [3203, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+        {"texture": "wall_bottom.png", "position": [3524, 2089], "anchor": [0, 1], "scale": [1, 1], "layer": "top"},
+
+        {"texture": "shadow.png", "position": [0, 0], "scale": [5, 5], "layer": "top"},
+
+        {"texture": "seat_0.png", "anchor": [0.57,0.62], "layer": "seats"},
+        {"texture": "seat_1.png", "anchor": [0.48,0.673], "layer": "seats"},
+        {"texture": "seat_2.png", "anchor": [0.487,0.823], "layer": "seats"},
+
+        {"texture": "../common/fans.png", "position": [0, 2560], "anchor": [0, 1], "scale": [5, 5], "layer": "top"}
+    ],
+    "indoor": true,
+    "walls": [{"start":[945,1033],"end":[956,991],"height":999,"restitution":0.666666},{"start":[956,991],"end":[977,950],"height":999,"restitution":0.666666},{"start":[977,950],"end":[1007,911],"height":999,"restitution":0.666666},{"start":[1007,911],"end":[1046,875],"height":999,"restitution":0.666666},{"start":[1046,875],"end":[1093,843],"height":999,"restitution":0.666666},{"start":[1093,843],"end":[1146,815],"height":999,"restitution":0.666666},{"start":[1146,815],"end":[1204,793],"height":999,"restitution":0.666666},{"start":[1204,793],"end":[1267,777],"height":999,"restitution":0.666666},{"start":[1267,777],"end":[1331,767],"height":999,"restitution":0.666666},{"start":[1331,767],"end":[1397,764],"height":999,"restitution":0.666666},{"start":[3723,764],"end":[3789,767],"height":999,"restitution":0.666666},{"start":[3789,767],"end":[3853,777],"height":999,"restitution":0.666666},{"start":[3853,777],"end":[3916,793],"height":999,"restitution":0.666666},{"start":[3916,793],"end":[3974,815],"height":999,"restitution":0.666666},{"start":[3974,815],"end":[4027,843],"height":999,"restitution":0.666666},{"start":[4027,843],"end":[4074,875],"height":999,"restitution":0.666666},{"start":[4074,875],"end":[4113,911],"height":999,"restitution":0.666666},{"start":[4113,911],"end":[4143,950],"height":999,"restitution":0.666666},{"start":[4143,950],"end":[4164,991],"height":999,"restitution":0.666666},{"start":[4164,991],"end":[4175,1033],"height":999,"restitution":0.666666},{"start":[3848,2085],"end":[3920,2082],"height":999,"restitution":0.666666},{"start":[3920,2082],"end":[3990,2072],"height":999,"restitution":0.666666},{"start":[3990,2072],"end":[4055,2056],"height":999,"restitution":0.666666},{"start":[4055,2056],"end":[4114,2034],"height":999,"restitution":0.666666},{"start":[4114,2034],"end":[4165,2006],"height":999,"restitution":0.666666},{"start":[4165,2006],"end":[4208,1974],"height":999,"restitution":0.666666},{"start":[4208,1974],"end":[4241,1938],"height":999,"restitution":0.666666},{"start":[4241,1938],"end":[4264,1899],"height":999,"restitution":0.666666},{"start":[4264,1899],"end":[4275,1858],"height":999,"restitution":0.666666},{"start":[4275,1858],"end":[4275,1816],"height":999,"restitution":0.666666},{"start":[845,1816],"end":[845,1858],"height":999,"restitution":0.666666},{"start":[845,1858],"end":[856,1899],"height":999,"restitution":0.666666},{"start":[856,1899],"end":[879,1938],"height":999,"restitution":0.666666},{"start":[879,1938],"end":[912,1974],"height":999,"restitution":0.666666},{"start":[912,1974],"end":[955,2006],"height":999,"restitution":0.666666},{"start":[955,2006],"end":[1006,2034],"height":999,"restitution":0.666666},{"start":[1006,2034],"end":[1065,2056],"height":999,"restitution":0.666666},{"start":[1065,2056],"end":[1130,2072],"height":999,"restitution":0.666666},{"start":[1130,2072],"end":[1200,2082],"height":999,"restitution":0.666666},{"start":[1200,2082],"end":[1272,2085],"height":999,"restitution":0.666666},{"start":[1397,764],"end":[3723,764],"height":999,"restitution":0.666666},{"start":[1272,2085],"end":[3848,2085],"height":999,"restitution":0.666666},{"start":[906,1339],"end":[945,1033],"height":999,"restitution":0.666666},{"start":[884,1510],"end":[845,1816],"height":999,"restitution":0.666666},{"start":[4236,1510],"end":[4275,1816],"height":999,"restitution":0.666666},{"start":[4214,1339],"end":[4175,1033],"height":999,"restitution":0.666666},{"start":[884,1510],"end":[906,1339],"height":999,"restitution":0.666666,"offset":105},{"start":[4214,1339],"end":[4236,1510],"height":999,"restitution":0.666666,"offset":105}],
+    "dirt": {
+        "depth": 0,
+        "max": "dirt_max.png",
+        "brushAlpha": 0.3,
+        "sprites": [
+            {"texture": "sand.jpg", "position": [0, 0], "scale": [1.25, 1.25]}
+        ]
+    },
+    "fans": {
+        "races": {
+            "arab": 0.2,
+            "african": 0.2,
+            "asian": 0.2,
+            "caucasian": 0.2,
+            "mulatto": 0.2
+        },
+        "teamRacesRatio": 0.5
+    },
+    "mirror": {
+        "hideRipples": true,
+        "globalAlpha": 0.5,
+        "renderTextureAlpha": 0.25,
+        "mask": "mirror_mask.png"
+    },
+    "sectors": [
+                [0, 95,2403, 317,633, 704,782, 483,2547, 33.24,11,0, 389,1123, 663,1231, 615,1607, 344,1502],
+                [1, 339,606, 1005,214, 968,600, 724,744, 40,11,0],
+                [2, 1049,203, 1490,203, 1490,587, 1020,587, 47,11,0.5],
+                [2, 1732,203, 3383,203, 3383,587, 1732,587, 47,11,0.5, 2351,337, 2764,337, 2764,590, 2351,590],
+                [2, 3630,203, 4071,203, 4091,587, 3630,587, 47,11,0.5],
+                [1, 4114,214, 4783,606, 4400,744, 4146,600, 40,11,0],
+                [0, 4804,633, 5028,2403, 4637,2547, 4416,782, 33.24,11,0, 4726,1125, 4772,1496, 4502,1601, 4454,1229],
+
+                [0, -212,1837, -51,534, 142,613, -21,1909, 47,7,0.5],
+                [1, -211,406, 1031,-324, 1014,103, 164,587, 40,11,0],
+                [2, 1068,16, 2435,16, 2435,90, 1068,90, 47,3,0.5],
+                [2, 2684,16, 4055,16, 4055,90, 2684,90, 47,3,0.5],
+                [1, 4085,-315, 5322,413, 4950,590, 4105,105, 40,11,0],
+                [0, 5171,541, 5333,1839, 5146,1916, 4984,622, 47,7,0.5]
+    ],
+    "podium": [
+        {"texture": "podium_background.png"}
+    ]
+}

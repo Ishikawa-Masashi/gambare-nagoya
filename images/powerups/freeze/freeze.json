@@ -1,0 +1,63 @@
+{
+    "frames": {
+        "powerups/freeze/ice_6.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_3.png": {
+            "frame": {
+                "x": 768,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_0.png": {
+            "frame": {
+                "x": 512,
+                "y": 256,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_4.png": {
+            "frame": {
+                "x": 512,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_2.png": {
+            "frame": {
+                "x": 0,
+                "y": 256,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_5.png": {
+            "frame": {
+                "x": 256,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            }
+        },
+        "powerups/freeze/ice_1.png": {
+            "frame": {
+                "x": 256,
+                "y": 256,
+                "w": 256,
+                "h": 256
+            }
+        }
+    },
+    "meta": {
+        "image": "ice.png"
+    }
+}

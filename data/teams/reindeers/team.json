@@ -1,0 +1,855 @@
+{
+    "rating": 1733,
+    "code": "RND",
+    "thumbnail": "thumbnail.png",
+    "flag": "flag.png",
+    "flag_thumbnail": "flag_thumbnail.png",
+    "continent": "europe",
+    "kits": {
+        "goalkeeper": {
+            "arm_left_sleeve": {
+                "name": "goalkeeper/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "goalkeeper/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "goalkeeper/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "goalkeeper/shirt_front.png",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52,
+                "color": "ffffffff"
+            },
+            "leg_left_shoe": {
+                "name": "goalkeeper/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "goalkeeper/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "goalkeeper/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "goalkeeper/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "goalkeeper/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "goalkeeper/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "000000ff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "goalkeeper/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            },
+            "hand_left_glove": {
+                "name": "goalkeeper/hand_left.png",
+                "x": 20.29,
+                "y": -0.1,
+                "rotation": 44.65,
+                "width": 26,
+                "height": 24
+            },
+            "hand_right_glove": {
+                "name": "goalkeeper/hand_right.png",
+                "x": 18.57,
+                "y": -0.32,
+                "rotation": 74.29,
+                "width": 26,
+                "height": 25
+            }
+        },
+        "home": {
+            "arm_left_sleeve": {
+                "name": "home/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "home/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "home/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "home/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "home/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "home/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "home/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "home/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "home/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "home/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "5e3a1bff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "home/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        },
+        "away": {
+            "arm_left_sleeve": {
+                "name": "away/sleeve_left.png",
+                "color": "ffffffff",
+                "x": 8.88,
+                "y": -2.01,
+                "rotation": 76.85,
+                "width": 14,
+                "height": 22
+            },
+            "arm_right_sleeve": {
+                "name": "away/sleeve_right.png",
+                "color": "ffffffff",
+                "x": 8.04,
+                "y": -1.78,
+                "rotation": 130.74,
+                "width": 23,
+                "height": 18
+            },
+            "shirt_back": {
+                "name": "away/shirt_back.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "shirt_front": {
+                "name": "away/shirt_front.png",
+                "color": "ffffffff",
+                "x": 24.8,
+                "y": 1.45,
+                "rotation": -88.19,
+                "width": 56,
+                "height": 52
+            },
+            "leg_left_shoe": {
+                "name": "away/shoes.png",
+                "color": "ffffffff",
+                "x": 4.62,
+                "y": 0.29,
+                "rotation": 0.35,
+                "width": 16,
+                "height": 6
+            },
+            "leg_left_shorts": {
+                "name": "away/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 2.61,
+                "y": 0.45,
+                "rotation": 80.83,
+                "width": 12,
+                "height": 16
+            },
+            "leg_left_sock": {
+                "name": "away/socks.png",
+                "color": "ffffffff",
+                "x": 6.76,
+                "y": 0.63,
+                "rotation": 110.26,
+                "width": 11,
+                "height": 14
+            },
+            "leg_right_shoe": {
+                "name": "away/shoes.png",
+                "color": "ffffffff",
+                "x": 3.8,
+                "y": -0.26,
+                "rotation": 4.17,
+                "width": 16,
+                "height": 6
+            },
+            "leg_right_shorts": {
+                "name": "away/shorts_leg.png",
+                "color": "ffffffff",
+                "x": 1.14,
+                "y": 0.39,
+                "rotation": 81.11,
+                "width": 12,
+                "height": 16
+            },
+            "leg_right_sock": {
+                "name": "away/socks.png",
+                "color": "ffffffff",
+                "x": 5.51,
+                "y": 0.76,
+                "rotation": 110.01,
+                "width": 11,
+                "height": 14
+            },
+            "number": {
+                "name": "../../player/kit/number.png",
+                "color": "367016ff",
+                "x": 17.18,
+                "y": 0.16,
+                "rotation": -89.44
+            },
+            "pelvis_shorts": {
+                "name": "away/shorts.png",
+                "color": "ffffffff",
+                "x": -1.27,
+                "y": 0.02,
+                "width": 55,
+                "height": 8
+            }
+        }
+    },
+    "id": "reindeers",
+    "kitColors": {
+        "home": "a25e0a",
+        "away": "f3c719",
+        "goalkeeper": "8e8e8e"
+    },
+    "players": [
+        {
+            "race": "reindeer",
+            "role": "G",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/58.png",
+                    "color": "402b1bff",
+                    "x": 43.75154964973579,
+                    "y": -6.014562305314564,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/43.png",
+                    "x": 39.81041132567123,
+                    "y": -6.717964407427777,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 36.807015658598246,
+                    "y": -8.21115376816112,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 36.81382243684077,
+                    "y": -5.211161490209397,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_06.png",
+                    "color": "ffffffff",
+                    "x": 51.482979193369566,
+                    "y": -7.5033840840005634,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_06_back.png",
+                    "color": "ffffffff",
+                    "x": 51.48751704553124,
+                    "y": -5.503389232032749,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_06.png",
+                    "x": 1.6271944941137155,
+                    "y": -51.37083034408925,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_06.png",
+                    "x": 3.6305927352027894,
+                    "y": -49.875372057275065,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_06.png",
+                    "x": 3.1305940222108357,
+                    "y": -49.87423759423465,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_06.png",
+                    "color": "ffffffff",
+                    "x": 31.000145373306257,
+                    "y": -60.22917261497905,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_06.png",
+                    "color": "ffffffff",
+                    "x": 11.156666080011751,
+                    "y": -38.392418604066435,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "reindeer",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/57.png",
+                    "color": "301d13ff",
+                    "x": 48.744730001412805,
+                    "y": -9.025899213670483,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/42.png",
+                    "x": 39.80700793654997,
+                    "y": -8.217960546403638,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 38.803607121444806,
+                    "y": -9.715687759298657,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 36.30588248256588,
+                    "y": -8.710018018112653,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_05.png",
+                    "color": "ffffffff",
+                    "x": 68.50789362198522,
+                    "y": 3.4580158584481366,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_05_back.png",
+                    "color": "ffffffff",
+                    "x": 72.47952174991035,
+                    "y": -9.05102767067406,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_05.png",
+                    "x": 1.1680364505768805,
+                    "y": -33.3697422133385,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_05.png",
+                    "x": 2.6839150721186202,
+                    "y": -26.373163620572413,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_05.png",
+                    "x": -1.316074631817008,
+                    "y": -26.36408791624905,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_05.png",
+                    "color": "ffffffff",
+                    "x": 30.996741984184997,
+                    "y": -61.72916875395491,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_05.png",
+                    "color": "ffffffff",
+                    "x": 12.170277062480697,
+                    "y": -32.394702974243835,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "reindeer",
+            "role": "D",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/56.png",
+                    "color": "38271eff",
+                    "x": 49.752668668679654,
+                    "y": -5.528177148807648,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/41.png",
+                    "x": 42.31494274279268,
+                    "y": -4.723641870662062,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 42.812672529703796,
+                    "y": -5.724773759686392,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 40.811921369042366,
+                    "y": -6.053568382852678,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_04.png",
+                    "color": "ffffffff",
+                    "x": 74.01468624313922,
+                    "y": 6.445529042955238,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_04_back.png",
+                    "color": "ffffffff",
+                    "x": 70.48179582402338,
+                    "y": -8.046492392528474,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_04.png",
+                    "x": 4.671430830641815,
+                    "y": -31.87768731564558,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_04.png",
+                    "x": 8.686168554102903,
+                    "y": -25.386779751073547,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_04.png",
+                    "x": 4.172566580690281,
+                    "y": -31.376554139613205,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_04.png",
+                    "color": "ffffffff",
+                    "x": 34.53190132938169,
+                    "y": -46.23714989248729,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_04.png",
+                    "color": "ffffffff",
+                    "x": 11.683891905973784,
+                    "y": -26.39358395529997,
+                    "rotation": -90.13
+                },
+                "face_accessory_1": {
+                    "name": "../../player/accessories/face/patch_01.png",
+                    "color": "ffffffff",
+                    "x": 16.27804075525622,
+                    "y": 15.096099055668395,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "reindeer",
+            "role": "M",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/55.png",
+                    "color": "2e1b0eff",
+                    "x": 46.74700407552583,
+                    "y": -8.021363935524896,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/40.png",
+                    "x": 39.804739010469135,
+                    "y": -9.217957972387545,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 40.30814111258235,
+                    "y": -7.719096296452104,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 38.80814497360649,
+                    "y": -7.715692907330845,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_03.png",
+                    "color": "ffffffff",
+                    "x": 74.00447607577544,
+                    "y": 1.9455406260276566,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_03_back.png",
+                    "color": "ffffffff",
+                    "x": 73.99540037145209,
+                    "y": -2.0544490779079716,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_03.png",
+                    "x": 5.688445202232021,
+                    "y": -24.37997554684712,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_03.png",
+                    "x": 5.69184859135328,
+                    "y": -22.879979407871257,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_03.png",
+                    "x": 0.17824919195675282,
+                    "y": -28.86748487033008,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_03.png",
+                    "color": "ffffffff",
+                    "x": 32.53190647741387,
+                    "y": -46.232612040325606,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_03.png",
+                    "color": "ffffffff",
+                    "x": 11.685026369014203,
+                    "y": -25.893585242308017,
+                    "rotation": -90.13
+                },
+                "face_accessory_1": {
+                    "name": "../../player/accessories/face/reindeer_moustache_01.png",
+                    "color": "ffffffff",
+                    "x": -4.839889346609502,
+                    "y": -36.85611964779714,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "reindeer",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/54.png",
+                    "color": "2e1c10ff",
+                    "x": 50.25607077079287,
+                    "y": -4.029315472872208,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/40.png",
+                    "x": 41.81607849284114,
+                    "y": -4.22250869462969,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 39.309278149638864,
+                    "y": -7.2168286573793115,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 40.31494789082487,
+                    "y": -4.719104018500382,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_02.png",
+                    "color": "ffffffff",
+                    "x": 70.4999472326701,
+                    "y": -0.04651298465721785,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_02_back.png",
+                    "color": "ffffffff",
+                    "x": 70.48406475010422,
+                    "y": -7.046494966544567,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_02.png",
+                    "x": 1.671438552690094,
+                    "y": -31.87088053740306,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_02.png",
+                    "x": 1.1691709136173003,
+                    "y": -32.869743500346544,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_02.png",
+                    "x": 3.6748367937791673,
+                    "y": -30.375422250588883,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_02.png",
+                    "color": "ffffffff",
+                    "x": 38.02168215296159,
+                    "y": -50.74507955069781,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_02.png",
+                    "color": "ffffffff",
+                    "x": 12.181621692884898,
+                    "y": -27.3947158443243,
+                    "rotation": -90.13
+                }
+            }
+        },
+        {
+            "race": "reindeer",
+            "role": "A",
+            "skin": {
+                "eyebrows": {
+                    "name": "../../player/eyebrows/53.png",
+                    "color": "2e200eff",
+                    "x": 52.750392020550535,
+                    "y": -6.534981353034075,
+                    "rotation": -90.13
+                },
+                "eyes": {
+                    "name": "../../player/eyes/38.png",
+                    "x": 42.31494274279268,
+                    "y": -4.723641870662063,
+                    "rotation": -90.13
+                },
+                "eyes_closed": {
+                    "name": "../../player/eyes/closed/closed.png",
+                    "x": 37.80701308458215,
+                    "y": -8.213422694241958,
+                    "rotation": -90.13,
+                    "width": 38,
+                    "height": 12
+                },
+                "eyes_dead": {
+                    "name": "../../player/eyes/dead/dead.png",
+                    "x": 38.807010510566066,
+                    "y": -8.215691620322797,
+                    "rotation": -90.13,
+                    "width": 60,
+                    "height": 40
+                },
+                "hair_front": {
+                    "name": "../../player/hair/reindeer_01.png",
+                    "color": "ffffffff",
+                    "x": 61.01698863142928,
+                    "y": 7.475022507990064,
+                    "rotation": -90.13
+                },
+                "hair_back": {
+                    "name": "../../player/hair/reindeer_01_back.png",
+                    "color": "ffffffff",
+                    "x": 61.98862448140269,
+                    "y": -5.027214242889615,
+                    "rotation": -90.13
+                },
+                "mouth_normal": {
+                    "name": "../../player/mouth/reindeer_01.png",
+                    "x": 6.194116230426074,
+                    "y": -21.88111644492777,
+                    "rotation": -90.13
+                },
+                "mouth_smile": {
+                    "name": "../../player/mouth/smile/reindeer_01.png",
+                    "x": 8.188438767191789,
+                    "y": -24.38564786204922,
+                    "rotation": -90.13
+                },
+                "mouth_dead": {
+                    "name": "../../player/mouth/dead/reindeer_01.png",
+                    "x": 4.19412137845826,
+                    "y": -21.87657859276609,
+                    "rotation": -90.13
+                },
+                "nose": {
+                    "name": "../../player/nose/reindeer_01.png",
+                    "color": "c24c85ff",
+                    "x": 32.514889531807576,
+                    "y": -53.73259273520492,
+                    "rotation": -90.13
+                },
+                "face_accessory_2": {
+                    "name": "../../player/accessories/face/reindeer_muzzle_01.png",
+                    "color": "ffffffff",
+                    "x": 8.179363062868433,
+                    "y": -28.385637565984858,
+                    "rotation": -90.13
+                }
+            }
+        }
+    ]
+}

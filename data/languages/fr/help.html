@@ -1,0 +1,116 @@
+<div>
+<p>Kopanito est un jeu d'adresse.  Cela signifie que vous devez apprendre au fil du temps les mécaniques de jeu (comme dans la réalité).  Vous deviendrez un meilleur joueur en développant votre précision et vos réflexes.  Il n'y a de place pour la chance dans Kopanito.  Ni pour les statistiques de joueur.  Les stats, c'est vous et le meilleur joueur gagne.</p>
+
+
+<figure><img src="file://{{ 'help/dribbling.png'|file }}"></figure><p>Utilisez <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> pour déplacer votre joueur (celui avec un cercle).</p>
+<p>{{ 'pass'|action }} Passe au sol<br>{{ 'togglePlayer'|action }} Changement de joueur<br>{{ 'shoot'|action }} Tir (maintenir enfoncé pour le mode tir de précision)<br>{{ 'header'|action }} Tir en l'air (maintenir quand sous le ballon)<br>{{ 'slide'|action }} Tacle glissé<br>{{ 'lob'|action }} Lob (maintenir enfoncé pour plus de puissance)<br></p>
+
+
+<h2>Faire une passe</h2>
+<p>Il y a deux façons de faire une passe: une passe au sol et une passe aérienne.</p>
+
+<h3>Passe au sol</h3>
+<figure><img src="file://{{ 'help/ground_pass.png'|file }}"><figcaption><p>Appuyez sur {{ 'pass'|action }}</p>
+    </figcaption></figure><p>Pour faire une passe au sol, appuyez sur {{ 'pass'|action }} et utilisez <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>pour indiquer la direction du tir.  Le joueur à la réception sera selectionné automatiquement.</p>
+
+<h3>Passe lobée</h3>
+<figure><img src="file://{{ 'help/lob_pass.png'|file }}"><figcaption><p>Maintenir {{ 'lob'|action }}</p>
+    </figcaption></figure><p>Pour faire une passe lobée, maintenez {{ 'lob'|action }} et utilisez  <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> pour indiquer la direction du tir.  Le joueur à la réception sera sélectionné automatiquement.</p>
+
+<h3>Passes assistées vs manuelles</h3>
+<p>Lors d'une passe assistée, un joueur contrôlé par l'IA prend la balle (si possible).  C'est la passe par défaut dans ce jeu.</p>
+<p>Les passes assistées permettent plusieurs actions à la suite, par ex. faire une autre passe ou tirer et ce avant que le joueur ne reçoive le ballon.  Essayez en mode entrainement.</p>
+<p>Les passes manuelles vous permettent de faire une passe dans une direction précise et de contrôler le joueur qui reçoit le ballon.  Le jeu en l'air peut également s'utiliser avec les passes manuelles.</p>
+<p>Pour faire une passe manuelle, maintenez la touche de modification de passe {{ 'passModifier'|action }} quand vous tapez dans le ballon.</p>
+<p>Note: Faire une tête ou un coup de pied retourné en mode assisté est impossible dans la plupart des cas.  Pour cela, une passe lobée manuelle est requise.</p>
+<p>Note 2: Utiliser seulement des passes assistées pour essayer de batter l'IA en mode Professionnel ou Légende n'est pas une bonne idée.  Vous voila prévenu.</p>
+
+
+<h2>Tir</h2>
+<p>Pour tirer, appuyez sur {{ 'shoot'|action }}. Il y a plusieurs façons d'effectuer un tir, décrites ci-dessous.</p>
+
+<h3>Tir direct</h3>
+<figure><img src="file://{{ 'help/direct_shot.png'|file }}"><figcaption><p>Appui bref sur {{ 'shoot'|action }}</p>
+    </figcaption></figure><p>By quickly pressing {{ 'shoot'|action }}, your player will make a sort of an automatic shot in the best direction according to him. The kick won’t be strong, this type of shot is best used if you manage to lure an opponent’s goalkeeper out of his goal.</p>
+
+<h3>Contrôle et tir</h3>
+<figure><img src="file://{{ 'help/chip_shot.png'|file }}"><figcaption><p>Maintenir {{ 'shoot'|action }} quand vous courrez dans le ballon.</p>
+    </figcaption></figure><p>Ce tir est bien plus puissant qu'un tir direct, mais la direction du tir est toujours automatique.  Il peut être exécuté quand personne ne possède le ballon.</p>
+
+<h3>Tir précis</h3>
+<figure><img src="file://{{ 'help/precise_shot.png'|file }}"><figcaption><p>Maintenir {{ 'shoot'|action }}</p>
+    </figcaption></figure><p>En maintenant enfoncé le bouton de tir, vous passez au tir précis pour lequel vous pouvez régler la direction à l'aide de <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> et donner de l'effet au ballon. Plus vous maintenez la touche enfoncée, plus le tir sera puissant.</p>
+<figure><img src="file://{{ 'help/swerve.png'|file }}"><figcaption><p>Maintenir {{ 'swerveUp'|action }} ou {{ 'swerveDown'|action }}</p>
+    </figcaption></figure><p>La ligne de visée peut être courbée en maintenant enfoncées les touches{{ 'swerveUp'|action }}  ou  {{ 'swerveDown'|action }} de manière à donner de l'effet au ballon. Idéal pour tromper le gardien adverse ou quand l'angle de tir est réduit.</p>
+<p>Note: un tir puissant peut renverser d'autres joueurs, y compris un gardien.</p>
+
+
+<h2>Tacle glissé</h2>
+<figure><img src="file://{{ 'help/slide_tackle.png'|file }}"><figcaption><p>Appuyer sur {{ 'slide'|action }}</p>
+    </figcaption></figure><p>Appuyez sur la touche {{ 'slide'|action }}  pour exécuter un tacle glissé dans la direction de votre déplacement.  C'est une technique de défense très efficace, mais elle demande une grande précision, particulièrement quand vous tentez de renverser un adversaire en mouvement.  D'accord, viser ses adversaires au lieu du ballon est une tactique surprenante et perfide, mais essayez par exemple de prévoir la prochaine passe de votre adversaire et fauchez le joueur à qui la passe est destinée.</p>
+<p>Le tacle glissé peut être également utilisé pour "courir" plus vite (sans le ballon), pour marquer un but en débordant le gardien ou pour contrer des tirs précis.</p>
+
+
+<h2>Jeu en l'air</h2>
+<figure><img src="file://{{ 'help/header.png'|file }}"><figcaption><p>Sous le ballon, maintenir {{ 'header'|action }} </p>
+    </figcaption></figure><p>Vous pouvez effectuer une tête puissante ou un bicyclette lorsque la balle est en l'air et que, près d'elle, vous maintenez {{ 'header'|action }}.  Comme au tir direct, la direction du tir est automatique.</p>
+<p>N'oubliez pas, vous pouvez utilisez ce geste en défense, quand un adversaire fait une passe latérale dans la surface de réparation par exemple.</p>
+
+
+<h2>Super-coups</h2>
+<p>Dans la partie supérieure de l'écran il y deux barres de compétences qui se remplissent pendant le jeu.  Une barre est la vôtre, l'autre est celle de votre adversaire.  Quand elle est remplie vous recevez un super-coup aléatoire et un icone brillant apparait.</p>
+<p>Pour activer un super-coup, appuyez sur {{ 'powerup'|action }}. Selon le super-coup vous devrez peut être maintenir la touche enfoncée.</p>
+<p>Certains super-coups permettent de contrer ceux de l'adversaire.</p>
+
+<h3>Aimant à ballon</h3>
+<figure><img src="file://{{ 'help/magnet.png'|file }}"><figcaption><p>Appuyez sur {{ 'powerup'|action }}</p>
+    </figcaption></figure><p>Utilisez ce super-coup pour attirer le ballon vers le joueur contrôlé.  Idéal pour surprendre, ce mouvement peut s'utiliser en attaque ou en défense.</p>
+
+<h3>Téléportation</h3>
+<figure><img src="file://{{ 'help/teleport.png'|file }}"><figcaption><p>Maintenez {{ 'powerup'|action }} pour viser et relachez pour se téléporter</p>
+    </figcaption></figure><p>Maintenez enfoncée la touche {{ 'powerup'|action }} et un curseur apparait.  Relacher la touche téléporte le joueur contrôlé à l'endroit marqué.  Vous pouvez vous téléporter dans les buts adverses avec le ballon.  Peut s'utiliser pour bloquer un tir adversaire.  Note: un adversaire pour vous prendre le ballon pendant que vous visez.</p>
+
+<h3>Super-tir</h3>
+<figure><img src="file://{{ 'help/supershot.png'|file }}"><figcaption><p>Appuyez sur {{ 'powerup'|action }} pour tirer et utilisez <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span> pour contrôler le ballon.</p>
+    </figcaption></figure><p>Après ce tir très puissant, vous pourrez contrôler la balle en utilisant <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>.
+Par contre, évitez de toucher d'autres joueurs pour ne pas ralentir le ballon.  Avec le super-tir, marquer depuis votre moitié de terrain n'est pas impossible.</p>
+
+<h3>Ventilateur</h3>
+<figure><img src="file://{{ 'help/windmaker.png'|file }}"><figcaption><p>Appuyez sur {{ 'powerup'|action }} pour l'utiliser.</p>
+    </figcaption></figure><p>Le souffle du ventilateur éloigne le ballon de vos buts.  Utilisez-le pour contrer les tirs adverses.  Il dure plusieurs secondes.  Utilisé à temps, il pourra bloquer le super-tir.</p>
+
+<h3>Congélation</h3>
+<figure><img src="file://{{ 'help/freeze.png'|file }}"><figcaption><p>Maintenez {{ 'powerup'|action }} pour charger et relachez pour immobiliser les joueurs alentours.</p>
+    </figcaption></figure><p>Congélation immobilise les joueus alentours (y compris les vôtres) pour quelques secondes.  Pris dans le rayon de congélation, le ballon est arrêté.  Utile pour annuler les tirs adverses.</p>
+<p>Vous pouvez décongeler vos coéquipers en les taclant.</p>
+
+
+<h3>Tesla-coptère</h3>
+<figure><img src="file://{{ 'help/tesla.png'|file }}"><figcaption><p>Appuyez sur {{ 'powerup'|action }} pour activer et appuyez à nouveau pour envoyer une décharge.</p>
+    </figcaption></figure><p>Le Tesla-coptère suit le joueur en possession de la balle et lui permet d'électrocuter les adversaires dans le rayon.  Il dispose de 4 charges, après quoi le tesla-coptère s'envole.</p>
+<p>Important: si vous perdez la balle, vous perdez le tesla-coptère.</p>
+
+
+<h2>Le gardien de but</h2>
+<figure><img src="file://{{ 'help/goalkeeper_slide.png'|file }}"><figcaption><p>Appuyez sur  {{ 'goalkeeperSlide'|action }}</p>
+    </figcaption></figure><p>Les gardiens de but sont contrôlés uniquement par l'IA.  Proches du ballon, ils essaieront de l'attraper ou de l'intercepter. Vous pouvez leur faire executer un tacle glissé en utilisant {{ 'goalkeeperSlide'|action }}.  Mais faites attention.  Quand un gardien tacle, il le fait toujours en direction du ballon et si le ballon se déplace rapidement, le gardien le manquera la plupart du temps. </p>
+<p>Quand votre gardien est en possession du ballon, vous pouvez faire une passe ou une passe lobée en utlisant les touches correspondantes ({{ 'pass'|action }} et {{ 'lob'|action }}). Notez que vous avez un temps limité de 3 secondes pour cela. Si vous ne faites pas de passe dans le temps imparti, l'IA prend le contrôle de votre gardien.</p>
+<p>Un gardien est protégé contre les tacles glissés mais ne peut pas se déplacer avec le ballon.</p>
+
+
+<h2>Techniques avancées</h2>
+<h3>Sprinter</h3>
+<p>Maintenez enfoncé {{ 'sprint'|action }} pour sprinter.  Cela ne fonctionne que pour les joueurs qui n'ont pas le  ballon.  Les joueurs n'ont pas d'endurance et ne se fatiguent jamais.  Le sprint est donc illimité.</p>
+
+<h3>Progresser balle au pied</h3>
+<figure><img src="file://{{ 'help/push_forward.png'|file }}"></figure><p>Avancer balle au pied en pressant rapidement {{ 'pass'|action }}.  Cela ne fonctionne qui s'il n'y a aucun coéquipier devant votre joueur.  Vous pouvez rattraper la balle en sprintant.</p>
+
+<h3>Changer de joueurs.</h3>
+<figure><img src="file://{{ 'help/change_player.png'|file }}"></figure><p>Au moment de changer de joueur en pressant {{ 'togglePlayer'|action }}, faites attention à indiquer la direction du joueur que vous voulez par rapport au ballon en utilisant les touches <span class="grid middle">{{ 'up'|action }}{{ 'down'|action }}{{ 'left'|action }}{{ 'right'|action }}</span>.  Si le joystick de gauche est centré ou que vous n'avez pressé aucune flèche, le jeu choisira le joueur le plus proche de la balle.</p>
+
+<h3>Reprise de volée</h3>
+<figure><img src="file://{{ 'help/lob_score.png'|file }}"></figure><p>Vous pouvez lober le gardien en pressant rapidement la touche {{ 'lob'|action }}.  Efficace quand le gardien de votre adversaire sort de ses buts.</p>
+
+<h3>Autres astuces</h3>
+<figure><img src="file://{{ 'help/dribbling.png'|file }}"></figure><p>Un joueur qui a le ballon est plus lent et ne peut pas sprinter.  Si l'adversaire rentre en contact avec le ballon quand vous dribblez, il vous le prendra.  Bien sûr le joueur qui a le ballon peut être renversé par un tacle glissé précis.  Pour garder le contrôle de la balle il faut donc être rapide et précis.  Si vous avez du mal à dribbler, faites plus de passes.  Un ballon en mouvement est généralement plus rapide que n'importe quel adversaire.</p>
+</div>
