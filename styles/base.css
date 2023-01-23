@@ -4,30 +4,8 @@
 html {
   overflow: hidden;
   -ms-overflow-style: auto;
-  font: 10px/1.5 /* 15px */ 'Mikodacs', 'Noto Sans CJK', 'Arial', 'Helvetica',
-    sans-serif;
+  font: 10px/1.5, 'UD デジタル 教科書体 NK-B', sans-serif;
 }
-body {
-  min-height: 100%;
-  background: #000;
-  color: #fff;
-  font-size: 18px;
-  margin: 0;
-  padding: 0;
-}
-
-body * {
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  /* margin: 0; */
-  /* padding: 0; */
-  text-overflow: ellipsis;
-  list-style: none;
-}
-
-/* body * {
-  text-shadow: 0 0 2px #000, 0 0.05em 0.05em #000;
-} */
 
 a {
   text-decoration: none;

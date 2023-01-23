@@ -8,6 +8,8 @@
     />
     <title>Soccer</title>
 
+    <link rel="icon" href="./icons/Soccerball.svg" type="image/svg+xml" />
+
     <link href="./styles/variables.css" rel="stylesheet" />
     <link href="./styles/base.css" rel="stylesheet" />
     <link href="./styles/columns.css" rel="stylesheet" />
@@ -18,9 +20,8 @@
     <link href="./styles/grid.css" rel="stylesheet" />
     <link href="./styles/wysiwyg.css" rel="stylesheet" />
     <link href="./styles/main.css" rel="stylesheet" />
-    <!-- <link href="dist/style.css" rel="stylesheet" /> -->
-    <script type="module" crossorigin src="./assets/index.0231d720.js"></script>
-    <link rel="stylesheet" href="./assets/index.15a82f83.css">
+    <script type="module" crossorigin src="./assets/index.ce5b47db.js"></script>
+    <link rel="stylesheet" href="./assets/index.ba1cb179.css">
   </head>
   <body class="loading">
     <div id="gui" class="gui">
@@ -102,29 +103,6 @@
     </dl>
 
     <div id="root"></div>
-    <script type="application/vnd.nebula-settings+json">
-      {
-        "DATA_PREFIX": "data",
-        "DEBUG": false
-      }
-    </script>
-    <script>
-      (function () {
-        window.onerror = function (message, source, lineno, colno) {
-          var match = source.match(/chrome-extension:\/\/[a-z]+\/(.*)/);
-          if (match) source = match[1];
-          var error =
-            message + '\n' + 'File: ' + source + '@' + lineno + ',' + colno;
-          // window.location = 'error.html?error=' + encodeURIComponent(error);
-        };
-
-        // Prevent default behavior from changing page on dropped file
-        window.ondrop = window.ondragover = function (e) {
-          e.preventDefault();
-          return false;
-        };
-      })();
-    </script>
     <script src="lib/pixi.js"></script>
     <script src="lib/messageformat.js"></script>
     
